@@ -34,7 +34,7 @@
 				"image": "",
 				"status": "final",
 				"links": "",
-				"note": "Арзив с игрой был утерян."
+				"note": "Архив с игрой был утерян."
 			}, {
 				"name": "War of Color",
 				"genre": "Zero Player Game",
@@ -44,6 +44,9 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDbXEtVV9mYjJkVEk",
 					"yadisk": "OvNDewR834SLqt"
+				},
+				"other-links": {
+					"gamejolt": "war-of-color/128253"
 				}
 			}
 		],

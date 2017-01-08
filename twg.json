@@ -119,13 +119,19 @@
 		"games": [
 			{
 				"name": "Space Time Continuum",
-				"genre": "adventure",
+				"genre": "Adventure",
 				"description": "После неизвестных событий мы оказываемся в заброшенном мире. В попытках понять что здесь происходит мы находим странный прибор для перемещения во времени, с помощью которого можно перенестись в прошлое, и вернутся домой.",
 				"image": "",
 				"status": "1",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDR3NwNmVlRzZ0b3M",
 					"yadisk": "nNuZTkFt32m79f"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDVGk4LVlUVjJwWVk",
+						"yadisk": "CJhSo71A37ndSD"
+					}
 				}
 			}, {
 				"name": "Psychophobia",
@@ -136,6 +142,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDZHJCNWdlVWE5VTQ",
 					"yadisk": "6fwxWwqQ32m7iU"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDVmI0T3lhanFfOEU",
+						"yadisk": "P-bjH7ak37ndrV"
+					}
 				}
 			}, {
 				"name": "Большой трип в старый Омск",
@@ -146,6 +158,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDSVIydktVcTJzQ1U",
 					"yadisk": "mf68LZHx32m7pJ"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDUDM1VllxTlhnNzA",
+						"yadisk": "_7ud82i237neAc"
+					}
 				}
 			}, {
 				"name": "Атмос",
@@ -155,6 +173,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDZks0akE0ODBiUjA",
 					"yadisk": "dy-mrivn32mDoH"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDVW92WUE2YlcwY2c",
+						"yadisk": "EUfAUe8v37neJJ"
+					}
 				}
 			}, {
 				"name": "DForest",
@@ -165,6 +189,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDXzlra0ppcWZneU0",
 					"yadisk": "pHYa98Y032mE2m"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDRWtxWi04dmVpUU0",
+						"yadisk": "ciB0KvGY37nfFG"
+					}
 				}
 			}, {
 				"name": "За 2300 световых лет",
@@ -175,6 +205,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDTnRSemxnamJYN1E",
 					"yadisk": "ce1fWcY232mEbk"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDU193VXhIU3N6ZWM",
+						"yadisk": "YEVnTzns37nfYT"
+					}
 				}
 			}, {
 				"name": "Anonn7",
@@ -185,6 +221,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDUDQtWVpUYUZraEk",
 					"yadisk": "IcVdLZ8U32mEuA"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDU3dUMk9PWVUwVzQ",
+						"yadisk": "MqyyujQa37nfib"
+					}
 				}
 			}, {
 				"name": "DEADOIL",
@@ -195,6 +237,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNHI1SzkydjBRSFk",
 					"yadisk": "BswbdXh-33zYuy"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDU1k5M3lFUXBReU0",
+						"yadisk": "Cz9gLJ7y37nftM"
+					}
 				}
 			}, {
 				"name": "Dark Side of the Dark Side",
@@ -214,6 +262,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDVmpMTXE4ZG1RSHM",
 					"yadisk": "wPuDzkPX33zYzx"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDZjNfYnUwWkx3ZW8",
+						"yadisk": "nzDOtsml37ngQA"
+					}
 				}
 			}, {
 				"name": "Ludo",
@@ -224,6 +278,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDQkVSWHJGLU5GMHM",
 					"yadisk": "v6JjCU2S33zZ3E"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDZ3hDVUU3QVp5LUE",
+						"yadisk": "_216d_K537nhNs"
+					}
 				}
 			}, {
 				"name": "Mars Ethereal",
@@ -234,6 +294,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNTVVNHVoVmowUm8",
 					"yadisk": "BEGOLc6h33zZvB"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDaWZaQk1OdXBpVEU",
+						"yadisk": "d3GOnpSz37nhcu"
+					}
 				}
 			}, {
 				"name": "My Native Foreign Land",
@@ -244,6 +310,13 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDc2NaalpfelQ2cGs",
 					"yadisk": "REyr4iFG33zZx7"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDa2trcmdndkU2V28",
+						"yadisk": "JkykDK9937nhzK"
+					},
+					"gamejolt": "games/my-native-foreign-land/59792"
 				}
 			}, {
 				"name": "Oneiros",
@@ -253,15 +326,28 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDRFIyMGZFbTZjZkU",
 					"yadisk": "98wFohq-33za3y"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDX3o1b0pkVUo2V0k",
+						"yadisk": "h3Pr6YYe37ni8c"
+					}
 				}
 			}, {
 				"name": "Догнать время",
+				"demo_name": "Project Cannon",
 				"description": "Вторая промышленная революция подарила миру множество инноваций, таких как телеграф и электричество. Научно-технический прогресс стремительно изменяет жизнь людей...\nА тем временем, молодой человек в поисках родителей приезжает в незнакомую страну. Он обнаруживает их старый дом в запустении. Чтобы встретиться с семьей, ему предстоит последовать за своими родителями и догнать время.",
 				"image": "",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDMjFYTXFlOWoyc1U",
 					"yadisk": "O_MUC0KW33zaK9"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDUktqQUlqOU0xT0k",
+						"yadisk": "xQzRw-GY37njWd"
+					}
 				}
 			}, {
 				"name": "Push It",
@@ -272,6 +358,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDMkFOTzk1UUc5Ukk",
 					"yadisk": "gvCJTMkV33za4p"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDRXRvWFU1S0I5YXc",
+						"yadisk": "QPk9169-37njkK"
+					}
 				}
 			}, {
 				"name": "Railgalique",
@@ -285,13 +377,19 @@
 				}
 			}, {
 				"name": "School №6",
-				"genre": "horror",
+				"genre": "Horror",
 				"description": "1974 год, охранник ононист насилует школьниц и школьников, трахает себя банкой и снимает это на видео, на вдруг, пришелец, нам рассказывает об этом, показав видео и мы должны раследовать это дело.",
 				"image": "",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDVHdQSXZRQ3VqR0k",
 					"yadisk": "ZezWzQNh33za62"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDZFBuRHJzMmVvWmM",
+						"yadisk": "jS4br-oY37nkTX"
+					}
 				}
 			}, {
 				"name": "Space Expedition",
@@ -302,6 +400,16 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDcXZxeExmX212LW8",
 					"yadisk": "lw-TDFoG33za7X"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDSnVXc2xvWUxNV2M",
+						"yadisk": "DtDkeY7C37nm2K"
+					},
+					"store": {
+						"gplay": "com.mobirate.spaceexpedition.gplay",
+						"itunes": "930424778"
+					}
 				}
 			}, {
 				"name": "Бункер",
@@ -311,6 +419,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDSVlXYno5NWJDNzg",
 					"yadisk": "AO8QL72V33za8A"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDcnJhVzZadFpjV28",
+						"yadisk": "YGoUVgEs37nmGy"
+					}
 				}
 			}, {
 				"name": "The Changeling",
@@ -321,6 +435,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNGJwRmF2eWxfWms",
 					"yadisk": "LxAn7vYy33zaEU"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDSzhrZGlOeEh2Vnc",
+						"yadisk": "JbZWGoo_37nmgM"
+					}
 				}
 			}, {
 				"name": "Time Povis",
@@ -331,18 +451,30 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDMlNaTjk0UTRfZGs",
 					"yadisk": "X5B1XzdL33za9s"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDQ2hIdGJUUW9CTzQ",
+						"yadisk": "DtYRHLFZ37nmvZ"
+					}
 				}
 			}, {
-				"name": "TW2_PP",
+				"name": "Pinkie Portals",
 				"description": "2D аркада с видом сбоку. Пинки бежит по случайному уровню к порталу.",
 				"image": "",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDSnlETTNIbllwaGs",
 					"yadisk": "vEidZ5_n33zaE8"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDU1FyMkJiVUdmc2c",
+						"yadisk": "-mMZJU5Y37nn77"
+					}
 				}
 			}, {
-				"name": "НУПКБМВЗДСП",
+				"name": "Унылые Приключения Какого-то Безымянного Мужика В Заброшенном Доме С Привидениями",
 				"genre": "платформер/паззл/экшн",
 				"description": "Ходишь, стреляешь, собираешь монетки. Можно прыгать.",
 				"image": "",
@@ -350,6 +482,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDdGpYaEJ1STd1RHM",
 					"yadisk": "qSj1mpX933zZyi"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDZXpjMVZQM1dubDQ",
+						"yadisk": "1rAi6M4D37nnWi"
+					}
 				}
 			}, {
 				"name": "Спаси кота",
@@ -360,6 +498,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDdjV1TTJkd0VLQm8",
 					"yadisk": "aW3GFuC333zaFD"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDamM3VlN5eFBBTE0",
+						"yadisk": "QFgeSqxy37noLV"
+					}
 				}
 			}, {
 				"name": "Шмапчик",
@@ -370,16 +514,28 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNjlQbFd4SzdEa1E",
 					"yadisk": "UACGTkT732mEYy"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDWnhlOXVoM1pwU00",
+						"yadisk": "6Y4SSgLj37noZY"
+					}
 				}
 			}, {
 				"name": "Nowhere Warrior",
-				"genre": "шутер на колёсах",
+				"genre": "Шутер на колёсах",
 				"description": "С тех пор, как произошла Катастрофа жизнь круто изменилось. Никто до сих пор и не знает что именно случилось, но лишь ультрасовременные города, оснащенные экранирующим куполом остались нетронуты. За ними - безжизненная пустошь.\nВолею судьбы главному герою приходится покинуть родной островок цивилизации и отправиться в неизведанные земли.",
 				"image": "",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDa3JUNHFSMG1sNHM",
 					"yadisk": "2J4KOH1h33zaHP"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDbjBMajhiRVVpNlU",
+						"yadisk": "__ahDftU37nonR"
+					}
 				}
 			}, {
 				"name": "Godspeed",
@@ -390,10 +546,16 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDTm4wMUU0SlVYN1k",
 					"yadisk": "LzOdNNH233zZst"
+				},
+				"other-links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDU2pLcnpjdHA5MTA",
+						"yadisk": "PFjkHTwG37npDm"
+					}
 				}
 			}
 		],
-		"note": "Игр, представленных только на демо-стадии, здесь нет."
+		"note": "Игр, представленных только на демо-стадии, здесь нет (пока что)."
 	},
 	"3": {
 		"start": 1387825200,
@@ -451,7 +613,8 @@
 					"demo": {
 						"gdrive": "0B5M4fMX1HJxDalNLTkJMRWxBQVU",
 						"yadisk": "V6eu6AoTyJTBN"
-					}
+					},
+					"gamejolt": "absurdation/59747"
 				}
 			}, {
 				"name": "ZA XIII",
@@ -703,7 +866,479 @@
 		"theme": "Выбор",
 		"description": "Мы каждый день делаем выбор. Встать на работу или проспать, познакомиться с няшей или зафейлить, пробежаться или съесть бургер. Выбор всегда тяжел и неочевиден. Часто ты понимаешь, что сделал выбор, когда уже поздно. Выбор определяет твою жизнь, ты выбираешь, со щитом или на щите. Даже сейчас в эту минуту ты выбираешь.",
 		"site": "https://twoweeksgame6.blogspot.ru",
-		"games": []
+		"games": [
+			{
+				"name": "Supermassive",
+				"genre": "Приключение/визуальная новелла",
+				"description": "Центральное командование потеряло связь со своей исследовательской станцией Севастополь. На выяснение обстоятельств послан отряд под капитана Кикстартера.",
+				"image": "",
+				"status": "1",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDek9JcWdSWnFpdVk",
+					"yadisk": "nxgWlVsU37n5cD"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDSDJPTERjQ05ySEE",
+						"yadisk": "UfWrq4ad37nSGz"
+					}
+				}
+			}, {
+				"name": "Japanese for beginners",
+				"genre": "TRPG",
+				"description": "Игра содержит пролог и первую главу приключений агента Службы Международных Операций в Японии Андрея Овидиева. Есть робо-лоля.",
+				"image": "",
+				"status": "2",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDZnRQYVB4eHoxREU",
+					"yadisk": "5tGmeCFJ37n5gZ"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDX1I1VWh2WXFJam8",
+						"yadisk": "oZ-MUNj937nSjP"
+					}
+				}
+			}, {
+				"name": "Apparatus technology",
+				"genre": "Платформер/шутер",
+				"description": "Главный герой пять лет отработал агентом на могущественную компанию. Его режили устранить.",
+				"image": "",
+				"status": "3",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDTERTQlY5cXRUMEk",
+					"yadisk": "741S8iOA37n5uW"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDWmtOWi04REdERVk",
+						"yadisk": "2F_ZQx_v37nTQM"
+					},
+					"gamejolt": "apparatus-technology/107104"
+				}
+			}, {
+				"name": "ЦВЕТОВЫБОР",
+				"genre": "Аркада",
+				"description": "Ваша задача - не допустить заполнения игрового поля разноцветными кубами.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDWmtHbHZJZGFYSW8",
+					"yadisk": "_WyzZWyi37n8HM"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDYk03QVc3VHQxMUE",
+						"yadisk": "OlmExFwy37nTib"
+					}
+				}
+			}, {
+				"name": "ПеКа",
+				"genre": "roguelike/dungeon crawler/platformer/runner/danmaku/idle/clicker/god sim/rhythm/TBS/date sim/fighting/tower defense/visual novel",
+				"description": "В зависимости от выбора персонажа меняется геймплей.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDMHZpVktmcFJyRm8",
+					"yadisk": "H2DzV8XH37n8dT"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDQ0FDWlo0bDJLWUE",
+						"yadisk": "8_B0VfOB37nU24"
+					}
+				}
+			}, {
+				"name": "Типичное фентези",
+				"genre": "РПГ",
+				"description": "Ну чтож история немного расширилась, но до эльфов так увы не дошла. Так что смело переименовываем игру в истребителя слизней и идем заниматься любимым делом. Такие дела.",
+				"image": "",
+				"status": "updated",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDZTlUY2ZEV01rTkk",
+					"yadisk": "dByBtzsg37n92B"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDRUxKSDdWLU5qblE",
+						"yadisk": "bz2E-hQI37nUjw"
+					}
+				},
+				"note": "Финальная версия была потеряна, есть только пофикшеная."
+			}, {
+				"name": "Зло Среди Нас",
+				"demo_name": "Madam-O",
+				"genre": "Квест",
+				"description": "Молодой человек становится инвалидом-колясочником и  вынужден влачить свое существование в почти непригодной для жилья квартире.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDVzdsNlB4OHFxUUk",
+					"yadisk": "anpqthW037n98F"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDVGtOcXZUTkdHdkk",
+						"yadisk": "XN3miSSX37nVah"
+					}
+				}
+			}, {
+				"name": "Diablo III",
+				"demo_name": "Бродилка",
+				"genre": "Гриндилка",
+				"description": "Ты можешь умереть или от рук монстров, или от прыжка в яму. Решать только тебе!",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDUHhhN21DcnBFT3M",
+					"yadisk": "ReWrMwxW37n9M6"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDU3k4LWtLZ3BWbFU",
+						"yadisk": "LNhoqgNN37nVry"
+					}
+				}
+			}, {
+				"name": "FPS3000",
+				"genre": "Шутер",
+				"description": "Испытуемый оказывается в лаборатории. Стоит ли ему доверять остальным и проходить уровни?",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDM3ZUMEQ5MTQybFk",
+					"yadisk": "In5xi1dr37n9bi"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDbExSZlJEY3JYRGM",
+						"yadisk": "u-KkyHQ337nWQk"
+					}
+				}
+			}, {
+				"name": "Шведская шкура",
+				"demo_name": "Космический Бюрократ",
+				"genre": "Текстовый квест/Interactive fiction",
+				"description": "Ты находишься в тюрьме. Сиди смирно и умри. А я сваливаю из этой тюряги.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDZS1EbEZybGZQUFk",
+					"yadisk": "E9VPiN3237n9mC"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDMUlqc0NiMVBJQXc",
+						"yadisk": "29C5kJnl37nWfK"
+					}
+				}
+			}, {
+				"name": "Iron Cube From Outer Space",
+				"genre": "Космический симулятор",
+				"description": "Космический корабль-куб летит колонизировать космос. Вы капитан.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDdGNTRHRXU2FPcE0",
+					"yadisk": "rtyg2H7M37n9xw"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDa1hWcEVjaGR2Qmc",
+						"yadisk": "rdEqgD-g37nX2T"
+					}
+				}
+			}, {
+				"name": "Rock Band Tycoon",
+				"genre": "Simulation/Casual",
+				"description": "Игра про Кирилла из мира музыки. Начинаем в условной задрыпаной хрущовке без инструмента и скиллов.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDLVZtdFV4RkNsSWc",
+					"yadisk": "ZqUHmnRs37nAZ7"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDWUNldkNsWFNrcTQ",
+						"yadisk": "xCeVsuwQ37nXMQ"
+					}
+				}
+			}, {
+				"name": "Подземелье выбора",
+				"genre": "Rogue-like-like",
+				"description": "Воин ходит по подземелью. Надо найти выход.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDQnJkcjV3TkF5Ukk",
+					"yadisk": "BBYoZ6_137nAjT"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDcDBMT3dSaExFV3M",
+						"yadisk": "1x7MqHyl37nXnH"
+					}
+				}
+			}, {
+				"name": "Комната пыток",
+				"genre": "Платформер",
+				"description": "Вы оказались в комнате и должны сделать всё что бы выбраться. Например, отдать почку.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDOGJwMzZoUHJFcUE",
+					"yadisk": "xytlNtRz37nBHN"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDV19Yd3Z1ZGF5ZzQ",
+						"yadisk": "BcS9_iy437nY6Y"
+					}
+				}
+			}, {
+				"name": "Hikka Teh Gaem",
+				"genre": "Point and click adventure",
+				"description": "Главному герою необходимо выйти из запертого дома.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDaFRHdGdsbU9pVWc",
+					"yadisk": "KnRQUvH-37nBY5"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDbzI3Sm5NSUduYms",
+						"yadisk": "ELBMvIl737nYR5"
+					}
+				}
+			}, {
+				"name": "Липкие Сладкие Лифчики",
+				"genre": "Shoot 'em up",
+				"description": "В день, когда наша героиня выбирает обновки для своего гардероба, покой в магазине нарушают пришельцы, пришедшие на Землю, чтобы уничтожить всё нижнее бельё.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDXzlIR3ItNXdENlU",
+					"yadisk": "vWglHGwX37nCaJ"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDdk4zQ0RpSXhTOGc",
+						"yadisk": "oruZu9V637nYra"
+					},
+					"updated": {
+						"yadisk": "3mLxLB36icEhJ"
+					}
+				}
+			}, {
+				"name": "Chocolate Cornet",
+				"genre": "Danmaku",
+				"description": "Орден Шоколадных Рогаликов более века хранит мир на территории Конфедерации. Однако разведка Ордена обнаруживает угрозу.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDWlRsVC1pVFJhZUk",
+					"yadisk": "FwB5RLWC37nDMU"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDZUVIaHlDNWd0T2M",
+						"yadisk": "mHHwfRMB37nZEq"
+					}
+				}
+			}, {
+				"name": "Космосим",
+				"genre": "Spacesim",
+				"description": "История про пирата, который вернувшись на свою базу после неудачного рейда, обнаруживает, что воевать больше некому, а в системе хозяйничает неизвестный враг.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDaXh6SHlZN3RfLW8",
+					"yadisk": "OM0TLx7M37nDcj"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDV1Z4NGV4cUNJdzA",
+						"yadisk": "9_g94LA337nZg5"
+					},
+					"repo": {
+						"github": "twoweeks/TWG6-Spacesim"
+					}
+				}
+			}, {
+				"name": "Приключения Агумона",
+				"demo_name": "Агумон",
+				"genre": "Бродилка",
+				"description": "Динозавр бродит по лесу.",
+				"image": "",
+				"status": "disqualified",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDWE4zM1VJTmR4clU",
+					"yadisk": "6G-oPRcz37nFdY"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDdTNUV0pIVXZVZE0",
+						"yadisk": "lKNitk-e37nZyU"
+					}
+				},
+				"note": "Релизная версия была утеряна, поэтому здесь дана ссылка на версию с сайта автора."
+			}, {
+				"name": "GROW The McDuck",
+				"genre": "GROW",
+				"description": "Все в традициях жанра. Нужно построить макдоналдс.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDUko0VjFiNF9wVHM",
+					"yadisk": "YUih-AQa37nGN4"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDNUNISmdIVVZkaVU",
+						"yadisk": "uo24LzR737naEi"
+					},
+					"uptated": {
+						"yadisk": "gQF6cYBJmJgab"
+					}
+				}
+			}, {
+				"name": "TBD",
+				"genre": "жрпг",
+				"description": "будем спасать вайфу. Всё остальное будет. Честно-честно.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDaC1paU9sM2ZnNEE",
+					"yadisk": "DrdwmD3H37nJms"
+				}
+			}, {
+				"name": "Abdulov Hell",
+				"genre": "Абдуломедитация",
+				"description": "Бомж попадает в Абдулоад на муки вечные. Его судьба - бесконечное возрождение и смерть.\nВы играете за Абдулова. Абдулов наслаждается созерцанием.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDWmtwY0F5c0tMdjQ",
+					"yadisk": "m51ttsrW37nJxt"
+				}
+			}, {
+				"name": "1993",
+				"genre": "Adventure/Action/Platformer",
+				"description": "Действие происходит в 1993 году в уездном городе O.\nГлавный герой  панк Игорь пребывает в глубокой депрессии.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDZldqYWhHa2R2a2M",
+					"yadisk": "h9b9sskJ37nKEF"
+				}
+			}, {
+				"name": "Желтый",
+				"genre": "Визуальная новелла.",
+				"description": "Игра про убийство, расследование, дружбу и личинок.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDNkxWV3RnTjVIWHM",
+					"yadisk": "fEUTcEh837nKcs"
+				}
+			}, {
+				"name": "Shadow Escape",
+				"genre": "interctive fiction",
+				"description": "Главный герой обнаруживает себя проснувшимся в больнице. Вокруг относительно приятная обстановка.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDR3FPYUlpcU9ZOWM",
+					"yadisk": "1Yo4LTBH37nLGv"
+				}
+			}, {
+				"name": "Selector",
+				"genre": "Adventure",
+				"description": "Игра о нелёгком выборе жирухи-яойщицы в мире диет и фитнесса.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDSmpOZE9VblhCR1U",
+					"yadisk": "ZOjFgtC337nN5w"
+				},
+				"other_links": {
+					"repo": {
+						"github": "twoweeks/selector"
+					}
+				}
+			}, {
+				"name": "I Want To Sleep",
+				"genre": "Бродилка",
+				"description": "",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDWWYtSG5ZWTI4cnc",
+					"yadisk": "lAWeWC-Z37nLfP"
+				}
+			}, {
+				"name": "Omejka: The Game",
+				"genre": "Бродилка",
+				"description": "Симуляция жизни омежки в школе.С другой стороны по задумке в школу можно вообще не ходить.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDVVNacGRsVTVmMTg",
+					"yadisk": "pTmXnBk_37nNS4"
+				}
+			}, {
+				"name": "When I Was There",
+				"genre": "Квест",
+				"description": "История про одинокого задрота, который однажды ночью \"поехал\" и перестал различать сон и реальность.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDY2RtbDJhRmd5ZnM",
+					"yadisk": "REIsx3Sx37nNeS"
+				}
+			}, {
+				"name": "Whiplash",
+				"genre": "хелловорлд на sdl",
+				"description": "На данный момент можно бегать просто по уровню.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDeUdnLVpQMjhqYnM",
+					"yadisk": "NQY-Ck_x37nPFc"
+				}
+			}, {
+				"name": "Hexgame",
+				"genre": "TBS/RPG",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDeUpfdGx4ZW9oWWc",
+					"yadisk": "bdnDwT6737nPdn"
+				}
+			}, {
+				"name": "Robot story",
+				"genre": "Платформер",
+				"description": "",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"web": "https://braces.itch.io/2weeks-robot-story"
+				},
+				"note": "На момент написания этой заметки ссылка не работает."
+			}, {
+				"name": "Red Cube",
+				"genre": "Хеловорлд на BGE",
+				"description": "",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDWGZTQV9NX1haSjQ",
+					"yadisk": "n1t9Sm3f37nPzR"
+				}
+			}
+		]
 	},
 	"7": {
 		"start": 1454529600,
