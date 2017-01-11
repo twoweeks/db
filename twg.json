@@ -39,6 +39,7 @@
 				"name": "Взросление мага",
 				"description": "По вселенной книг Ника Перумова.",
 				"image": "",
+				"dependencies": "XNA",
 				"status": "3",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDN0xSUTdlV1F5dHM",
@@ -230,7 +231,7 @@
 				}
 			}, {
 				"name": "DEADOIL",
-				"genre": "",
+				"genre": "Эксплорейшн во славу Сатане",
 				"description": "Эта игра про кубика с большим сердцем, попавшего в закрытый невидимый лабиринт. Так как делать в этом лабиринте нечего и он все равно умрёт, лучший выход - самовыпил! Причём, чем быстрее, тем лучше! Однако, ходят слухи, что в лабиринтах запрятана Великая Пробоина Освобождения.. Так что, слушай маму, слушай папу, но гни свою линию.",
 				"image": "",
 				"status": "final",
@@ -370,6 +371,7 @@
 				"genre": "Симулятор машиниста паровоза",
 				"description": "Сюжет: на заре ж/д эры в США прибывает английский машинист для пополнения штата развивающейся железнодорожной компании. В распоряжение нам дают примитивный локомотив и маршрут. Цель - сделать карьеру, начав с простого машиниста, заканчивая хорошим, годным машинистом. Или мертвым машинистом.",
 				"image": "",
+				"dependencies": "Flash",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWFhzYUNvOV9iVlE",
@@ -447,6 +449,7 @@
 				"genre": "RPG",
 				"description": "Битард, не по своей воле путешествующий во времени. А ещё есть сатанисты, волки и жена-аутистка.",
 				"image": "",
+				"dependencies": "Java",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDMlNaTjk0UTRfZGs",
@@ -462,6 +465,7 @@
 				"name": "Pinkie Portals",
 				"description": "2D аркада с видом сбоку. Пинки бежит по случайному уровню к порталу.",
 				"image": "",
+				"dependencies": "XNA",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDSnlETTNIbllwaGs",
@@ -494,6 +498,7 @@
 				"genre": "квест",
 				"description": "Анон как всегда попал в переделку. Он совершенно один оказался в неизвестном ему мире вместе с его котом. Только ему он может доверять, но чтобы выбраться из этой западни, им нужно объединиться. Тебе предстоит найти кота и придумать, как вам двоим выбраться из этого мира.",
 				"image": "",
+				"dependencies": "Flash",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDdjV1TTJkd0VLQm8",
@@ -553,9 +558,162 @@
 						"yadisk": "PFjkHTwG37npDm"
 					}
 				}
+			}, {
+				"name": "2ch Matching Game",
+				"genre": "Поиск пары",
+				"description": "Биторд обдвачевался и словил глюк, где его затянуло в монитор, или монитор натянуло на комнату. Все смешалось в голове героя. Помоги привести его мысли в порядок, ищи одинаковые карты. Внимание! Не все карты дружелюбные, некоторые оче злые.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDdW5JQXBNejZwalk",
+					"yadisk": "PwrVtKtX37vR78"
+				}
+			}, {
+				"name": "Elo2000",
+				"genre": "Платформер/битнмар",
+				"description": "Наш дорогой напыщенный друг скатился с горы, упал в люк и попал в ебанутую канализацию, в которой не бывала нога человека, где ходят ужасные монстры и негодяи, пытающиеся уничтожить главного героя. Помоги дибилу восстановить свои 2000 репутации (он потерял её упав с горы) и выбраться из говна, в которое он скатился.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDcXZySXdKV3VpWTg",
+					"yadisk": "moKm5s5o37vRKe"
+				}
+			}, {
+				"name": "FAGS MUST DIE",
+				"genre": "Interactive slideshow",
+				"image": "",
+				"dependencies": "XNA",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDZ0xUQl9vbUhhN1E",
+					"yadisk": "kyL-DnjF37vRPS"
+				}
+			}, {
+				"name": "Fat Fly Fry",
+				"genre": "Cимулятор жирной мухи/Физическая аркада",
+				"description": "Наш герой Фрай живет на помойке, но его сородичи прогоняют его за прожорливость. Бедняге приходится, преодолевая различные преграды, выживать в условиях одиночества, городской суеты и всего остального, куда занесет его судьба.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDd3ZXNHk5eVBWMkE",
+					"yadisk": "P_Y_tOlh37vRWF"
+				}
+			}, {
+				"name": "Labirintum",
+				"description": "Ты вдруг оказываешься в лабиринте, из которого тебе нужно выбраться.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDQjNDLUR6dzFYaW8",
+					"yadisk": "9Jh7Hf_R37vRgR"
+				}
+			}, {
+				"name": "Monkey's Adventure",
+				"genre": "",
+				"description": "",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDMUs3dmx0aVFhODQ",
+					"yadisk": "LWs7kkmL37vRop"
+				}
+			}, {
+				"name": "Repentance of Hitler",
+				"genre": "Action-RPG",
+				"description": "Любое злое деяние должно быть искуплено. Деваться некуда. 29 апреля 1945г. Рейхсканцелярия обстреляна смертельным газом...ГГ оказался в неведомом месте. ( По задумке должен пройти 7 кругов ада, борясь со своими грехами и страхами).",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDZXktYVBucTJaeGc",
+					"yadisk": "C6IhwUtj37vRv7"
+				}
+			}, {
+				"name": "Slowlight",
+				"genre": "",
+				"description": "Демонстрационная версия движка, реализующего работу с игровым миром, с поддержкой физики.\nРеализован эффект \"медленного света\", когда создается эффект что скорость света настолько мала, что его можно обогнать.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDSEZVLUtyTElBcUk",
+					"yadisk": "A0-2oS0137vS5T"
+				}
+			}, {
+				"name": "Zero",
+				"genre": "RPG",
+				"description": "439 г. 2Э. Уж четыре года как бушует кровопролитная война между Коалицией Свободных Государств и Гегемоном Хранителей. Две стороны, равные по силе тщетно пытаются истребить друг-друга; разделённые ненавистью бывших рабов и яростью падших владык, они будут сражаться до последнего.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDNmJPVEJYSThJMVU",
+					"yadisk": "p3V5pfRR37vSC6"
+				}
+			}, {
+				"name": "А_его_нет",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDV3NvazI5ODgxOGM",
+					"yadisk": "-TUXo9oe37vT29"
+				}
+			}, {
+				"name": "Пробка судьбы",
+				"description": "Молодой парень по имени Мурлок оказывается в затруднительном положение. Внезапно дернув рубка унитаза, он слышит странный звук и понимает, что вылетела пробка. Не решаясь сообщить своему отцу о данной проблеме, он пытается сомастоятельно достать пробку, что приводит к тому что его засасывает во внутренний мир унитаза, где он сталкивается с выбором - помочь его обитателям, так похожим на его собственную семью до смерти брата, побороть злой рок, отдав им пробку судьбы или с помощью нее вернуться в свой собственный мир, повернув время вспять.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDNW9ieC1PVE0zRDQ",
+					"yadisk": "LFxP5hZW37vSYr"
+				}
+			}, {
+				"name": "Crush::Blocks",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDOFp0TnRNbjBEUlk",
+					"yadisk": "TcvT8_XA37vTd8"
+				}
+			}, {
+				"name": "Labirint Survival",
+				"genre": "FPS",
+				"description": "Бегаем по подземелью/лабиринту и мочим монстров с 2ух стволки. Ну и попутно ищем выход или переход на другой этаж, как пойдёт.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDa3NmamowUXZKdWM",
+					"yadisk": "f_-G-8As37vSSJ"
+				}
+			}, {
+				"name": "Rufus",
+				"genre": "Головоломка",
+				"description": "Идея заключается в том, что главный герой- куб, единственный трехмерный объект в окружающем двухмерном пространстве, и он понятия не имеет, как такое вышло.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDeUxoUjF4Sk9GSFE",
+					"yadisk": "e_yh4sEx37vUMu"
+				}
+			}, {
+				"name": "Desert",
+				"genre": "Рогалик",
+				"description": "Игрок оказывается посреди пустыни, ему нужно пройти долгий путь до цивилизации через пустыню и горы. Жажда, голод, температура, усталость - всё это будет сказываться на игроке.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDcVZKYUUyOTRKYWc",
+					"yadisk": "XeDTVLQd37vVMv"
+				}
+			}, {
+				"name": "Затерянный",
+				"genre": "Арена",
+				"description": "Вы молодой маг который по ошибке затерялся среди миров. Текущий мир - очень мал, и портал заработает только через время. Но вы привлекли внимание враждебных сил, сможете ли вы продержаться это время?",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDaUpjOEtkNC1xV3M",
+					"yadisk": "gIrxYp6L37vVon"
+				}
 			}
-		],
-		"note": "Игр, представленных только на демо-стадии, здесь нет (пока что)."
+		]
 	},
 	"3": {
 		"start": 1387825200,
@@ -690,8 +848,8 @@
 		]
 	},
 	"4": {
-		"start": "",
-		"end": "",
+		"start": 1407099600,
+		"end": 1408309200,
 		"themes": [
 			"EXPLANATION",
 			"MASS",
@@ -736,8 +894,8 @@
 		]
 	},
 	"5": {
-		"start": "",
-		"end": "",
+		"start": 1421146800,
+		"end": 1422479400,
 		"themes": [
 			"Антиутопия",
 			"Деградация",
@@ -768,6 +926,7 @@
 				"genre": "Хоррор",
 				"description": "Цель в игре как-бы есть - собрать много деталей для устроства Исследователя, но достигнуть её нельзя, так как игра в любом случае скатится в говно. Каждый раз, когда вы подбираете деталь или другой предмет, случайным образом происходит какой-то глюк, от простого дёрганья камеры до искажения графики и звука.",
 				"image": "",
+				"dependencies": "Flash",
 				"status": "3",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDV3Z1NDFmaVh6elU",
@@ -841,7 +1000,6 @@
 				}
 			}, {
 				"name": "Тени кантерлота",
-				"genre": "",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -851,6 +1009,7 @@
 			}, {
 				"name": "erohin",
 				"image": "",
+				"dependencies": "Flash",
 				"status": "disqualified",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDdlZBdlBFREt4ZDA",
@@ -858,11 +1017,11 @@
 				}
 			}
 		],
-		"note": "Сайт конкура был проёбан, так что информация об играх не полная."
+		"note": "Сайт конкура был проёбан, так что информация не полная."
 	},
 	"6": {
-		"start": "",
-		"end": "",
+		"start": 1438844400,
+		"end": 1440190800,
 		"theme": "Выбор",
 		"description": "Мы каждый день делаем выбор. Встать на работу или проспать, познакомиться с няшей или зафейлить, пробежаться или съесть бургер. Выбор всегда тяжел и неочевиден. Часто ты понимаешь, что сделал выбор, когда уже поздно. Выбор определяет твою жизнь, ты выбираешь, со щитом или на щите. Даже сейчас в эту минуту ты выбираешь.",
 		"site": "https://twoweeksgame6.blogspot.ru",
@@ -1069,6 +1228,7 @@
 				"genre": "Rogue-like-like",
 				"description": "Воин ходит по подземелью. Надо найти выход.",
 				"image": "",
+				"dependencies": "Java",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDQnJkcjV3TkF5Ukk",
@@ -1117,6 +1277,7 @@
 				"genre": "Shoot 'em up",
 				"description": "В день, когда наша героиня выбирает обновки для своего гардероба, покой в магазине нарушают пришельцы, пришедшие на Землю, чтобы уничтожить всё нижнее бельё.",
 				"image": "",
+				"dependencies": "Flash",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDXzlIR3ItNXdENlU",
@@ -1126,6 +1287,9 @@
 					"demo": {
 						"gdrive": "0B5M4fMX1HJxDdk4zQ0RpSXhTOGc",
 						"yadisk": "oruZu9V637nYra"
+					},
+					"demo_updated": {
+						"yadisk": "FmA0qAol37vxGA"
 					},
 					"updated": {
 						"yadisk": "3mLxLB36icEhJ"
@@ -1346,12 +1510,854 @@
 		"theme": "Удача",
 		"description": "Удача сопутствует нам на протяжении всей нашей жизни. Даже то, что именно ты, читающий этот абзац Кирилл, сейчас жив — это удача. Почему — вспоминайте учебник биологии со школы. Ну а мы, поскольку этот конкурс проходит под номером 7, решили посвятить его именно этой теме.",
 		"site": "https://twg7.blogspot.ru",
-		"games": []
+		"games": [
+			{
+				"name": "Dungeon Architect",
+				"genre": "Dungeon crawl, Roguelike",
+				"description": "Задача игрока выбраться из подземелья состоящего из случайно генерируемых комнат и уровней. Игрок может влиять на генерацию помещений используя удачу и специальные карты.",
+				"image": "",
+				"status": "1",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDV0VDem84VldDNVk",
+					"yadisk": "1ba88ExE38855M"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDVVA3WnBKTFlZOGc",
+						"yadisk": "Sj9DHm8EocuaC"
+					},
+					"final_multi": {
+						"linux": {
+							"gdrive": "0B5M4fMX1HJxDaUdRX1RhZGdFQWs",
+							"yadisk": "tDvUQBnT3885wf"
+						},
+						"mac": {
+							"gdrive": "0B5M4fMX1HJxDNDlaa0hKbDFQOWc",
+							"yadisk": "GmI22mCt3885ud"
+						}
+					}
+				}
+			}, {
+				"name": "Megastructure",
+				"genre": "Тактика",
+				"description": "Отряд наёмников под предводительством капитана Кикстартера проникает в мегаструктуру корпорации Вейланд, на текущий момент находящуюся под контролем взбунтовавшегося ИИ.",
+				"image": "",
+				"status": "2",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDUC0wNGFjTVA5ZVE",
+					"yadisk": "jmUrRmK1p4oxq"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDd3ZzMzEyRWJEdjA",
+						"yadisk": "sYxxYtU3oe5oQ"
+					},
+					"updated": {
+						"gdrive": "0B5M4fMX1HJxDNEVWaUVxY1RONms",
+						"yadisk": "sPKAokcupFxtz"
+					}
+				}
+			}, {
+				"name": "My Sweet Asylum",
+				"genre": "Adventure/Beat'em up",
+				"description": "Подлый главврач психиатрической больницы убил сестру главного героя, а его самомого заточил в своей больнице. Придется как-то выбираться. Исход многих действий игрока случаен.",
+				"image": "",
+				"status": "3",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDSU92NFhibmZMNDg",
+					"yadisk": "2iN37s0BpFyuM"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDdEZVUkZpM3kwYkk",
+						"yadisk": "GSyA3zJLodcm5"
+					}
+				},
+				"note": "Автор случайно прислал демоверсию вместо финальной, поэтому ссылки даны на обновлённую версию."
+			}, {
+				"name": "Легенда о Манеки-Неко",
+				"demo_name": "Luckfall",
+				"genre": "Top-down shooter",
+				"description": "Разборки среди символов удачи в самурайском стиле.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDWFJ0c3k0Y01EZ2c",
+					"yadisk": "xwuDFaZ8oyijp"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDa0VlRTEtc1U0OU0",
+						"yadisk": "d_9R599PoasLV"
+					}
+				}
+			}, {
+				"name": "Свинопас Виталик",
+				"genre": "Platformer",
+				"description": "Эта история - о свинопасе Виталике, его свиньях, душах и борьбе добра со злом. В зависимости от действий и удачи история будет приводить к разным концовкам.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDdHU3RW5YaDVZdXc",
+					"yadisk": "XBvbQspGoyip7"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDNnU0LTAydFlFUjA",
+						"yadisk": "sY5GdsD6ockK7"
+					}
+				}
+			}, {
+				"name": "Super Lucky Puncher",
+				"genre": "Аркада/Экшн",
+				"description": "Главный герой настолько удачлив, что внезапно его показатель удачи вырос в миллион раз. Теперь он всегда уворачивается от всех атак, а все его удары критические и смертоносные. Посмотрим к чему это его приведёт в итоге.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDM0ZyRUZWaENXZmc",
+					"yadisk": "8n8NYdt4oyj3s"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDeVVLakV1RFdvUXM",
+						"yadisk": "f4SNbis7oZKw6"
+					},
+					"gamejolt": "super-lucky-puncher/128968"
+				}
+			}, {
+				"name": "Tanuki Drunk Racing",
+				"genre": "Гоночный симулятор",
+				"description": "Тануки - традиционные японские звери-оборотни, символизирующие удачу и благополучие. Большие любители саке (да и попьянствовать в целом). Суть игры: тануки едет бухой из бара. Собирать бутыли чтобы не протрезветь, и при этом не разбиться.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDeG5CVVA2WW5ORk0",
+					"yadisk": "Kb434zTh3889F5"
+				},
+				"other_links": {
+					"demo_multi": {
+						"win": {
+							"gdrive": "0B5M4fMX1HJxDZkdhalFWN19QV2M",
+							"yadisk": "FcgEKF4wogTZN"
+						},
+						"mac": {
+							"gdrive": "0B5M4fMX1HJxDd3ZYYlYyYVVhWHc",
+							"yadisk": "M2_onsmLogTZ9"
+						}
+					},
+					"final_multi": {
+						"win_x64": {
+							"gdrive": "0B5M4fMX1HJxDLUw0bjJhakZJS0k",
+							"yadisk": "_OMcQm9X388AXz"
+						},
+						"linux": {
+							"gdrive": "0B5M4fMX1HJxDQlQyc1hvVWRDNkk",
+							"yadisk": "fl9YtCH0388Acm"
+						},
+						"mac": {
+							"gdrive": "0B5M4fMX1HJxDTnlXdGdOVzlmdm8",
+							"yadisk": "yZ44FCC6388AZx"
+						}
+					}
+				}
+			}, {
+				"name": "Project Raspidarasilo",
+				"genre": "Скролл-шутер/Экшен",
+				"description": "Нижний Мухосранск атакован инопланетянами и они отправили твою мамку сражаться с ними.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDYUZ4LWh3M3JVWHM",
+					"yadisk": "tyVZzg9d34rcVx"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDSmN3T0otMXRlaWM",
+						"yadisk": "VwBA8MnQocEVd"
+					},
+					"final_multi": {
+						"linux": {
+							"gdrive": "0B5M4fMX1HJxDY1gxSDZWUkswQ3M",
+							"yadisk": "Y-0A34x934rciT"
+						},
+						"android": {
+							"gdrive": "0B5M4fMX1HJxDcS1hdlduWllRa00",
+							"yadisk": "qANISlgl388Cfr"
+						}
+					},
+					"store": {
+						"gplay": "com.videoatrocity.projrasp"
+					}
+				}
+			}, {
+				"name": "Tyan Game",
+				"genre": "3D-Action",
+				"description": "Тян гуляла по городу и захотела поиграть в игровые автоматы. Но у тян не было с собой денег. Вдруг в городе взорвалось отделение банка и деньги разнесло по всей округе! КАКАЯ УДАЧА! Правда сработала система охраны денег и везде активировались ЗиЛы с турелями и был введен коммендантский час чтоб банковские работники могли собрать разбросанные деньги. Но тян это не остановило! Она хочет играть в игровые автоматы.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDWXdQeEdaMDlJSlk",
+					"yadisk": "hM3b24oLoyqjK"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDTi1OSUR6SG5HYmM",
+						"yadisk": "OOM-EyoXocFoF"
+					}
+				}
+			}, {
+				"name": "Cave Explorer",
+				"genre": "аркада, roguelike, hack&slash",
+				"description": "Протогонист попадает в Подземелье Судьбы. Он узнает, что должен спуститься на нижний этаж, пройдя через череду опасностей, чтобы узнать истину.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDVlc2R1N3VHJjenc",
+					"yadisk": "ByGSlLkJozE7T"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDQ3IwREpudG00N1E",
+						"yadisk": "HnnI5OhFoZLYB"
+					}
+				}
+			}, {
+				"name": "NaN",
+				"genre": "FPS",
+				"description": "Всему в нашем непостоянном мире рано или поздно приходит конец. А если ты обычный хикка, то для тебя это не простой конец, а самый настоящий Game Over, неудачник-кун.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDNHI3UEp3NElrSms",
+					"yadisk": "ipFO17C4p2GhW"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDazZXTEpFVlZWUU0",
+						"yadisk": "FisL2UJYocqNL"
+					}
+				}
+			}, {
+				"name": "Lack of luck",
+				"genre": "адвенчура, головоломка, хоррор",
+				"description": "Однажды удача отвернулась от искателя сокровищ Гидеона Фунгуса. Однако унывать он не привык и решил отправиться на поиски амулета удачи в лабиринт стихий. Сможет ли он не попасть в лапы хранителя лабиринта, избежать смертельных ловушек и решит загадки алтарей стихий?",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDckIydS1HYUZfZ2c",
+					"yadisk": "UR8NSSW7388Ekb"
+				},
+				"other_links": {
+					"demo_multi": {
+						"win": {
+							"gdrive": "0B5M4fMX1HJxDbVBtRkRtN25QZWM",
+							"yadisk": "pRapVl9g388kcB"
+						},
+						"linux": {
+							"gdrive": "0B5M4fMX1HJxDTzdjMHoyVjlXLTg",
+							"yadisk": "hLXEB9zn388kWD"
+						},
+						"mac": {
+							"gdrive": "0B5M4fMX1HJxDTTBqYzlGUW52TTA",
+							"yadisk": "fTwLFgtw388kZW"
+						}
+					},
+					"final_multi": {
+						"linux": {
+							"gdrive": "0B5M4fMX1HJxDM1BRODYwTmdrU2M",
+							"yadisk": "VcmZiksY388Epu"
+						},
+						"mac": {
+							"gdrive": "0B5M4fMX1HJxDRmZ4MTU5Q1o5Z1k",
+							"yadisk": "em6oVumB388Enj"
+						}
+					}
+				}
+			}, {
+				"name": "Рыцарь Енот и Расколотая маска",
+				"genre": "Рогалик",
+				"description": "В этом мире драконы владеют магией, любят енотов и совсем не любят людей. По итогу каждый отважный рыцарь, который решил побороть злую ящерицу рискует быть превращённым в енота. Единственный известный вариант возвращения своего человеческого тела - сотворить заклинание. Заклинание сложное, и для него нужно несколько артефактов, которые весьма не просто добыть.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDN29QWjdTMGZVT1k",
+					"yadisk": "4vedoeNZ388FRV"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDRmFoVkRFUXM1VXc",
+						"yadisk": "NG6hk78Fodp54"
+					},
+					"final_multi": {
+						"win_x64": {
+							"gdrive": "0B5M4fMX1HJxDRi1pNWRHM0ZwYmM",
+							"yadisk": "U-EDWcQy388FNp"
+						}
+					},
+					"updated": {
+						"gdrive": "0B5M4fMX1HJxDcGhid1pEMjMzMEE",
+						"yadisk": "tT5ZW6M7pGTSy"
+					}
+				}
+			}, {
+				"name": "Workhammer 40k",
+				"genre": "RTS, tower defense",
+				"description": "Идёт 41 тысячелетие. В течение более ста столетий Ленин лежал неподвижно в Золотом Мавзолее. Но даже в своём немертвом состоянии, Ленин бдит. Забудьте обещания о прогрессе, в тёмном будущем есть место только для войны (и айфону 41, теперь ещё тоньше).",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDbWlrbDB5ZWRnbDQ",
+					"yadisk": "wGOk-0Iy388Grb"
+				},
+				"other_links": {
+					"demo_multi": {
+						"win": {
+							"gdrive": "0B5M4fMX1HJxDOXM5dzNKbmpqdE0",
+							"yadisk": "jdG1tPtEogTmS"
+						},
+						"linux": {
+							"gdrive": "0B5M4fMX1HJxDZzcxWndOTGVXNnM",
+							"yadisk": "UQY8D-qwogTm6"
+						},
+						"mac": {
+							"gdrive": "0B5M4fMX1HJxDSGhfZUU5RllWcGs",
+							"yadisk": "TReqXMXFogTmF"
+						}
+					},
+					"final_multi": {
+						"linux": {
+							"gdrive": "0B5M4fMX1HJxDNFExb1VOaHFubUU",
+							"yadisk": "zVYgZO4q388Gon"
+						},
+						"mac": {
+							"gdrive": "0B5M4fMX1HJxDUGZmaFhiTk5IWWc",
+							"yadisk": "jPQ9RPiv388Gzq"
+						}
+					}
+				}
+			}, {
+				"name": "DOMUM, FORTE",
+				"genre": "Логическая стелс видеоигра с элементами случайности (приключение с уважением к баухаусу)",
+				"description": "Где-то во вселенной, далеко-далеко в будущем всё таки построили коммунизм, однако по неизвестной причине бесконечное количество добра решили распределять между людьми методом беспроигрышной лотереи. Главный герой оказывается зажат между системой и необходимостью сотрудничества с группировкой \"Подземников\", которые организовывают капитализм в отдельно взятой канализационной системе всей планеты.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDMHUxdC1wUWpQMVU",
+					"yadisk": "sdZNP1Omp2Ksd"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDRnJuU3FtTFdRekU",
+						"yadisk": "pCrT-XMQocgY8"
+					},
+					"updated": {
+						"gdrive": "0B5M4fMX1HJxDZFFscG95WXdOa0k",
+						"yadisk": "OGOKmS0wpFzAG"
+					}
+				}
+			}, {
+				"name": "Lispstone",
+				"genre": "Аркадно-карточная игра",
+				"description": "Лисп должен спасти мир. А для этого он должен уничтожить всех на своём пути.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDOTZHcFFsYnZvZjg",
+					"yadisk": "xFfzkh7rp2RXJ"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDR1piWjhUTVQzOXM",
+						"yadisk": "-ATquAWdog3ND"
+					},
+					"repo": {
+						"github": "twoweeks/lispstone"
+					},
+				}
+			}, {
+				"name": "Lucky Fuck You Shooter",
+				"genre": "топ-даун стрелялка",
+				"description": "Игра про стрельбу в неком лабиринте. Удача влияет на каждое действие игрока и врагов без исключения.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDdS1PeEZrdmJrcWc",
+					"yadisk": "SCt0344Vp2VtB"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDM1phLUdMTk9XVTA",
+						"yadisk": "jlmiq0GrodZbm"
+					}
+				}
+			}, {
+				"name": "???",
+				"genre": "Экшн",
+				"description": "Однажды молодой сын короля решил очередной раз пойти в королевскую библиотеку. Он нашел одну странную книгу на обложке которой было написано “???”. Прочитав эту книгу и сложив все в голове он незадумываясь сказал слуге дать все необходимые вещи и ушел. Оказалось, что в этой книге было зашифрованно место нахождение логова “3 королев” которые терроризировали и похищали мирных людей и в дальнейшем делали из них зомби последние 10 лет. Посмотрим встанет ли УДАЧА на сторону нашего героя или он больше не вернется назад...",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDNHh1ZkZDT2tycEk",
+					"yadisk": "4eIZmjblp2SAu"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDdWVQQnNSbUEzeGM",
+						"yadisk": "TyuCSI9aoddRH"
+					}
+				}
+			}, {
+				"name": "SISI ATTACKS!",
+				"genre": "Аркада",
+				"description": "Главный герой игры (Кирилл) отправляется по своим повседневным делам. Внезапно на город совершают атаку поехавшие представители террористической организации SISI (запрещена на территории РФ). Кирилл конечно очень возмущён происходящим, но всё же решает закончить свои дела...",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDZDBHeldMbWZQN1E",
+					"yadisk": "G2YbWjfMp2ScT"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDcXN1MUtxdF9nQXc",
+						"yadisk": "UNBXtMCPoddmd"
+					}
+				}
+			}, {
+				"name": "RUINER",
+				"genre": "Таймкиллер, раннер",
+				"description": "",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDSzBEMV9ieklXNmM",
+					"yadisk": "tRO4xZHYp2SrP"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDYVphcGRtU0Z0dWM",
+						"yadisk": "oOsEGCWnod6xA"
+					}
+				}
+			}, {
+				"name": "Divine Buddhist Summoner",
+				"genre": "",
+				"description": "",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDX1dwVkx4Q1Q0bms",
+					"yadisk": "37siHUYPp2WZP"
+				},
+				"other_links": {
+					"demo_multi": {
+						"win": {
+							"gdrive": "0B5M4fMX1HJxDR0w5WnA1Q3AwTGM",
+							"yadisk": "2l-UuROgodaHQ"
+						},
+						"linux": {
+							"gdrive": "0B5M4fMX1HJxDeXM0TFRENmhZa3c",
+							"yadisk": "kROOtrq6ogTG9"
+						},
+						"mac": {
+							"gdrive": "0B5M4fMX1HJxDbjFDSWwtRU5Lclk",
+							"yadisk": "6m9yLYwwogTGS"
+						},
+					}
+				}
+			}, {
+				"name": "master Chu",
+				"genre": "Top down shooter, action rpg",
+				"description": "Паралельная вселенная в постапокалипсисе. У мастера Чу, который привык полагаться только на себя (или уже неТ?), похитили самое дорогое, теперь он идет мстить, чтобы вернуть хотя бы память о том, что ему было так дорого.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDc1NjWkdCTEdzNVE",
+					"yadisk": "2mDWUa3op2XHw"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDSVcwUVFDTDh6dHM",
+						"yadisk": "ZQE50ciYocNNY"
+					}
+				}
+			}, {
+				"name": "RPG",
+				"genre": "RPG",
+				"description": "Ролевая игра. Школьник находит себя заброшенным на таинственном острове. Как он сюда попал, что вообще происходит - на эти вопросы нет ответа.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDNjJ6QzlpcTc1QXc",
+					"yadisk": "hajso27ap4pCy"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDakFGT2tua2pHa1k",
+						"yadisk": "iT8ApB8yocnEv"
+					}
+				}
+			}, {
+				"name": "Azimantus: The King of Kings",
+				"genre": "2D платформер",
+				"description": "Много лет назад Азимантус был великим правителем всего континента, пока таинственная Госпожа не наложила на него ужасное проклятье невезения. Так бы он и сгнил на развалинах собственного замка, если бы Госпожа не решила его помиловать. Бывшему королю предстоит пройти Подземелье Случайных Случайностей и искупить вину перед Госпожой.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDMk5BbVlpaVQwb2c",
+					"yadisk": "RrY6pyEz388MyM"
+				},
+				"other__multi": {
+					"win": {
+						"gdrive": "0B5M4fMX1HJxDNUFxQjlfV1JuOWs",
+						"yadisk": "rtdT9ybsogTCJ"
+					},
+					"linux": {
+						"gdrive": "0B5M4fMX1HJxDeTVlR21GNlpCWEk",
+						"yadisk": "C_EUUAnHogT3Y"
+					},
+					"mac": {
+						"gdrive": "0B5M4fMX1HJxDNm92R3ZpOVI5Rnc",
+						"yadisk": "rtdT9ybsogTCJ"
+					},
+					"final_multi": {
+						"linux": {
+							"gdrive": "0B5M4fMX1HJxDTjJWbmZuNFZrRlE",
+							"yadisk": "y7VbUNwK388MtQ"
+						},
+						"mac": {
+							"gdrive": "0B5M4fMX1HJxDRjZQbnJBOWZiMFU",
+							"yadisk": "bZB7jw7E388Mvc"
+						}
+					}
+				}
+			}, {
+				"name": "Escape",
+				"genre": "Бродилка, шутер, паркур симулятор",
+				"description": "Не далеко от земли в 2042 году на космической станции проводили опыты над обезьянами. Ученые обучали обезьян и старались повторить развитие от обезьяны к человеку в кротчайшее время. Вы спросите почему именно в космосе?! А ответ очевиден, - В космосе время течет иначе чем на земле, плюс существуют десятки изведоных и неизведаных искажателей времени и поространства, такие как черные дыры, темная матери, кротовые норы и т.д.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDOVNId2VwM3lpRUk",
+					"yadisk": "_pm5_eMqp77ZM"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDUlI2MkFMbnNsNjA",
+						"yadisk": "ky1zBKIeodaf5"
+					}
+				}
+			}, {
+				"name": "Mushroom",
+				"genre": "Квест от первого лица",
+				"description": "Главный герой очнулся в неизвестном месте и с ним начало разговаривать собственное подсознание.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDTHQ0dDdRbktHWlk",
+					"yadisk": "vT1DcvEup78RT"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDVnRYUUJDaVlEXzQ",
+						"yadisk": "ifhx15IGodfqR"
+					},
+					"final_multi": {
+						"win_x64": {
+							"gdrive": "0B5M4fMX1HJxDTFg1NG9Vc3h1TzA",
+							"yadisk": "z6fzpi5e388Nro"
+						}
+					}
+				}
+			}, {
+				"name": "Симулятор рубля",
+				"genre": "Раннер",
+				"description": "Возьми на себя роль российской валюты и прокатись по ухабам родных просторов.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDQTBmUy1QSEtobVE",
+					"yadisk": "33qIKv-r388PvN"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDaTk0RWN3R19YcUU",
+						"yadisk": "A89cHltIodo6h"
+					},
+					"final_multi": {
+						"linux": {
+							"gdrive": "0B5M4fMX1HJxDRGdjTFg0WHJPVVk",
+							"yadisk": "_2D48Lcb388Pqu"
+						},
+						"mac": {
+							"gdrive": "0B5M4fMX1HJxDYXNuYVpsV1hyelU",
+							"yadisk": "4aSGx2w4388Psm"
+						}
+					}
+				}
+			}, {
+				"name": "Iakub Ravange",
+				"genre": "Платформер",
+				"description": "В игре рассказывается о подлости и зависти. А также мести и установлении справедливости.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDX0tGUUxESUVPc1k",
+					"yadisk": "9peQC8inp79ri"
+				},
+				"other_links": {
+					"demo_multi": {
+						"win": {
+							"gdrive": "0B5M4fMX1HJxDeFJwcVQxZFlvdzg",
+							"yadisk": "_WYLwENDogSre"
+						},
+						"linux": {
+							"gdrive": "0B5M4fMX1HJxDZmVLTnF5eE1feWM",
+							"yadisk": "EaxUqM3HogSsZ"
+						},
+						"mac": {
+							"gdrive": "0B5M4fMX1HJxDel9TMUYzQzFJVjg",
+							"yadisk": "WduaRhn4ogSss"
+						}
+					}
+				}
+			}, {
+				"name": "Орёл или Решка?",
+				"genre": "Квест",
+				"description": "За долгое время, проведённое в уютной комнатке, ты впервые выходишь на улицу. Судьба играет тобой, и ты попадаешь в таинственную организацию, теперь на твоих плечах лежит решение многих вещей для благополучия организации. А что, если в принятии решений положиться на монетку? Ранее твои действия определяли рулеточки на /b/, и ничего плохого пока не произошло. Бросай монетку и вперёд!",
+				"image": "",
+				"dependencies": "Flash",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDOW9lbGlLMXJZQms",
+					"yadisk": "dHWCQx3gp7AHh"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDMTh2V010LW81aDQ",
+						"yadisk": "sQciwBqOocbjK"
+					}
+				}
+			}, {
+				"name": "История о Капитане-Неудачнике",
+				"genre": "Платформер",
+				"description": "Уже несколько недель шхуна Капитана Солёной Бороды дрефовала у берегов Карибского моря. И, как на зло, ни единого корабля на горизонте за всё это время. А запасы продуктов уже подходили к концу, и команда уже почти потеряла боевой дух. Скучающие матросы спали в трюме, играли в кости или потягивали ром, лёжа на палубе, как вдруг раздался пронзительный голос юнги Билли Глазастого со стороны смотровой площадки - \"Корабль на горизонте!\".",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDQ0stRDh6MnVOMmc",
+					"yadisk": "8z-WB2LRp7F5x"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDR1FIUUNiTGpYME0",
+						"yadisk": "Q8ISiwewodd8U"
+					}
+				}
+			}, {
+				"name": "Бесконечная война",
+				"genre": "RPS c ограничениями, Рогалик, TBS",
+				"description": "Послушай, - сказал сержант, - это война. А война, как известно, никогда не меняется. Большинство солдат на войне лишь пушечное мясо. Одним больше - одним меньше. Войны выигрывают не отдельные личности. Войны выигрывают массы.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDSzM4ZmZ2S2F5SlE",
+					"yadisk": "9oI34PdZp7N7D"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDekhrazdVc0lVUEE",
+						"yadisk": "6WQLUX_HodofC"
+					}
+				}
+			}, {
+				"name": "Бесконечный Завод",
+				"genre": "Экономическая стратегия",
+				"description": "Экономическая стратегия о реалиях производственного предприятия.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDOVlEQnBNTHplR28",
+					"yadisk": "1tdpLEdCp4pUK"
+				},
+				"other_links": {
+					"demo": {
+						"gdrive": "0B5M4fMX1HJxDU3dITkw0Q1M2Zmc",
+						"yadisk": "ysBR_hEcocGai"
+					}
+				},
+				"note": "Финальная версия игры это рескин старой игры под DOS \"Директор-2000\"."
+			}, {
+				"name": "Звёздные войны",
+				"genre": "Гриндилка",
+				"description": "Игра так же хороша, как и вся одноимённая франшиза. Именно поэтому я её так назвал.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDYzZrdzUzakl1R0k",
+					"yadisk": "gbIuHzddodcBQ"
+				},
+				"other_links": {
+					"demo_updated": {
+						"gdrive": "0B5M4fMX1HJxDMzkzaVVTR3NfZHM",
+						"yadisk": "5vGz_fXWp7M8P"
+					}
+				},
+				"note": "Автор прислал финальную версию, но недооформил readme."
+			}, {
+				"name": "Власть удачи",
+				"genre": "Адвенчура с пошаговыми боями",
+				"description": "Герой попадает в странный город, где культ поклонения богине удачи приговаривает его к смерти.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDSWs3U0VETjREZDg",
+					"yadisk": "iJmjQx3uodoNb"
+				},
+				"other_links": {
+					"demo_updated": {
+						"gdrive": "0B5M4fMX1HJxDZXdMdWtocllhWUk",
+						"yadisk": "x2xBTmpEp7Nrs"
+					}
+				},
+				"note": "Автор прислал финальную версию, но опоздал."
+			}, {
+				"name": "Colluck",
+				"genre": "RTS с непрямым управлением",
+				"description": "Фермеры, горожане, купцы и простолюдины.. Каждый из вас работает, не покладая рук, чтобы добыть звонку монету. Я выбрал другой путь. Зачем вам столько денег? К чему излишества? Я освобожу вас, работяги!",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDSjBiV1ZLbDNVdUk",
+					"yadisk": "neAf7zksoZVaU"
+				},
+				"other_links": {
+					"repo": {
+						"github": "twoweeks/coolluck"
+					}
+				}
+			}, {
+				"name": "Agonia",
+				"genre": "Квест",
+				"description": "Место действия — рукотворный Адъ точно воссозданный по Божественной Комедии. Он же — секретная тюрьма для военных преступников. Здесь предатели родины разделяют участь Брута, на девятом уровне этого безумия. Наш герой среди них. В ожидании кары чудо освобождает его и появляется возможность бежать.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDcFdIODF4blRwdG8",
+					"yadisk": "1FQ6boY6ocE8a"
+				}
+			}, {
+				"name": "The Fortune",
+				"genre": "RPG",
+				"description": "На главном герое лежит проклятье невезения. Он должен найти божественный артефакт, чтобы снять проклятие.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDeWhKM1hDZVF3SW8",
+					"yadisk": "mepr78AuociPw"
+				}
+			}, {
+				"name": "In The Wall",
+				"genre": "Quest/adventure",
+				"description": "Main hero woke up at the some strange and lonely place, it place was a big space ship. You have to find answers for some very important questions: where are you, who are you, and what do you have to do?",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDRkV6WU1aOGI0VVU",
+					"yadisk": "C6SsDc0qodbQW"
+				}
+			}, {
+				"name": "Lucky Train",
+				"genre": "платформер / квест / симулятор пассажира поезда",
+				"description": "Главный герой решает воспользоваться услугами РЖД, но в следствии отсутствия у него бешеных далларов, покупает билет в плацкарт. Игрок оказывается в самом конце поезда, где всё происходящее его сильно угнетает.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDb0pvUHFFY21hUU0",
+					"yadisk": "a790Q7kCogTV7"
+				},
+				"other_links": {
+					"demo_multi": {
+						"win_x64": {
+							"gdrive": "0B5M4fMX1HJxDbC1Eejc0Wm1zLTQ",
+							"yadisk": "ljPvSztMogTVC"
+						}
+					}
+				}
+			}, {
+				"name": "Неуданик",
+				"genre": "Квест, нарратив-дривен",
+				"description": "Игра про гопника-неудачника.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDNVlkVDRGMnV4ajA",
+					"yadisk": "9t8kYWDEodfWj"
+				}
+			}, {
+				"name": "Tal Unveh",
+				"description": "Главный персонаж застрял между нашим материальным миром и потусторонним. И кто теперь должен убирать мусор, как не наш герой...",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDbTU1b0ltQ2VieW8",
+					"yadisk": "G7j5DnU1odgq2"
+				}
+			}, {
+				"name": "Yellow",
+				"genre": "Сорт оф топ-даун шутан",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDT051TlBXWm90QTg",
+					"yadisk": "ckWP85LEodkAq"
+				}
+			}, {
+				"name": "Lord of Unlucky",
+				"genre": "Рогалик",
+				"description": "Многие века ходили легенды, о могучем артефакте погребенном глубоко под землей. Отважный и опытный маг с легкостью прошел все ловушки подземелий и добрался до артефакта. Но как только он коснулся его - древнее проклятье опустошило его удачу. Теперь, самый безобидный предмет таит в себе опасность.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDU1pVNFBUVmE1NVE",
+					"yadisk": "oMz_RXTiodotC"
+				}
+			}, {
+				"name": "Lena Boots 2: Околомагии",
+				"genre": "Платформер",
+				"description": "Лена продолжает свои приключения. На этот раз она отправляется в волшебный мир Хельва. Где ей предстоит окунуться в мир магов, понять для чего они живут с сражаются. Была организована академия магов, куда ей стоит направиться, обучиться там магии и пройти все Божества этого мира.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDOG1NNWp1T3Q3SzA",
+					"yadisk": "zjiSOO6SodpYd"
+				}
+			}, {
+				"name": "Tunnel",
+				"genre": "Хоррор-квест",
+				"description": "Начинающий диггер нашёл целый подземный лабиринт, не нанесённый ни на какие карты. Решившись его исследовать, ГГ внезапно обнаруживает, что путь назад отрезан. Сможешь ли ты найти выход? Избежишь ли ужасных порождений подземного мира?",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDTjQ3YVBlbUVXd3M",
+					"yadisk": "sH9eNdnjods77"
+				}
+			}, {
+				"name": "Fortune of Liberty",
+				"genre": "Стратегия в реальном времени",
+				"description": "Наша цель защитить блокпост от нападений врага, при этом находясь под постоянным огнем артиллерии.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDRmY5SEVicGZpY0k",
+					"yadisk": "lRqqkdvooe5jb"
+				}
+			}
+		]
 	},
 	"8": {
 		"coalition": {
-			"start": "",
-			"end": "",
+			"start": 1469458800,
+			"end": 1470776400,
 			"theme": "Анти-мир",
 			"description": "Действие игры должно происходить в среде, кардинально отличающейся от привычной. Логика происходящего в Анти-мире совершенно не похожа на ту, по правилам которой работает наш мир. В игре должны действовать иные законы. Отталкивающая гравитация, неевклидова геометрия и многое другое.",
 			"site": "https://twoweeksgame8.blogspot.ru",
@@ -1529,7 +2535,6 @@
 					}
 				}, {
 					"name": "Sphere Shooter",
-					"genre": "",
 					"description": "Жила была цивилизация разумных и технически развитых сфер. На одной из военных баз они проводили секретные эксперименты, в результате которых в мир сфер начал просачиваться другой мир, от чего стали появляться аномалии. Ситуация вышла из под контроля и аномалии стали просачиваться за пределы специальных полигонов, но не смотря на это военные не захотели остановить эксперименты. к счастью игроку удалось получить силовую броню которая может взаимодействовать с аномалиями и теперь у него есть шанс остановить все это.",
 					"image": "",
 					"status": "final",
@@ -1605,8 +2610,8 @@
 			]
 		},
 		"glowstick": {
-			"start": "",
-			"end": "",
+			"start": 1469394008,
+			"end": 1470786293,
 			"theme": "Киберпанк",
 			"description": "Киберпанк — жанр научной фантастики. Неоновые вывески, бары, нищета и разруха на нижних социальных уровнях, процветание и порядок на верхних - вот это всё, приправленное высокими технологиями и антиутопичностью. Именно на эту довольно широкую тему и нужно будет сделать игру. Твори, анон!",
 			"site": "https://gd-twoweeksgame8.rhcloud.com",
@@ -1625,16 +2630,17 @@
 							"gdrive": "0B7JZNHF146cwTzFFeHdPOTA5N0E",
 							"yadisk": "PJWgu07kyxvCs"
 						},
-						"win_x64": {
-							"gdrive": "0B5M4fMX1HJxDdFNaVUx1aEVMckk",
-							"yadisk": "tngZxwK5u64xz"
-						},
-						"macos": {
-							"gdrive": "0B5M4fMX1HJxDOEF3emNPcjk5cDA",
-							"yadisk": "kD2jI5_Yu64xx"
+						"final_multi": {
+							"win_x64": {
+								"gdrive": "0B5M4fMX1HJxDdFNaVUx1aEVMckk",
+								"yadisk": "tngZxwK5u64xz"
+							},
+							"mac": {
+								"gdrive": "0B5M4fMX1HJxDOEF3emNPcjk5cDA",
+								"yadisk": "kD2jI5_Yu64xx"
+							}
 						}
-					},
-					"repeat": "demo"
+					}
 				}, {
 					"name": "Cyberpunk",
 					"description": "Мир будущего, управляемый могущественными корпорациями. Мир со своими законами, но лишенный справедливости.\nПроникновение в секретную лабораторию - единственная недажда главной героини на спесение из этого мира.\nОднако, не всё идёт как планировалось.",
@@ -1694,7 +2700,7 @@
 						}
 					}
 				}, {
-					"name": "CyberCityMadness",
+					"name": "Cyber City Madness",
 					"description": "неДалёкое будущее. Колоний землян на Марсе по-прежнему нет, зато VR технологии шагнули далеко вперед. Купив новую игру (что-то там про retrowave) Ерохха погружается в vr.",
 					"image": "",
 					"status": "final",
@@ -1706,7 +2712,8 @@
 						"demo": {
 							"gdrive": "0B5M4fMX1HJxDSm9GSmtJODZkWDQ",
 							"yadisk": "fsml3VHoyxyrz"
-						}
+						},
+						"gamejolt": "cyber-city-madness/174748"
 					}
 				}, {
 					"name": "Deus KEK",
@@ -1820,8 +2827,14 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "",
-						"yadisk": ""
+						"gdrive": "0B5M4fMX1HJxDQ1VHSW54T0Rld1E",
+						"yadisk": "LesYMwrx38Fu3a"
+					},
+					"other_links": {
+						"demo_updated": {
+							"gdrive": "0B5M4fMX1HJxDck5WQzZ1ZG93dTQ",
+							"yadisk": "cdr8pQvh38FvHP"
+						}
 					},
 					"repeat": "demo"
 				}, {
@@ -1897,6 +2910,6 @@
 				}
 			]
 		},
-		"note": ""
+		"note": "Вместо одно конкурса было проведено фактически два."
 	}
 }
