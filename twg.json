@@ -78,7 +78,6 @@
 				"image": "twg/1/carlson.jpg",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDYjk4bHFCcTRuVXc",
 					"yadisk": "3rukLzlYyJAdT"
 				}
 			}, {
@@ -87,7 +86,6 @@
 				"image": "twg/1/boogeyman.jpg",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDeW9NS2VUTy0tYkU",
 					"yadisk": "wBQeNFjpyJAo7"
 				}
 			}, {
@@ -96,7 +94,6 @@
 				"image": "twg/1/khazad-dum.jpg",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDZlhHeFJNTjJJeVE",
 					"yadisk": "SFQezGaSyJApx"
 				}
 			}, {
@@ -105,7 +102,6 @@
 				"image": "twg/1/minesweeper.jpg",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDczJBZV9ObGN6d0U",
 					"yadisk": "llwk03n9yJAqd"
 				}
 			}
@@ -150,7 +146,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDVGk4LVlUVjJwWVk",
 						"yadisk": "CJhSo71A37ndSD"
 					}
 				}
@@ -166,7 +161,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDVmI0T3lhanFfOEU",
 						"yadisk": "P-bjH7ak37ndrV"
 					}
 				}
@@ -182,7 +176,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDUDM1VllxTlhnNzA",
 						"yadisk": "_7ud82i237neAc"
 					}
 				}
@@ -197,7 +190,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDVW92WUE2YlcwY2c",
 						"yadisk": "EUfAUe8v37neJJ"
 					}
 				}
@@ -213,7 +205,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDRWtxWi04dmVpUU0",
 						"yadisk": "ciB0KvGY37nfFG"
 					}
 				}
@@ -229,7 +220,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDU193VXhIU3N6ZWM",
 						"yadisk": "YEVnTzns37nfYT"
 					}
 				}
@@ -245,7 +235,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDU3dUMk9PWVUwVzQ",
 						"yadisk": "MqyyujQa37nfib"
 					}
 				}
@@ -261,7 +250,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDU1k5M3lFUXBReU0",
 						"yadisk": "Cz9gLJ7y37nftM"
 					}
 				}
@@ -286,7 +274,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDZjNfYnUwWkx3ZW8",
 						"yadisk": "nzDOtsml37ngQA"
 					}
 				}
@@ -302,7 +289,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDZ3hDVUU3QVp5LUE",
 						"yadisk": "_216d_K537nhNs"
 					}
 				}
@@ -318,7 +304,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDaWZaQk1OdXBpVEU",
 						"yadisk": "d3GOnpSz37nhcu"
 					}
 				}
@@ -334,10 +319,9 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDa2trcmdndkU2V28",
 						"yadisk": "JkykDK9937nhzK"
 					},
-					"gamejolt": "games/my-native-foreign-land/59792"
+					"gamejolt": "my-native-foreign-land/59792"
 				}
 			}, {
 				"name": "Oneiros",
@@ -350,7 +334,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDX3o1b0pkVUo2V0k",
 						"yadisk": "h3Pr6YYe37ni8c"
 					}
 				}
@@ -366,7 +349,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDUktqQUlqOU0xT0k",
 						"yadisk": "xQzRw-GY37njWd"
 					}
 				}
@@ -382,7 +364,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDRXRvWFU1S0I5YXc",
 						"yadisk": "QPk9169-37njkK"
 					}
 				}
@@ -409,7 +390,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDZFBuRHJzMmVvWmM",
 						"yadisk": "jS4br-oY37nkTX"
 					}
 				}
@@ -425,7 +405,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDSnVXc2xvWUxNV2M",
 						"yadisk": "DtDkeY7C37nm2K"
 					},
 					"store": {
@@ -444,7 +423,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDcnJhVzZadFpjV28",
 						"yadisk": "YGoUVgEs37nmGy"
 					}
 				}
@@ -460,7 +438,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDSzhrZGlOeEh2Vnc",
 						"yadisk": "JbZWGoo_37nmgM"
 					}
 				}
@@ -477,7 +454,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDQ2hIdGJUUW9CTzQ",
 						"yadisk": "DtYRHLFZ37nmvZ"
 					}
 				}
@@ -493,7 +469,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDU1FyMkJiVUdmc2c",
 						"yadisk": "-mMZJU5Y37nn77"
 					}
 				}
@@ -509,7 +484,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDZXpjMVZQM1dubDQ",
 						"yadisk": "1rAi6M4D37nnWi"
 					}
 				}
@@ -526,7 +500,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDamM3VlN5eFBBTE0",
 						"yadisk": "QFgeSqxy37noLV"
 					}
 				}
@@ -542,7 +515,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDWnhlOXVoM1pwU00",
 						"yadisk": "6Y4SSgLj37noZY"
 					}
 				}
@@ -558,7 +530,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDbjBMajhiRVVpNlU",
 						"yadisk": "__ahDftU37nonR"
 					}
 				}
@@ -574,7 +545,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDU2pLcnpjdHA5MTA",
 						"yadisk": "PFjkHTwG37npDm"
 					}
 				}
@@ -595,7 +565,6 @@
 				"image": "twg/2/elo.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDcXZySXdKV3VpWTg",
 					"yadisk": "moKm5s5o37vRKe"
 				}
 			}, {
@@ -605,7 +574,6 @@
 				"dependencies": "XNA",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDZ0xUQl9vbUhhN1E",
 					"yadisk": "kyL-DnjF37vRPS"
 				}
 			}, {
@@ -615,7 +583,6 @@
 				"image": "twg/2/fat-fly-fry.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDd3ZXNHk5eVBWMkE",
 					"yadisk": "P_Y_tOlh37vRWF"
 				}
 			}, {
@@ -624,7 +591,6 @@
 				"image": "twg/2/labirintum.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDQjNDLUR6dzFYaW8",
 					"yadisk": "9Jh7Hf_R37vRgR"
 				}
 			}, {
@@ -634,7 +600,6 @@
 				"image": "twg/2/monkeys-adventure.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDMUs3dmx0aVFhODQ",
 					"yadisk": "LWs7kkmL37vRop"
 				}
 			}, {
@@ -644,7 +609,6 @@
 				"image": "twg/2/repentance-of-hitler.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDZXktYVBucTJaeGc",
 					"yadisk": "C6IhwUtj37vRv7"
 				}
 			}, {
@@ -654,7 +618,6 @@
 				"image": "twg/2/slowlight.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDSEZVLUtyTElBcUk",
 					"yadisk": "A0-2oS0137vS5T"
 				}
 			}, {
@@ -664,7 +627,6 @@
 				"image": "twg/2/zero.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDNmJPVEJYSThJMVU",
 					"yadisk": "p3V5pfRR37vSC6"
 				}
 			}, {
@@ -672,7 +634,6 @@
 				"image": "twg/2/unnamed.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDV3NvazI5ODgxOGM",
 					"yadisk": "-TUXo9oe37vT29"
 				}
 			}, {
@@ -681,7 +642,6 @@
 				"image": "twg/2/plug-of-destiny.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDNW9ieC1PVE0zRDQ",
 					"yadisk": "LFxP5hZW37vSYr"
 				}
 			}, {
@@ -689,7 +649,6 @@
 				"image": "twg/2/crush-blocks.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDOFp0TnRNbjBEUlk",
 					"yadisk": "TcvT8_XA37vTd8"
 				}
 			}, {
@@ -698,7 +657,6 @@
 				"description": "Бегаем по подземелью/лабиринту и мочим монстров с 2ух стволки. Ну и попутно ищем выход или переход на другой этаж, как пойдёт.",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDa3NmamowUXZKdWM",
 					"yadisk": "f_-G-8As37vSSJ"
 				},
 				"note": "Демоверсия игры не запускается."
@@ -709,7 +667,6 @@
 				"image": "twg/2/rufus.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDeUxoUjF4Sk9GSFE",
 					"yadisk": "e_yh4sEx37vUMu"
 				}
 			}, {
@@ -719,7 +676,6 @@
 				"image": "twg/2/desert.png",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDcVZKYUUyOTRKYWc",
 					"yadisk": "XeDTVLQd37vVMv"
 				}
 			}, {
@@ -729,7 +685,6 @@
 				"image": "twg/2/lost.jpg",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDaUpjOEtkNC1xV3M",
 					"yadisk": "gIrxYp6L37vVon"
 				}
 			}
@@ -759,7 +714,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDclF0Ql9nQUhudHM",
 						"yadisk": "H0DjYOiHyJT2x"
 					}
 				}
@@ -775,7 +729,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDUjQzenFYVjh0OWM",
 						"yadisk": "h-r_qZ72yJTCD"
 					}
 				}
@@ -791,7 +744,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDalNLTkJMRWxBQVU",
 						"yadisk": "V6eu6AoTyJTBN"
 					},
 					"gamejolt": "absurdation/59747"
@@ -807,7 +759,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDSWgxNDZWUm1oZEU",
 						"yadisk": "mJvV-V_zyJTHn"
 					}
 				}
@@ -823,7 +774,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDR0Vna2tuU3pOQk0",
 						"yadisk": "dIDkFU__yJTJM"
 					}
 				}
@@ -946,6 +896,12 @@
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDLUdwcF9BYnpPNXM",
 					"yadisk": "iysMU0SryKHkY"
+				},
+				"other_links": {
+					"updated": {
+						"gdrive": "0B5M4fMX1HJxDUjdYLWVEU1F0OUk",
+						"yadisk": "P808w0Im3BQhbG"
+					}
 				}
 			}, {
 				"name": "Лесси Крип",
@@ -969,10 +925,13 @@
 				}
 			}, {
 				"name": "Trall Simulator",
+				"description": "Игра представляет из себя бессмысленный шутан с чятиком.",
 				"image": "",
 				"status": "final",
-				"links": {},
-				"note": "Поскольку игра была только в онлайн-версии, теперь она утеряна. Но возможно, у автора остались исходники."
+				"links": {
+					"gdrive": "0B5M4fMX1HJxDUjdYLWVEU1F0OUk",
+					"yadisk": "YG3QjXCq3BQgjh"
+				}
 			}, {
 				"name": "Wangan midnight",
 				"image": "",
@@ -1082,7 +1041,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDSDJPTERjQ05ySEE",
 						"yadisk": "UfWrq4ad37nSGz"
 					}
 				}
@@ -1098,7 +1056,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDX1I1VWh2WXFJam8",
 						"yadisk": "oZ-MUNj937nSjP"
 					}
 				}
@@ -1114,7 +1071,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDWmtOWi04REdERVk",
 						"yadisk": "2F_ZQx_v37nTQM"
 					},
 					"gamejolt": "apparatus-technology/107104"
@@ -1131,7 +1087,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDYk03QVc3VHQxMUE",
 						"yadisk": "OlmExFwy37nTib"
 					}
 				}
@@ -1147,7 +1102,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDQ0FDWlo0bDJLWUE",
 						"yadisk": "8_B0VfOB37nU24"
 					}
 				}
@@ -1163,7 +1117,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDRUxKSDdWLU5qblE",
 						"yadisk": "bz2E-hQI37nUjw"
 					}
 				},
@@ -1181,7 +1134,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDVGtOcXZUTkdHdkk",
 						"yadisk": "XN3miSSX37nVah"
 					}
 				}
@@ -1198,7 +1150,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDU3k4LWtLZ3BWbFU",
 						"yadisk": "LNhoqgNN37nVry"
 					}
 				}
@@ -1214,7 +1165,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDbExSZlJEY3JYRGM",
 						"yadisk": "u-KkyHQ337nWQk"
 					}
 				}
@@ -1231,7 +1181,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDMUlqc0NiMVBJQXc",
 						"yadisk": "29C5kJnl37nWfK"
 					}
 				}
@@ -1247,7 +1196,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDa1hWcEVjaGR2Qmc",
 						"yadisk": "rdEqgD-g37nX2T"
 					}
 				}
@@ -1263,7 +1211,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDWUNldkNsWFNrcTQ",
 						"yadisk": "xCeVsuwQ37nXMQ"
 					}
 				}
@@ -1280,7 +1227,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDcDBMT3dSaExFV3M",
 						"yadisk": "1x7MqHyl37nXnH"
 					}
 				}
@@ -1296,7 +1242,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDV19Yd3Z1ZGF5ZzQ",
 						"yadisk": "BcS9_iy437nY6Y"
 					}
 				}
@@ -1312,7 +1257,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDbzI3Sm5NSUduYms",
 						"yadisk": "ELBMvIl737nYR5"
 					}
 				}
@@ -1329,7 +1273,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDdk4zQ0RpSXhTOGc",
 						"yadisk": "oruZu9V637nYra"
 					},
 					"demo_updated": {
@@ -1351,7 +1294,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDZUVIaHlDNWd0T2M",
 						"yadisk": "mHHwfRMB37nZEq"
 					}
 				}
@@ -1367,7 +1309,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDV1Z4NGV4cUNJdzA",
 						"yadisk": "9_g94LA337nZg5"
 					},
 					"repo": {
@@ -1387,7 +1328,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDdTNUV0pIVXZVZE0",
 						"yadisk": "lKNitk-e37nZyU"
 					}
 				},
@@ -1404,7 +1344,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDNUNISmdIVVZkaVU",
 						"yadisk": "uo24LzR737naEi"
 					},
 					"uptated": {
@@ -1583,7 +1522,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDVVA3WnBKTFlZOGc",
 						"yadisk": "Sj9DHm8EocuaC"
 					},
 					"final_multi": {
@@ -1609,7 +1547,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDd3ZzMzEyRWJEdjA",
 						"yadisk": "sYxxYtU3oe5oQ"
 					},
 					"updated": {
@@ -1629,7 +1566,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDdEZVUkZpM3kwYkk",
 						"yadisk": "GSyA3zJLodcm5"
 					}
 				},
@@ -1647,7 +1583,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDa0VlRTEtc1U0OU0",
 						"yadisk": "d_9R599PoasLV"
 					}
 				}
@@ -1663,7 +1598,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDNnU0LTAydFlFUjA",
 						"yadisk": "sY5GdsD6ockK7"
 					}
 				}
@@ -1679,7 +1613,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDeVVLakV1RFdvUXM",
 						"yadisk": "f4SNbis7oZKw6"
 					},
 					"gamejolt": "super-lucky-puncher/128968"
@@ -1697,11 +1630,9 @@
 				"other_links": {
 					"demo_multi": {
 						"win": {
-							"gdrive": "0B5M4fMX1HJxDZkdhalFWN19QV2M",
 							"yadisk": "FcgEKF4wogTZN"
 						},
 						"mac": {
-							"gdrive": "0B5M4fMX1HJxDd3ZYYlYyYVVhWHc",
 							"yadisk": "M2_onsmLogTZ9"
 						}
 					},
@@ -1732,7 +1663,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDSmN3T0otMXRlaWM",
 						"yadisk": "VwBA8MnQocEVd"
 					},
 					"final_multi": {
@@ -1761,7 +1691,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDTi1OSUR6SG5HYmM",
 						"yadisk": "OOM-EyoXocFoF"
 					}
 				}
@@ -1777,7 +1706,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDQ3IwREpudG00N1E",
 						"yadisk": "HnnI5OhFoZLYB"
 					}
 				}
@@ -1793,7 +1721,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDazZXTEpFVlZWUU0",
 						"yadisk": "FisL2UJYocqNL"
 					}
 				}
@@ -1810,15 +1737,12 @@
 				"other_links": {
 					"demo_multi": {
 						"win": {
-							"gdrive": "0B5M4fMX1HJxDbVBtRkRtN25QZWM",
 							"yadisk": "pRapVl9g388kcB"
 						},
 						"linux": {
-							"gdrive": "0B5M4fMX1HJxDTzdjMHoyVjlXLTg",
 							"yadisk": "hLXEB9zn388kWD"
 						},
 						"mac": {
-							"gdrive": "0B5M4fMX1HJxDTTBqYzlGUW52TTA",
 							"yadisk": "fTwLFgtw388kZW"
 						}
 					},
@@ -1845,7 +1769,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDRmFoVkRFUXM1VXc",
 						"yadisk": "NG6hk78Fodp54"
 					},
 					"final_multi": {
@@ -1872,15 +1795,12 @@
 				"other_links": {
 					"demo_multi": {
 						"win": {
-							"gdrive": "0B5M4fMX1HJxDOXM5dzNKbmpqdE0",
 							"yadisk": "jdG1tPtEogTmS"
 						},
 						"linux": {
-							"gdrive": "0B5M4fMX1HJxDZzcxWndOTGVXNnM",
 							"yadisk": "UQY8D-qwogTm6"
 						},
 						"mac": {
-							"gdrive": "0B5M4fMX1HJxDSGhfZUU5RllWcGs",
 							"yadisk": "TReqXMXFogTmF"
 						}
 					},
@@ -1907,7 +1827,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDRnJuU3FtTFdRekU",
 						"yadisk": "pCrT-XMQocgY8"
 					},
 					"updated": {
@@ -1927,7 +1846,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDR1piWjhUTVQzOXM",
 						"yadisk": "-ATquAWdog3ND"
 					},
 					"repo": {
@@ -1946,7 +1864,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDM1phLUdMTk9XVTA",
 						"yadisk": "jlmiq0GrodZbm"
 					}
 				}
@@ -1962,7 +1879,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDdWVQQnNSbUEzeGM",
 						"yadisk": "TyuCSI9aoddRH"
 					}
 				}
@@ -1978,7 +1894,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDcXN1MUtxdF9nQXc",
 						"yadisk": "UNBXtMCPoddmd"
 					}
 				}
@@ -1994,7 +1909,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDYVphcGRtU0Z0dWM",
 						"yadisk": "oOsEGCWnod6xA"
 					}
 				}
@@ -2011,15 +1925,12 @@
 				"other_links": {
 					"demo_multi": {
 						"win": {
-							"gdrive": "0B5M4fMX1HJxDR0w5WnA1Q3AwTGM",
 							"yadisk": "2l-UuROgodaHQ"
 						},
 						"linux": {
-							"gdrive": "0B5M4fMX1HJxDeXM0TFRENmhZa3c",
 							"yadisk": "kROOtrq6ogTG9"
 						},
 						"mac": {
-							"gdrive": "0B5M4fMX1HJxDbjFDSWwtRU5Lclk",
 							"yadisk": "6m9yLYwwogTGS"
 						}
 					}
@@ -2036,7 +1947,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDSVcwUVFDTDh6dHM",
 						"yadisk": "ZQE50ciYocNNY"
 					}
 				}
@@ -2052,7 +1962,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDakFGT2tua2pHa1k",
 						"yadisk": "iT8ApB8yocnEv"
 					}
 				}
@@ -2068,15 +1977,12 @@
 				},
 				"other__multi": {
 					"win": {
-						"gdrive": "0B5M4fMX1HJxDNUFxQjlfV1JuOWs",
 						"yadisk": "rtdT9ybsogTCJ"
 					},
 					"linux": {
-						"gdrive": "0B5M4fMX1HJxDeTVlR21GNlpCWEk",
 						"yadisk": "C_EUUAnHogT3Y"
 					},
 					"mac": {
-						"gdrive": "0B5M4fMX1HJxDNm92R3ZpOVI5Rnc",
 						"yadisk": "rtdT9ybsogTCJ"
 					},
 					"final_multi": {
@@ -2118,7 +2024,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDVnRYUUJDaVlEXzQ",
 						"yadisk": "ifhx15IGodfqR"
 					},
 					"final_multi": {
@@ -2140,7 +2045,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDaTk0RWN3R19YcUU",
 						"yadisk": "A89cHltIodo6h"
 					},
 					"final_multi": {
@@ -2167,15 +2071,12 @@
 				"other_links": {
 					"demo_multi": {
 						"win": {
-							"gdrive": "0B5M4fMX1HJxDeFJwcVQxZFlvdzg",
 							"yadisk": "_WYLwENDogSre"
 						},
 						"linux": {
-							"gdrive": "0B5M4fMX1HJxDZmVLTnF5eE1feWM",
 							"yadisk": "EaxUqM3HogSsZ"
 						},
 						"mac": {
-							"gdrive": "0B5M4fMX1HJxDel9TMUYzQzFJVjg",
 							"yadisk": "WduaRhn4ogSss"
 						}
 					}
@@ -2193,7 +2094,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDMTh2V010LW81aDQ",
 						"yadisk": "sQciwBqOocbjK"
 					}
 				}
@@ -2209,7 +2109,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDR1FIUUNiTGpYME0",
 						"yadisk": "Q8ISiwewodd8U"
 					}
 				}
@@ -2225,7 +2124,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDekhrazdVc0lVUEE",
 						"yadisk": "6WQLUX_HodofC"
 					}
 				}
@@ -2241,7 +2139,6 @@
 				},
 				"other_links": {
 					"demo": {
-						"gdrive": "0B5M4fMX1HJxDU3dITkw0Q1M2Zmc",
 						"yadisk": "ysBR_hEcocGai"
 					}
 				},
@@ -2253,7 +2150,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDYzZrdzUzakl1R0k",
 					"yadisk": "gbIuHzddodcBQ"
 				},
 				"other_links": {
@@ -2270,7 +2166,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDSWs3U0VETjREZDg",
 					"yadisk": "iJmjQx3uodoNb"
 				},
 				"other_links": {
@@ -2287,7 +2182,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDSjBiV1ZLbDNVdUk",
 					"yadisk": "neAf7zksoZVaU"
 				},
 				"other_links": {
@@ -2302,7 +2196,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDcFdIODF4blRwdG8",
 					"yadisk": "1FQ6boY6ocE8a"
 				}
 			}, {
@@ -2312,7 +2205,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDeWhKM1hDZVF3SW8",
 					"yadisk": "mepr78AuociPw"
 				}
 			}, {
@@ -2322,7 +2214,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDRkV6WU1aOGI0VVU",
 					"yadisk": "C6SsDc0qodbQW"
 				}
 			}, {
@@ -2332,7 +2223,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDb0pvUHFFY21hUU0",
 					"yadisk": "a790Q7kCogTV7"
 				},
 				"other_links": {
@@ -2350,7 +2240,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDNVlkVDRGMnV4ajA",
 					"yadisk": "9t8kYWDEodfWj"
 				}
 			}, {
@@ -2359,7 +2248,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDbTU1b0ltQ2VieW8",
 					"yadisk": "G7j5DnU1odgq2"
 				}
 			}, {
@@ -2368,7 +2256,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDT051TlBXWm90QTg",
 					"yadisk": "ckWP85LEodkAq"
 				}
 			}, {
@@ -2378,7 +2265,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDU1pVNFBUVmE1NVE",
 					"yadisk": "oMz_RXTiodotC"
 				}
 			}, {
@@ -2388,7 +2274,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDOG1NNWp1T3Q3SzA",
 					"yadisk": "zjiSOO6SodpYd"
 				}
 			}, {
@@ -2398,7 +2283,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDTjQ3YVBlbUVXd3M",
 					"yadisk": "sH9eNdnjods77"
 				}
 			}, {
@@ -2408,7 +2292,6 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDRmY5SEVicGZpY0k",
 					"yadisk": "lRqqkdvooe5jb"
 				}
 			}
@@ -2448,7 +2331,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDdWdPb1pJN0xBNU0",
 							"yadisk": "jtdrAtmwtpvPJ"
 						}
 					}
@@ -2463,7 +2345,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDSzYtMGFkdzBYM2c",
 							"yadisk": "ZXPcsn6btpYoU"
 						}
 					}
@@ -2479,7 +2360,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDT040ejNWZ0tSa2c",
 							"yadisk": "nuuE1vjStpvXe"
 						}
 					}
@@ -2495,7 +2375,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDdFlhRWJBNGsyYWM",
 							"yadisk": "kaMZHZ-rtn6WX"
 						}
 					}
@@ -2511,7 +2390,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDVmVBM3RENklpV3M",
 							"yadisk": "AMd7aAIototMH"
 						}
 					}
@@ -2526,7 +2404,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDSlptdzBQRXlWMGs",
 							"yadisk": "0HkDqDZKtpvhz"
 						}
 					}
@@ -2541,7 +2418,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDb0tiVm5rOGJxSVU",
 							"yadisk": "pVm3KT-KtotKy"
 						}
 					}
@@ -2556,7 +2432,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDVjNqQWFCTFFlMGc",
 							"yadisk": "xwhXdr9btoEzn"
 						}
 					}
@@ -2572,7 +2447,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDWTYydFZzZnZVRWc",
 							"yadisk": "QGWL2VMitnrmG"
 						}
 					}
@@ -2588,7 +2462,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDbm5Kb3cwVGdmdnM",
 							"yadisk": "b3WB0Gs-tpGtK"
 						}
 					}
@@ -2603,7 +2476,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDTEtvTEx0T0tzdFE",
 							"yadisk": "cD4FdMfDtpveV"
 						}
 					}
@@ -2618,7 +2490,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDckUwTnEtcktlQVU",
 							"yadisk": "UA4mYFhctpv2Z"
 						}
 					},
@@ -2630,7 +2501,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDY2NNSTU5MlE5RVE",
 						"yadisk": "siMyLHr1tpCNP"
 					}
 				}, {
@@ -2639,7 +2509,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDOE5KTWtzdzBXYXM",
 						"yadisk": "79LSX-QGtpJLD"
 					}
 				}, {
@@ -2649,7 +2518,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDWUFLQmNEbURTTlk",
 						"yadisk": "JNYkW5LxtpvBA"
 					}
 				}, {
@@ -2658,7 +2526,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDX0JiY0hFdnVaM0E",
 						"yadisk": "F1my_SgmtpvPi"
 					}
 				}, {
@@ -2667,7 +2534,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDMzFHVEZQNXVrSE0",
 						"yadisk": "yr_9mChwtpvoA"
 					}
 				}, {
@@ -2677,7 +2543,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDSnZhT0xJa2ZkN0k",
 						"yadisk": "3Zbju0dQtpvvF"
 					}
 				}
@@ -2701,7 +2566,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B7JZNHF146cwTzFFeHdPOTA5N0E",
 							"yadisk": "PJWgu07kyxvCs"
 						},
 						"final_multi": {
@@ -2726,7 +2590,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0BwGmkO9g5KX6RUJCMVB1dUpBbjg",
 							"yadisk": "6AOE0lbZtpv7S"
 						}
 					},
@@ -2741,7 +2604,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDS3czMmhzNGNvY2M",
 							"yadisk": "vuekQKFoyxwDX"
 						}
 					}
@@ -2769,7 +2631,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDcVVZLW04WFlrZGs",
 							"yadisk": "XuuuOkllyxyge"
 						}
 					}
@@ -2784,7 +2645,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDSm9GSmtJODZkWDQ",
 							"yadisk": "fsml3VHoyxyrz"
 						},
 						"gamejolt": "cyber-city-madness/174748"
@@ -2800,7 +2660,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDcDV5VTBVd19DeUk",
 							"yadisk": "EIPbl-ULtpe94"
 						}
 					},
@@ -2816,7 +2675,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDdWF3MmpQYXV6MjA",
 							"yadisk": "MT4KQDGQtpAFN"
 						}
 					}
@@ -2830,7 +2688,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDWDBKaVJOM2NVcmc",
 							"yadisk": "Y8OpDuzL33zYUG"
 						}
 					}
@@ -2845,7 +2702,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDYjA5bzNkTWc0QTg",
 							"yadisk": "xmrd-bOA35LiJ4"
 						}
 					},
@@ -2861,7 +2717,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDaF9TOGlFZUxtcDg",
 							"yadisk": "bD7ImUYv35Ljis"
 						}
 					}
@@ -2876,7 +2731,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDZ2U5R3pESGNmOHc",
 							"yadisk": "MARZpHPu35LkCJ"
 						}
 					}
@@ -2891,7 +2745,6 @@
 					},
 					"other_links": {
 						"demo": {
-							"gdrive": "0B5M4fMX1HJxDbHFtc0Y2ckUwNGs",
 							"yadisk": "MARZpHPu35LkCJ"
 						}
 					}
@@ -2901,7 +2754,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDQ1VHSW54T0Rld1E",
 						"yadisk": "LesYMwrx38Fu3a"
 					},
 					"other_links": {
@@ -2916,7 +2768,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDVmEyNlpHRGF1OTg",
 						"yadisk": "CXYL8LF035LqSZ"
 					}
 				}, {
@@ -2924,7 +2775,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDN2pNSl9uV1RjOHM",
 						"yadisk": "sROby_RdtpAHn"
 					}
 				}, {
@@ -2932,7 +2782,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDbDVOc0k1WTYzZ1U",
 						"yadisk": "QPLM3ZO4tpAE9"
 					}
 				}, {
@@ -2942,7 +2791,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDNHRGZGFMRGRSS1k",
 						"yadisk": "QbLqRcdQtpAER"
 					}
 				}, {
@@ -2951,7 +2799,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDcENOYmxndzJMclE",
 						"yadisk": "g2F1EQ4ntpAFW"
 					},
 					"repeat": "demo"
@@ -2960,7 +2807,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDS2Nwa3NQN0k3ajQ",
 						"yadisk": "ssmI9-73tpAFv"
 					}
 				}, {
@@ -2969,7 +2815,6 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDQ3hmZ0s0NjdYM1U",
 						"yadisk": "6RxkUwqjtpAGj"
 					},
 					"repeat": "demo"
@@ -2978,12 +2823,700 @@
 					"image": "",
 					"status": "demo",
 					"links": {
-						"gdrive": "0B5M4fMX1HJxDLXBYMHlpa1oySlU",
 						"yadisk": "fbABOnv5tw4cx"
 					}
 				}
 			]
 		},
 		"note": "Вместо одно конкурса было проведено фактически два."
+	},
+	"9": {
+		"start": 1485162000,
+		"end": 1486505400,
+		"same": [
+			"Волшебное путешествие",
+			"Наркотический трип"
+		],
+		"descriptions": [
+			"Наверняка в детстве вы читали различные сказки или смотрели мультфильмы. Десятки (а то и сотни) различных по своей структуре миров, приключения различной степени эпичности и прочее-прочее-прочее. И наверняка хоть на минуточку вы мечтали побывать в одном из таких, чтобы прочувствовать, так сказать, на своей шкуре всю необычность этого мира.\nИ вот представьте, в один момент вам (не важно каким способом) приходит приглашение посетить один из таких миров. Однако не думаете же вы, что всё так просто? По мановению волшебной светящейся палочки вас телепортировать туда никто не собирается, и добираться нужно самому.",
+			"Так или иначе, игра должна содержать элементы наркотического опъянения. Галлюцинации, шиза, резкая смена настроения - ограничителем служит только ваша фантазия. Естественно, жалательно незамутнённая.\nНу и так как наркотики - это, в своём большинстве, плохо, то их применение не должно поощряться, разве что высмеиваться.\nТема была запрещена администрацией и заменена на другую."
+		],
+		"site": "https://twoweeksgame9.blogspot.ru",
+		"games": [
+			{
+				"name": "Omsk journey",
+				"genre": "Платформер, рогалик",
+				"description": "Храбрая омская птица помогает жителям Омска в освобождении от зомби создаными низкими скидками, которые отбирают деньги у людей, чтобы купить игр в стиме со скидкой. Сможет ли он противостоять Гейбу?",
+				"tools": "Game maker studio, Photoshop, Tiled",
+				"image": "",
+				"status": "1",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDYW5lMU90YWd5SHc",
+					"yadisk": "https://yadi.sk/d/PjHxnPYT3DQNhF"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/jJU-19cP3BuBfM"
+					}
+				}
+			}, {
+				"name": "Caffeine",
+				"genre": "Сайд-скроллер",
+				"description": "Игра за офисного работника, с очень богатым воображением, который в один прекрасный день обнаруживает пересечение своего воображения с реальным миром, и отправляется в \"волшебное путешествие\".",
+				"tools": "Construct 2, Pyxel Edit",
+				"image": "",
+				"status": "1",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDQlNXTzgwRnNOTzQ",
+					"yadisk": "https://yadi.sk/d/KjYye7033DPyNc"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/TOZSgYS33BmB8U"
+					}
+				}
+			}, {
+				"name": "TakeTheRide!",
+				"description": "Два приятеля едут через пустыню Невады, тут и начинается их путешествие...",
+				"tools": "Unity 5.3.6, 3ds Max 2014, Photoshop CS6",
+				"image": "",
+				"status": "2",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDdURhejlQTjdaM00",
+					"yadisk": "https://yadi.sk/d/zH6K1mhB3DQWj9"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/FDoybMXF3BvMo4"
+					}
+				}
+			}, {
+				"name": "Blaster Cop",
+				"genre": "Шутер",
+				"description": "Подозрительный кандидат в президенты, мистер Сендмен, набирает огромную популярность и поддержку, связано ли это как-то с популярностью виртуальной реальности MANYAMIROUQE 3D со своим волшебным мирком с орками и эльфами? Главный герой коп, ему дали задание найти ночной клуб Curva Mater и разобраться с хозяином заведения, за торговлю киберстимуляторами, которые позволяют читерить в манямирке. Но чтобы добраться до клуба, придется пройти по грязному даунтауну, где обитают одни только маргиналы и преступники.",
+				"tools": "GameMaker: Studio, FL Studio",
+				"image": "",
+				"status": "3",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDSmJZeTI2N281Wnc",
+					"yadisk": "https://yadi.sk/d/86Nfm2lR3DQ7eq"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/0aJQaP7A3Bvcek"
+					},
+					"updated": {
+						"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDYVEwMzZteWQ2cFE",
+						"yadisk": "https://yadi.sk/d/IkajU6Xp3EPZeF"
+					}
+				}
+			}, {
+				"name": "Путешествие в PUSSY",
+				"description": "В жизни каждого православного мужчины наступает момент(естественно после свадьбы), когда ему(его будущему сыну) приходится совершить волшебное путешествие к яйцеклетке матери, дабы свершилось чудо и зародил господь жизнь.",
+				"tools": "Unity",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDZ2YyVjRKMnhGdU0",
+					"yadisk": "https://yadi.sk/d/ZpquO7w53DPpRx"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/7eAZG07D3BknjV"
+					}
+				}
+			}, {
+				"name": "Вырасти Дерево: Изнеможение",
+				"description": "Синдикат похитил димасика. Только чудо может спасти мир от неминуемого уничтожения.",
+				"tools": "Godot3D, Blender, Krita, LMMS, Audacity",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDNm1hYWVXdEhpaFE",
+					"yadisk": "https://yadi.sk/d/YPLUF05_3DPpsY"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/6AShGVSJ3Buzau"
+					}
+				}
+			}, {
+				"name": "WonderTravel",
+				"description": "Вонни путешествует по параллельным мирам, сталкиваясь с загадочными и волшебными свойствами предметов.",
+				"tools": "Blender, Gimp, Paint, Audacity, Unity",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDdUM0bHhfUGJPVjA",
+					"yadisk": "https://yadi.sk/d/wrBRS3bu3DPvao"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/HCksRtqf3BpEgC"
+					},
+					"dlc": {
+						"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDSExEaEp4REZyT00",
+						"yadisk": "https://yadi.sk/d/nPDzrLr_3EPZrH"
+					}
+				}
+			}, {
+				"name": "Очень волшебная книга",
+				"description": "Мы играем за волшебницу, которая нашла волшебную книгу. Книга способна перемещать волшебницу между нашим миром и миром описанным на страницах этой книги",
+				"tools": "Game maker 8",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDXzNWSWplSDZkdDQ",
+					"yadisk": "https://yadi.sk/d/1Z94xtOV3DPw9y"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/4c1V0skr3Bsouy"
+					}
+				}
+			}, {
+				"name": "Dark Legend Chronicles: Revelation of Legacy",
+				"description": "Мира, последняя из фей, захвачаена в плен чудовищными созданиями Даггората, демилича одержимого властью над миром. В разрушенном мире в котором есть только война, она -- последняя надежда Альянса Света. Но сможет ли она спастись из пыточных подземелий и преодолеть сотни опасностей что поджидают ее на пути? Это зависит только от тебя.",
+				"tools": "GameMaker: Studio",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDX1ROV0lzdlQxczA",
+					"yadisk": "https://yadi.sk/d/AymJHJdd3DPwxi"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/GytOu8nG3BuFve"
+					}
+				}
+			}, {
+				"name": "TripVerse: A Magical Trip Into Madness",
+				"description": "Путешествие робота во внутренний кибермирок.",
+				"tools": "Unity",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDa3poZVk2ampxRnc",
+					"yadisk": "https://yadi.sk/d/9r4uyB1P3DPy88"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/MKX0fxaJ3BujwZ"
+					}
+				}
+			}, {
+				"name": "MechaMagic",
+				"genre": "Квест",
+				"description": "Вы - обычный робот шахтерской модели. Однажды во время добычи руды Вы нашли станный кристалл, который раскололся у вас в руках вызвав обрушение шахты. Ваша задача - выбраться из каменной ловушки и узнать, что за сила спрятана в этом кристалле.",
+				"tools": "Unity Engine, 3DS Max 2015, Substance Painter 2",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDdnlUQzhqVktfS3M",
+					"yadisk": "https://yadi.sk/d/MPwQ8Fyv3DQ2tU"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/0rY0EXN_3BuQwE"
+					},
+					"updated": {
+						"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDNERjMFpDVzJubDA",
+						"yadisk": "https://yadi.sk/d/-iHAX7XJ3EPZwQ"
+					}
+				}
+			}, {
+				"name": "Мама, я дудосер",
+				"description": "Ультражесткая хак-тима Web Analitics Group занимается только ультражесткими вещами. Ультражесткой хак-тиме пришел ультражесткий реквест на дудос какого-то IP за ультражесткие бабки. Что может пойти не так? Что может встать выше денег? Могут ли близкие партнеры стать злейшими врагами?",
+				"tools": "Microsoft Visual Basic 6.0, Adobe Photoshop CS5.1, Microsoft Paint",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDRDA5bkdLSXhCd0E",
+					"yadisk": "https://yadi.sk/d/8sbYWlUR3DPyzi"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/_AqV_fPV3Bvsxy"
+					}
+				}
+			}, {
+				"name": "Alterpath",
+				"genre": "Квест с элементами хоррора",
+				"description": "Вы попали в странное заброшенное место. Но как вы здесь оказались? Что-то в истории не складывается. Вам предстоит разобраться, что случилось, и как вам снова попасть домой.",
+				"tools": "Unreal Engine 4, Abobe Photoshop, 3DMax, Audacity",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDaGtSbXgzLWNEOTg",
+					"yadisk": "https://yadi.sk/d/DZHrGyrl3DPzoL"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/wk346dKo3BroSV"
+					}
+				}
+			}, {
+				"name": "Dragonborne",
+				"description": "Кобольда избили гопники, но находясь в коме, он ПУТЕШЕСТВУЕТ в ВОЛШЕБНЫЙ сон, где уже он бьёт гопников",
+				"tools": "Blender, Unity3d, GIMP",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDN284c3lvY0RtSDA",
+					"yadisk": "https://yadi.sk/d/Qt6-8nE33DQ29d"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/DVDqciaC3BtbhY"
+					}
+				}
+			}, {
+				"name": "ROUTE 51",
+				"description": "Догони их и верни свои бургеры.",
+				"tools": "Хуюнити, ГендерБлендер, ФотоЖоп",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDSUdyUlk4Nk5TQkU",
+					"yadisk": "https://yadi.sk/d/uDtV5fAn3DQ2Rw"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/sOxnr7is3Bs2mN"
+					}
+				}
+			}, {
+				"name": "Lone road ahead",
+				"genre": "Runner",
+				"description": "Побег из депрессивной реальности",
+				"tools": "Unity 5",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDNG1PTEJNXzUwdVU",
+					"yadisk": "https://yadi.sk/d/WTXBrPsg3DQ2pQ"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/10TEqaZ03Bssxk"
+					}
+				}
+			}, {
+				"name": "Wizard Run",
+				"genre": "раннер",
+				"description": "Вы волшебник. Всю жизнь Вы служили лордам, помогали им тайными знаниями и обучали их избалованных детишек. А все это время Ваша мечта ускользала от Вас. Всю жизнь вы пытались постичь тайну левитации, научиться летать, как птица - но все тщено. Вы чувствуете, что былая сила и смекалка уже начали покидать Вас, и осталось совсем недолго.",
+				"tools": "Flash (FlashDevelop), Starling, Dragonbones, Photoshop",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDYlFYVjlqNmcwN3c",
+					"yadisk": "https://yadi.sk/d/0nEQtNyW3DQ44c"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/KxFvvjq63BuhgA"
+					}
+				}
+			}, {
+				"name": "Delirium",
+				"description": "Помогите главному герою выбраться из жутких и пугающих измерений Делириума, куда он случайно попал, обратно, в его родной мир дружбы, волшебства и магии.",
+				"tools": "Rust/sdl2, IntelliJ IDEA, Gimp, FL Studio, Tiled, Audacity",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDaDdDamtCWTZieVU",
+					"yadisk": "https://yadi.sk/d/gvJevvgu3DQ8YU"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/Lgi__cNR3BvDUT"
+					},
+					"repo": {
+						"github": "twoweeks/delirium"
+					}
+				}
+			}, {
+				"name": "Toasted",
+				"demo_name": "Отважный маленький тостер который не смог в /gd/",
+				"genre": "Toast-em-up",
+				"description": "Главный герой не по своей воле превращенный в тостер пытается выбраться из заколдованного мира.",
+				"tools": "срюнити, VS2015, Modo, Zbrush, Photoshop, xNormal",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDWU9tckJaRFpDV1k",
+					"yadisk": "https://yadi.sk/d/hz8oCF4_3DQC8W"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/CeKmQ-3z3BviYt"
+					},
+					"updated": {
+						"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDbUpDSFFLMHV5NTA",
+						"yadisk": "https://yadi.sk/d/xv5bDkaM3EPaLn"
+					}
+				}
+			}, {
+				"name": "Soap",
+				"description": "Человек собрался вешаться, но мыло из шкавчика было внезапно похищенно.",
+				"tools": "Unity3d, 3ds max, Audacity, Photoshop",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDaDUzczJ5XzFQb1k",
+					"yadisk": "https://yadi.sk/d/6J3bnjfz3DQCpp"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/t53_BHpE3Btodn"
+					}
+				}
+			}, {
+				"name": "Anon Magic Trip",
+				"demo_name": "Mistik Forest",
+				"genre": "платформер 2D с элементами квеста",
+				"description": "Эта игра повествует о необычных приключениях молодого человека по имени Анон. Который постоянно попадает в курьёзные ситуации и места, например: кошмарный лес с пони людоедами, секретная лаборатория людей будущего, разрушенный город во время нашествия инопланетных крачипуцев. Это легко объясняется тем, что он живет в волшебном мире. Также он путешествует в другие миры, которые сам считает волшебными.",
+				"tools": "Конструктор Construct 2, XnView, Photoshop CS5, Movavi",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDVG96MEVjN3Q4UTQ",
+					"yadisk": "https://yadi.sk/d/-9w0O_xB3DQHKc"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/RQJlWSC03Bw2eb"
+					}
+				}
+			}, {
+				"name": "SpaceDreamer",
+				"genre": "Визуальная новелла, топ даун шутер, скролл шутер, пошаговая стратегия, симулятор полетов в космосе",
+				"description": "Вы - одинокий, хиккующий капитан корабля. Вас остоебало одиночество и вы решили обзавестись друзьями. А как их получить? Завоевать их планету и стать их вождем, разумеется.",
+				"tools": "Uniti C#",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDR0tEY05JZFJ6UVk",
+					"yadisk": "https://yadi.sk/d/6Ga5dGDF3DQRPJ"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/Au642E8-3BtXur"
+					}
+				}
+			}, {
+				"name": "Oasis Awaits",
+				"description": "Единственный способ выжить в мире после катастрофы - это бежать. На другом конце пустыни тебя ждёт таинственный Оазис, последнее безопасное место в пустошах. Но сможешь ли ты достичь его, когда тебя преследует армия самого жестокого главаря пустошей?",
+				"tools": "Unity 5.5.0f3, Adobe Photoshop CC3",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDamNqN2VXUFRRSzQ",
+					"yadisk": "https://yadi.sk/d/ECy74dEE3DQX5k"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/E-G71MeI3BtNGn"
+					},
+					"updated": {
+						"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDVWh4NzV1MWNUY1U",
+						"yadisk": "https://yadi.sk/d/c9PqY2dh3EPaBV"
+					}
+				}
+			}, {
+				"name": "СУПЕР ВОЛШЕБНЫЕ ПУТЕШЕСТВЕННИКИ",
+				"description": "Грибочлены пытаются пропутешествовать в анус принцессы. Простой мальчик из деревни берется защитить честь этой девы. Судьба сводит двоих.",
+				"tools": "UNITY",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDMWszNTJjR3hWWFU",
+					"yadisk": "https://yadi.sk/d/W7z9OaG23DQZ6F"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/WLvBzUmo3BupHG"
+					}
+				}
+			}, {
+				"name": "Тайна долины роз",
+				"description": "Главному герою нужно будет добраться до дерева, листья которого могут исцелить любого человека.",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDRFBfV0h4LW5xTmM",
+					"yadisk": "https://yadi.sk/d/T9j2vv7g3DQaoo"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/aeKlKK_s3BvazJ"
+					}
+				}
+			}, {
+				"name": "Злоключения Хомяка",
+				"demo_name": "Приключения Хомяка",
+				"description": "Игра про хомячка, попавшего в необычный мир, где он иззучает его, знакомится с жителями и выполняет их поручения.",
+				"tools": "rpg maker VX ace",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDMEdFX01vclEwMXc",
+					"yadisk": "https://yadi.sk/d/Y654D-mf3DQjuQ"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/5Ho3eCo63BunGR"
+					}
+				}
+			}, {
+				"name": "KALOBOK",
+				"genre": "Шутер с видом сверху",
+				"description": "На одной планете есть 2 расы - зелёные и жёлтые, они живут на разных континентах и ранее между ними шли войны, но сейчас установился нейтралитет иногда переходящий во вражду. В плане технологий они неплохо развиты - открывали небольшие порталы в другие миры и в некоторых даже нашли жизнь. Казалось бы, что может пойти не так?...",
+				"tools": "Unity, зд макс и paint.net",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDcndoUFZRR3VOcGM",
+					"yadisk": "https://yadi.sk/d/WTvU3TqV3DQsGs"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/b2Aka9zS3BvcEY"
+					}
+				}
+			}, {
+				"name": "Mucky Ducky: Vietnam DLC",
+				"demo_name": "Жорней",
+				"description": "Отправьтесь в волшебное пушетествие во времена Вьетнамско войны при помощи неуправляемых военных флешбеков.",
+				"tools": "Aseprite, Unity 3D",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDaW9qMkp0Uy10RFU",
+					"yadisk": "https://yadi.sk/d/m9eKO0Be3DQoQh"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/yUcnlyrl3BsZ7j"
+					}
+				}
+			}, {
+				"name": "OverCute",
+				"genre": "2д экшн",
+				"description": "Безобидное путешествие обернулось трагедией для нашей героини. Ну или как посмотреть.",
+				"tools": "PaintTool Sai, Adobe Photoshop, Dragon Bones, Unity",
+				"image": "",
+				"status": "final",
+				"links": {
+					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDVnBZd2JjZmpBaWc",
+					"yadisk": "https://yadi.sk/d/1ESR3OA_3DQpMo"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "https://yadi.sk/d/7Vn4o0C_3BvNhZ"
+					}
+				}
+			}, {
+				"name": "Pidoraha Magic",
+				"genre": "0-gameplay",
+				"description": "Ты - самый обычный житель пост-советского пространства. Вокруг тебя всё уныло и грустно, но ты умеешь наслаждаться даже такими вещами, как поездка в унылом поезде. И сегодня ты покажешь как превратить обычную поезду в нечто невообразимое.",
+				"tools": "Unity 5.5, Photoshop CC 2015, Paint.Net, Audacity, Fl Studio 12, Visual Studio 2015, etc.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/Ga_1QQPU3BeLMf"
+				}
+			}, {
+				"name": "Renaissance (Эпоха Возрождения)",
+				"genre": "Action-RPG",
+				"description": "Люди одолели смерть и научились воскрешать себя благодаря Частице Бога, обнаруженной в ходе экспериментов с адронным коллайдером. Особенностью всеобщего возрождения стало то, что оно распространялось на всех живых существ планеты, что поставило Землю на грань уничтожения.",
+				"tools": "JS - велосипед, Paint.Net, Atom",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/c4FZ5YSl3BeTXc"
+				}
+			}, {
+				"name": "Steam Tyan",
+				"genre": "Симулятор",
+				"description": "Путешествие на паровозе с тян из Tyan Game.",
+				"tools": "Unity, 3DS Max, Reaper",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/9czJBiDA3BgFL9"
+				}
+			}, {
+				"name": "Химическая Вальхалла",
+				"description": "Игроку предстоит взять на себя роль прекрасной девы-воительницы, благословляющей дарми Одина отважных воинов на их пути к вратам Вальхаллы.",
+				"tools": "libGDX",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/7doKeJ7u3Bkown"
+				}
+			}, {
+				"name": "Йогуртовый Завод",
+				"genre": "экономическая стратегия",
+				"description": "Игра в которой вам предстоит играть роль директора завода по производству йогуртав. Я сам очень люблю кушать йогурт, каждый день с утра его кушаю. И мечтаю однажды проснуться директором йогуртого завода и смогу кушать его сколько влезет.",
+				"tools": "C#",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/LKBUAUXB3Brzfb"
+				}
+			}, {
+				"name": "Путешествие вглубь леса",
+				"description": "Интерактивная текстовая история",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/xc_RGPf_3Bs8Dn"
+				}
+			}, {
+				"name": "Frontier Worlds",
+				"description": "Действие происходит в недаеком будущем, на границе миров.",
+				"tools": "Unity3d, paint",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/tKH_quOf3BsBVw"
+				}
+			}, {
+				"name": "Friendly Explosion",
+				"description": "Мир, в котором 2 друга проводили свою беззаботную вечность, подвергся падению метеорита, который в свою очередь пробил отверстие в земле. Украшенная разноцветными кристаллами дыра не предвещает ничего скучного для двоих друзей. Может быть кинуть туда что-нибудь взрывающееся будет не такой уж и плохой идеей.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/1Rcdo8Wy3BtNW6"
+				}
+			}, {
+				"name": "MAGIC MUSHROOM",
+				"description": "Короче, я за три четыре дня не успел ассетов натаскать. Карта не доделана, нихуя нет, но можно пинать петушков. А еще можно в лес сбегать и поискать там грибы.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/7odEr7NL3Bto5C"
+				}
+			}, {
+				"name": "OGL_RPG",
+				"description": "Cкелеты спавнятся без остановки, сможешь ли ты с ними совладать?",
+				"tools": "велосипед на крестах",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/88-IX4KM3BtYo7"
+				}
+			}, {
+				"name": "Названия нет",
+				"description": "Анону приснилось, что он оказался в темном подземелье.",
+				"tools": "unity, photoshop",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/ZaO1iFLZ3BthFL"
+				}
+			}, {
+				"name": "Волшебный лес и ебанутые звери",
+				"genre": "Arcade Runner",
+				"description": "Ебанутые звери дядюшки Билли сбежали, помощник кузнеца Карл отправляется в опасный волшебный лес чтобы найти зверей.",
+				"tools": "Unity 5, Photoshop, Tiled",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/05Jyvhtk3BuCeP"
+				}
+			}, {
+				"name": "world of chpok",
+				"description": "краб по кличке Чпок должен совершить путешествие в параллельный магический мир чтобы превратиться в сверхраба для того чо бы... пока не придумал",
+				"tools": "Godot Engine, Gimp, SFXR",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/jyWs2Q3U3BuRr8"
+				}
+			}, {
+				"name": "Journey of the Mage",
+				"description": "Вы играете за мага, которому срочно нужно переправиться на своем летающем острове к королевству, которому угрожает опасность. Но враг не даст так просто добраться магу до дальнего королевства - десант из нежити уже отправлен на перехват.",
+				"tools": "Unity, 3DS Max, Paint.NET",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/4JblS8bZ3BuTkk"
+				}
+			}, {
+				"name": "Конечная история",
+				"description": "Короткая история про то, как может стать волшебным самый обычный день.",
+				"tools": "Unreal Engine 4",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/NiooH1HQ3BuzfS"
+				}
+			}, {
+				"name": "Приключения Эгмонта",
+				"genre": "Слешер, Битэмап",
+				"description": "Простенькая демко в которой реализован только базовый геймплей. Извиняюсь что сделал так мало. Совсем дел не впроворот было. В следующую неделю будет лучше.",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/UBREW8OP3Bv9Nh"
+				}
+			}, {
+				"name": "Project Big Cunning Linx",
+				"description": "ты попал в другое измерение, тут всё по другому, смотри не упади со стула!",
+				"tools": "гейммейкер",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/322xp_6D3BvGXu"
+				}
+			}, {
+				"name": "P-day",
+				"description": "Недалекое будущее в Соединенных Штатах..",
+				"tools": "UNITY, BLENDER",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/5GJACdd83BvLEU"
+				}
+			}, {
+				"name": "Trump in a magical land",
+				"genre": "Tower Defense",
+				"description": "Врата в волшебную страну открыты! Но магия - ограниченный ресурс, и на всех ее не хватит, поэтому нам необходимо строить стены и башни, чтобы остановить бесконечный поток людей и не дать им заграбастать нашу бесценную магию.",
+				"tools": "флэш, haxe, sublime text, myPaint",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/ZuV60NnF3BvZfG"
+				}
+			}, {
+				"name": "Dwarfs Raider",
+				"genre": "Платформер",
+				"description": "Вы прознали, что дворфы-ворюги живут под домом вашей бабушки Ячсмить. Вам нужно докапаться до их сокровищей, чтобы оплатить ипотеку. Поэтому вы берете еще кредит на покупку робота-геопроходца и отправляетесь им изучать глубокие секреты заднего двора вашей бабушки.",
+				"tools": "Libgdx",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/vO54gVZu3BvhdW"
+				}
+			}, {
+				"name": "InSearchPureWorld",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/G-uoQCop3Bw2if"
+				}
+			}, {
+				"name": "2chRPG",
+				"genre": "RPG",
+				"description": "игра в жанре RPG (неожиданно, да?), которая поведает о жизни типичнго посетителя имиджборд и о его путешествиях в альтернативных мирах. Остросюжетная история, прекрасно раскрытые характеры безумно живых персонажей, огромный и интересный мир, райское изобилее квестов, которые смогут удивить даже самого прожженного игрока. Все это ждет вас в 2сhRPG...",
+				"tools": "Rpg maker vx ace",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "https://yadi.sk/d/g7aLz_Hx3C33gf"
+				}
+			}
+		]
 	}
 }
