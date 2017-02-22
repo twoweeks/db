@@ -2833,14 +2833,16 @@
 	"9": {
 		"start": 1485162000,
 		"end": 1486505400,
-		"same": [
-			"Волшебное путешествие",
-			"Наркотический трип"
-		],
-		"descriptions": [
-			"Наверняка в детстве вы читали различные сказки или смотрели мультфильмы. Десятки (а то и сотни) различных по своей структуре миров, приключения различной степени эпичности и прочее-прочее-прочее. И наверняка хоть на минуточку вы мечтали побывать в одном из таких, чтобы прочувствовать, так сказать, на своей шкуре всю необычность этого мира.\nИ вот представьте, в один момент вам (не важно каким способом) приходит приглашение посетить один из таких миров. Однако не думаете же вы, что всё так просто? По мановению волшебной светящейся палочки вас телепортировать туда никто не собирается, и добираться нужно самому.",
-			"Так или иначе, игра должна содержать элементы наркотического опъянения. Галлюцинации, шиза, резкая смена настроения - ограничителем служит только ваша фантазия. Естественно, жалательно незамутнённая.\nНу и так как наркотики - это, в своём большинстве, плохо, то их применение не должно поощряться, разве что высмеиваться.\nТема была запрещена администрацией и заменена на другую."
-		],
+		"themes": {
+			"same": [
+				"Волшебное путешествие",
+				"Наркотический трип"
+			],
+			"descriptions": [
+				"Наверняка в детстве вы читали различные сказки или смотрели мультфильмы. Десятки (а то и сотни) различных по своей структуре миров, приключения различной степени эпичности и прочее-прочее-прочее. И наверняка хоть на минуточку вы мечтали побывать в одном из таких, чтобы прочувствовать, так сказать, на своей шкуре всю необычность этого мира.\nИ вот представьте, в один момент вам (не важно каким способом) приходит приглашение посетить один из таких миров. Однако не думаете же вы, что всё так просто? По мановению волшебной светящейся палочки вас телепортировать туда никто не собирается, и добираться нужно самому.",
+				"Так или иначе, игра должна содержать элементы наркотического опъянения. Галлюцинации, шиза, резкая смена настроения - ограничителем служит только ваша фантазия. Естественно, жалательно незамутнённая.\nНу и так как наркотики - это, в своём большинстве, плохо, то их применение не должно поощряться, разве что высмеиваться.\nТема была запрещена администрацией и заменена на другую."
+			]
+		},
 		"site": "https://twoweeksgame9.blogspot.ru",
 		"games": [
 			{
@@ -2851,12 +2853,12 @@
 				"image": "",
 				"status": "1",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDYW5lMU90YWd5SHc",
-					"yadisk": "https://yadi.sk/d/PjHxnPYT3DQNhF"
+					"gdrive": "0B5M4fMX1HJxDYW5lMU90YWd5SHc",
+					"yadisk": "PjHxnPYT3DQNhF"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/jJU-19cP3BuBfM"
+						"yadisk": "jJU-19cP3BuBfM"
 					}
 				}
 			}, {
@@ -2867,12 +2869,12 @@
 				"image": "",
 				"status": "1",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDQlNXTzgwRnNOTzQ",
-					"yadisk": "https://yadi.sk/d/KjYye7033DPyNc"
+					"gdrive": "0B5M4fMX1HJxDQlNXTzgwRnNOTzQ",
+					"yadisk": "KjYye7033DPyNc"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/TOZSgYS33BmB8U"
+						"yadisk": "TOZSgYS33BmB8U"
 					}
 				}
 			}, {
@@ -2882,12 +2884,12 @@
 				"image": "",
 				"status": "2",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDdURhejlQTjdaM00",
-					"yadisk": "https://yadi.sk/d/zH6K1mhB3DQWj9"
+					"gdrive": "0B5M4fMX1HJxDdURhejlQTjdaM00",
+					"yadisk": "zH6K1mhB3DQWj9"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/FDoybMXF3BvMo4"
+						"yadisk": "FDoybMXF3BvMo4"
 					}
 				}
 			}, {
@@ -2898,16 +2900,16 @@
 				"image": "",
 				"status": "3",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDSmJZeTI2N281Wnc",
-					"yadisk": "https://yadi.sk/d/86Nfm2lR3DQ7eq"
+					"gdrive": "0B5M4fMX1HJxDSmJZeTI2N281Wnc",
+					"yadisk": "86Nfm2lR3DQ7eq"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/0aJQaP7A3Bvcek"
+						"yadisk": "0aJQaP7A3Bvcek"
 					},
 					"updated": {
-						"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDYVEwMzZteWQ2cFE",
-						"yadisk": "https://yadi.sk/d/IkajU6Xp3EPZeF"
+						"gdrive": "0B5M4fMX1HJxDYVEwMzZteWQ2cFE",
+						"yadisk": "IkajU6Xp3EPZeF"
 					}
 				}
 			}, {
@@ -2917,12 +2919,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDZ2YyVjRKMnhGdU0",
-					"yadisk": "https://yadi.sk/d/ZpquO7w53DPpRx"
+					"gdrive": "0B5M4fMX1HJxDZ2YyVjRKMnhGdU0",
+					"yadisk": "ZpquO7w53DPpRx"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/7eAZG07D3BknjV"
+						"yadisk": "7eAZG07D3BknjV"
 					}
 				}
 			}, {
@@ -2932,12 +2934,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDNm1hYWVXdEhpaFE",
-					"yadisk": "https://yadi.sk/d/YPLUF05_3DPpsY"
+					"gdrive": "0B5M4fMX1HJxDNm1hYWVXdEhpaFE",
+					"yadisk": "YPLUF05_3DPpsY"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/6AShGVSJ3Buzau"
+						"yadisk": "6AShGVSJ3Buzau"
 					}
 				}
 			}, {
@@ -2947,16 +2949,16 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDdUM0bHhfUGJPVjA",
-					"yadisk": "https://yadi.sk/d/wrBRS3bu3DPvao"
+					"gdrive": "0B5M4fMX1HJxDdUM0bHhfUGJPVjA",
+					"yadisk": "wrBRS3bu3DPvao"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/HCksRtqf3BpEgC"
+						"yadisk": "HCksRtqf3BpEgC"
 					},
 					"dlc": {
-						"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDSExEaEp4REZyT00",
-						"yadisk": "https://yadi.sk/d/nPDzrLr_3EPZrH"
+						"gdrive": "0B5M4fMX1HJxDSExEaEp4REZyT00",
+						"yadisk": "nPDzrLr_3EPZrH"
 					}
 				}
 			}, {
@@ -2966,12 +2968,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDXzNWSWplSDZkdDQ",
-					"yadisk": "https://yadi.sk/d/1Z94xtOV3DPw9y"
+					"gdrive": "0B5M4fMX1HJxDXzNWSWplSDZkdDQ",
+					"yadisk": "1Z94xtOV3DPw9y"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/4c1V0skr3Bsouy"
+						"yadisk": "4c1V0skr3Bsouy"
 					}
 				}
 			}, {
@@ -2981,12 +2983,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDX1ROV0lzdlQxczA",
-					"yadisk": "https://yadi.sk/d/AymJHJdd3DPwxi"
+					"gdrive": "0B5M4fMX1HJxDX1ROV0lzdlQxczA",
+					"yadisk": "AymJHJdd3DPwxi"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/GytOu8nG3BuFve"
+						"yadisk": "GytOu8nG3BuFve"
 					}
 				}
 			}, {
@@ -2996,12 +2998,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDa3poZVk2ampxRnc",
-					"yadisk": "https://yadi.sk/d/9r4uyB1P3DPy88"
+					"gdrive": "0B5M4fMX1HJxDa3poZVk2ampxRnc",
+					"yadisk": "9r4uyB1P3DPy88"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/MKX0fxaJ3BujwZ"
+						"yadisk": "MKX0fxaJ3BujwZ"
 					}
 				}
 			}, {
@@ -3012,16 +3014,16 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDdnlUQzhqVktfS3M",
-					"yadisk": "https://yadi.sk/d/MPwQ8Fyv3DQ2tU"
+					"gdrive": "0B5M4fMX1HJxDdnlUQzhqVktfS3M",
+					"yadisk": "MPwQ8Fyv3DQ2tU"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/0rY0EXN_3BuQwE"
+						"yadisk": "0rY0EXN_3BuQwE"
 					},
 					"updated": {
-						"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDNERjMFpDVzJubDA",
-						"yadisk": "https://yadi.sk/d/-iHAX7XJ3EPZwQ"
+						"gdrive": "0B5M4fMX1HJxDNERjMFpDVzJubDA",
+						"yadisk": "-iHAX7XJ3EPZwQ"
 					}
 				}
 			}, {
@@ -3031,12 +3033,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDRDA5bkdLSXhCd0E",
-					"yadisk": "https://yadi.sk/d/8sbYWlUR3DPyzi"
+					"gdrive": "0B5M4fMX1HJxDRDA5bkdLSXhCd0E",
+					"yadisk": "8sbYWlUR3DPyzi"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/_AqV_fPV3Bvsxy"
+						"yadisk": "_AqV_fPV3Bvsxy"
 					}
 				}
 			}, {
@@ -3047,12 +3049,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDaGtSbXgzLWNEOTg",
-					"yadisk": "https://yadi.sk/d/DZHrGyrl3DPzoL"
+					"gdrive": "0B5M4fMX1HJxDaGtSbXgzLWNEOTg",
+					"yadisk": "DZHrGyrl3DPzoL"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/wk346dKo3BroSV"
+						"yadisk": "wk346dKo3BroSV"
 					}
 				}
 			}, {
@@ -3062,12 +3064,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDN284c3lvY0RtSDA",
-					"yadisk": "https://yadi.sk/d/Qt6-8nE33DQ29d"
+					"gdrive": "0B5M4fMX1HJxDN284c3lvY0RtSDA",
+					"yadisk": "Qt6-8nE33DQ29d"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/DVDqciaC3BtbhY"
+						"yadisk": "DVDqciaC3BtbhY"
 					}
 				}
 			}, {
@@ -3077,12 +3079,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDSUdyUlk4Nk5TQkU",
-					"yadisk": "https://yadi.sk/d/uDtV5fAn3DQ2Rw"
+					"gdrive": "0B5M4fMX1HJxDSUdyUlk4Nk5TQkU",
+					"yadisk": "uDtV5fAn3DQ2Rw"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/sOxnr7is3Bs2mN"
+						"yadisk": "sOxnr7is3Bs2mN"
 					}
 				}
 			}, {
@@ -3093,12 +3095,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDNG1PTEJNXzUwdVU",
-					"yadisk": "https://yadi.sk/d/WTXBrPsg3DQ2pQ"
+					"gdrive": "0B5M4fMX1HJxDNG1PTEJNXzUwdVU",
+					"yadisk": "WTXBrPsg3DQ2pQ"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/10TEqaZ03Bssxk"
+						"yadisk": "10TEqaZ03Bssxk"
 					}
 				}
 			}, {
@@ -3109,12 +3111,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDYlFYVjlqNmcwN3c",
-					"yadisk": "https://yadi.sk/d/0nEQtNyW3DQ44c"
+					"gdrive": "0B5M4fMX1HJxDYlFYVjlqNmcwN3c",
+					"yadisk": "0nEQtNyW3DQ44c"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/KxFvvjq63BuhgA"
+						"yadisk": "KxFvvjq63BuhgA"
 					}
 				}
 			}, {
@@ -3124,12 +3126,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDaDdDamtCWTZieVU",
-					"yadisk": "https://yadi.sk/d/gvJevvgu3DQ8YU"
+					"gdrive": "0B5M4fMX1HJxDaDdDamtCWTZieVU",
+					"yadisk": "gvJevvgu3DQ8YU"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/Lgi__cNR3BvDUT"
+						"yadisk": "Lgi__cNR3BvDUT"
 					},
 					"repo": {
 						"github": "twoweeks/delirium"
@@ -3144,16 +3146,16 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDWU9tckJaRFpDV1k",
-					"yadisk": "https://yadi.sk/d/hz8oCF4_3DQC8W"
+					"gdrive": "0B5M4fMX1HJxDWU9tckJaRFpDV1k",
+					"yadisk": "hz8oCF4_3DQC8W"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/CeKmQ-3z3BviYt"
+						"yadisk": "CeKmQ-3z3BviYt"
 					},
 					"updated": {
-						"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDbUpDSFFLMHV5NTA",
-						"yadisk": "https://yadi.sk/d/xv5bDkaM3EPaLn"
+						"gdrive": "0B5M4fMX1HJxDbUpDSFFLMHV5NTA",
+						"yadisk": "xv5bDkaM3EPaLn"
 					}
 				}
 			}, {
@@ -3163,12 +3165,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDaDUzczJ5XzFQb1k",
-					"yadisk": "https://yadi.sk/d/6J3bnjfz3DQCpp"
+					"gdrive": "0B5M4fMX1HJxDaDUzczJ5XzFQb1k",
+					"yadisk": "6J3bnjfz3DQCpp"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/t53_BHpE3Btodn"
+						"yadisk": "t53_BHpE3Btodn"
 					}
 				}
 			}, {
@@ -3180,12 +3182,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDVG96MEVjN3Q4UTQ",
-					"yadisk": "https://yadi.sk/d/-9w0O_xB3DQHKc"
+					"gdrive": "0B5M4fMX1HJxDVG96MEVjN3Q4UTQ",
+					"yadisk": "-9w0O_xB3DQHKc"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/RQJlWSC03Bw2eb"
+						"yadisk": "RQJlWSC03Bw2eb"
 					}
 				}
 			}, {
@@ -3196,12 +3198,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDR0tEY05JZFJ6UVk",
-					"yadisk": "https://yadi.sk/d/6Ga5dGDF3DQRPJ"
+					"gdrive": "0B5M4fMX1HJxDR0tEY05JZFJ6UVk",
+					"yadisk": "6Ga5dGDF3DQRPJ"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/Au642E8-3BtXur"
+						"yadisk": "Au642E8-3BtXur"
 					}
 				}
 			}, {
@@ -3211,16 +3213,16 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDamNqN2VXUFRRSzQ",
-					"yadisk": "https://yadi.sk/d/ECy74dEE3DQX5k"
+					"gdrive": "0B5M4fMX1HJxDamNqN2VXUFRRSzQ",
+					"yadisk": "ECy74dEE3DQX5k"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/E-G71MeI3BtNGn"
+						"yadisk": "E-G71MeI3BtNGn"
 					},
 					"updated": {
-						"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDVWh4NzV1MWNUY1U",
-						"yadisk": "https://yadi.sk/d/c9PqY2dh3EPaBV"
+						"gdrive": "0B5M4fMX1HJxDVWh4NzV1MWNUY1U",
+						"yadisk": "c9PqY2dh3EPaBV"
 					}
 				}
 			}, {
@@ -3230,12 +3232,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDMWszNTJjR3hWWFU",
-					"yadisk": "https://yadi.sk/d/W7z9OaG23DQZ6F"
+					"gdrive": "0B5M4fMX1HJxDMWszNTJjR3hWWFU",
+					"yadisk": "W7z9OaG23DQZ6F"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/WLvBzUmo3BupHG"
+						"yadisk": "WLvBzUmo3BupHG"
 					}
 				}
 			}, {
@@ -3244,12 +3246,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDRFBfV0h4LW5xTmM",
-					"yadisk": "https://yadi.sk/d/T9j2vv7g3DQaoo"
+					"gdrive": "0B5M4fMX1HJxDRFBfV0h4LW5xTmM",
+					"yadisk": "T9j2vv7g3DQaoo"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/aeKlKK_s3BvazJ"
+						"yadisk": "aeKlKK_s3BvazJ"
 					}
 				}
 			}, {
@@ -3260,12 +3262,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDMEdFX01vclEwMXc",
-					"yadisk": "https://yadi.sk/d/Y654D-mf3DQjuQ"
+					"gdrive": "0B5M4fMX1HJxDMEdFX01vclEwMXc",
+					"yadisk": "Y654D-mf3DQjuQ"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/5Ho3eCo63BunGR"
+						"yadisk": "5Ho3eCo63BunGR"
 					}
 				}
 			}, {
@@ -3276,12 +3278,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDcndoUFZRR3VOcGM",
-					"yadisk": "https://yadi.sk/d/WTvU3TqV3DQsGs"
+					"gdrive": "0B5M4fMX1HJxDcndoUFZRR3VOcGM",
+					"yadisk": "WTvU3TqV3DQsGs"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/b2Aka9zS3BvcEY"
+						"yadisk": "b2Aka9zS3BvcEY"
 					}
 				}
 			}, {
@@ -3292,12 +3294,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDaW9qMkp0Uy10RFU",
-					"yadisk": "https://yadi.sk/d/m9eKO0Be3DQoQh"
+					"gdrive": "0B5M4fMX1HJxDaW9qMkp0Uy10RFU",
+					"yadisk": "m9eKO0Be3DQoQh"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/yUcnlyrl3BsZ7j"
+						"yadisk": "yUcnlyrl3BsZ7j"
 					}
 				}
 			}, {
@@ -3308,12 +3310,12 @@
 				"image": "",
 				"status": "final",
 				"links": {
-					"gdrive": "https://drive.google.com/open?id=0B5M4fMX1HJxDVnBZd2JjZmpBaWc",
-					"yadisk": "https://yadi.sk/d/1ESR3OA_3DQpMo"
+					"gdrive": "0B5M4fMX1HJxDVnBZd2JjZmpBaWc",
+					"yadisk": "1ESR3OA_3DQpMo"
 				},
 				"other_links": {
 					"demo": {
-						"yadisk": "https://yadi.sk/d/7Vn4o0C_3BvNhZ"
+						"yadisk": "7Vn4o0C_3BvNhZ"
 					}
 				}
 			}, {
@@ -3324,7 +3326,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/Ga_1QQPU3BeLMf"
+					"yadisk": "Ga_1QQPU3BeLMf"
 				}
 			}, {
 				"name": "Renaissance (Эпоха Возрождения)",
@@ -3334,7 +3336,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/c4FZ5YSl3BeTXc"
+					"yadisk": "c4FZ5YSl3BeTXc"
 				}
 			}, {
 				"name": "Steam Tyan",
@@ -3344,7 +3346,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/9czJBiDA3BgFL9"
+					"yadisk": "9czJBiDA3BgFL9"
 				}
 			}, {
 				"name": "Химическая Вальхалла",
@@ -3353,7 +3355,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/7doKeJ7u3Bkown"
+					"yadisk": "7doKeJ7u3Bkown"
 				}
 			}, {
 				"name": "Йогуртовый Завод",
@@ -3363,14 +3365,14 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/LKBUAUXB3Brzfb"
+					"yadisk": "LKBUAUXB3Brzfb"
 				}
 			}, {
 				"name": "Путешествие вглубь леса",
 				"description": "Интерактивная текстовая история",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/xc_RGPf_3Bs8Dn"
+					"yadisk": "xc_RGPf_3Bs8Dn"
 				}
 			}, {
 				"name": "Frontier Worlds",
@@ -3379,7 +3381,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/tKH_quOf3BsBVw"
+					"yadisk": "tKH_quOf3BsBVw"
 				}
 			}, {
 				"name": "Friendly Explosion",
@@ -3387,7 +3389,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/1Rcdo8Wy3BtNW6"
+					"yadisk": "1Rcdo8Wy3BtNW6"
 				}
 			}, {
 				"name": "MAGIC MUSHROOM",
@@ -3395,7 +3397,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/7odEr7NL3Bto5C"
+					"yadisk": "7odEr7NL3Bto5C"
 				}
 			}, {
 				"name": "OGL_RPG",
@@ -3404,7 +3406,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/88-IX4KM3BtYo7"
+					"yadisk": "88-IX4KM3BtYo7"
 				}
 			}, {
 				"name": "Названия нет",
@@ -3413,7 +3415,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/ZaO1iFLZ3BthFL"
+					"yadisk": "ZaO1iFLZ3BthFL"
 				}
 			}, {
 				"name": "Волшебный лес и ебанутые звери",
@@ -3423,7 +3425,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/05Jyvhtk3BuCeP"
+					"yadisk": "05Jyvhtk3BuCeP"
 				}
 			}, {
 				"name": "world of chpok",
@@ -3432,7 +3434,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/jyWs2Q3U3BuRr8"
+					"yadisk": "jyWs2Q3U3BuRr8"
 				}
 			}, {
 				"name": "Journey of the Mage",
@@ -3441,7 +3443,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/4JblS8bZ3BuTkk"
+					"yadisk": "4JblS8bZ3BuTkk"
 				}
 			}, {
 				"name": "Конечная история",
@@ -3450,7 +3452,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/NiooH1HQ3BuzfS"
+					"yadisk": "NiooH1HQ3BuzfS"
 				}
 			}, {
 				"name": "Приключения Эгмонта",
@@ -3459,7 +3461,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/UBREW8OP3Bv9Nh"
+					"yadisk": "UBREW8OP3Bv9Nh"
 				}
 			}, {
 				"name": "Project Big Cunning Linx",
@@ -3468,7 +3470,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/322xp_6D3BvGXu"
+					"yadisk": "322xp_6D3BvGXu"
 				}
 			}, {
 				"name": "P-day",
@@ -3477,7 +3479,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/5GJACdd83BvLEU"
+					"yadisk": "5GJACdd83BvLEU"
 				}
 			}, {
 				"name": "Trump in a magical land",
@@ -3487,7 +3489,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/ZuV60NnF3BvZfG"
+					"yadisk": "ZuV60NnF3BvZfG"
 				}
 			}, {
 				"name": "Dwarfs Raider",
@@ -3497,14 +3499,14 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/vO54gVZu3BvhdW"
+					"yadisk": "vO54gVZu3BvhdW"
 				}
 			}, {
 				"name": "InSearchPureWorld",
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/G-uoQCop3Bw2if"
+					"yadisk": "G-uoQCop3Bw2if"
 				}
 			}, {
 				"name": "2chRPG",
@@ -3514,7 +3516,7 @@
 				"image": "",
 				"status": "demo",
 				"links": {
-					"yadisk": "https://yadi.sk/d/g7aLz_Hx3C33gf"
+					"yadisk": "g7aLz_Hx3C33gf"
 				}
 			}
 		]
