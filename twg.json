@@ -2941,7 +2941,7 @@
 				"genre": "Платформер, рогалик",
 				"description": "Храбрая омская птица помогает жителям Омска в освобождении от зомби создаными низкими скидками, которые отбирают деньги у людей, чтобы купить игр в стиме со скидкой. Сможет ли он противостоять Гейбу?",
 				"tools": "Game maker studio, Photoshop, Tiled",
-				"image": "",
+				"image": "/gd/twg/9/omsk-journey.png",
 				"status": "1",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDYW5lMU90YWd5SHc",
@@ -2957,7 +2957,7 @@
 				"genre": "Сайд-скроллер",
 				"description": "Игра за офисного работника, с очень богатым воображением, который в один прекрасный день обнаруживает пересечение своего воображения с реальным миром, и отправляется в \"волшебное путешествие\".",
 				"tools": "Construct 2, Pyxel Edit",
-				"image": "",
+				"image": "twg/9/caffeine.png",
 				"status": "1",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDQlNXTzgwRnNOTzQ",
@@ -2972,7 +2972,7 @@
 				"name": "TakeTheRide!",
 				"description": "Два приятеля едут через пустыню Невады, тут и начинается их путешествие...",
 				"tools": "Unity 5.3.6, 3ds Max 2014, Photoshop CS6",
-				"image": "",
+				"image": "twg/9/taketheride.png",
 				"status": "2",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDdURhejlQTjdaM00",
@@ -2988,7 +2988,7 @@
 				"genre": "Шутер",
 				"description": "Подозрительный кандидат в президенты, мистер Сендмен, набирает огромную популярность и поддержку, связано ли это как-то с популярностью виртуальной реальности MANYAMIROUQE 3D со своим волшебным мирком с орками и эльфами? Главный герой коп, ему дали задание найти ночной клуб Curva Mater и разобраться с хозяином заведения, за торговлю киберстимуляторами, которые позволяют читерить в манямирке. Но чтобы добраться до клуба, придется пройти по грязному даунтауну, где обитают одни только маргиналы и преступники.",
 				"tools": "GameMaker: Studio, FL Studio",
-				"image": "",
+				"image": "twg/9/blaster-cop.png",
 				"status": "3",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDSmJZeTI2N281Wnc",
@@ -3007,7 +3007,7 @@
 				"name": "Путешествие в PUSSY",
 				"description": "В жизни каждого православного мужчины наступает момент(естественно после свадьбы), когда ему(его будущему сыну) приходится совершить волшебное путешествие к яйцеклетке матери, дабы свершилось чудо и зародил господь жизнь.",
 				"tools": "Unity",
-				"image": "",
+				"image": "twg/9/pussy-adventure.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDZ2YyVjRKMnhGdU0",
@@ -3022,7 +3022,7 @@
 				"name": "Вырасти Дерево: Изнеможение",
 				"description": "Синдикат похитил димасика. Только чудо может спасти мир от неминуемого уничтожения.",
 				"tools": "Godot3D, Blender, Krita, LMMS, Audacity",
-				"image": "",
+				"image": "twg/9/grow-a-tree.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNm1hYWVXdEhpaFE",
@@ -3037,7 +3037,7 @@
 				"name": "WonderTravel",
 				"description": "Вонни путешествует по параллельным мирам, сталкиваясь с загадочными и волшебными свойствами предметов.",
 				"tools": "Blender, Gimp, Paint, Audacity, Unity",
-				"image": "",
+				"image": "twg/9/wondertravel.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDdUM0bHhfUGJPVjA",
@@ -3056,7 +3056,7 @@
 				"name": "Очень волшебная книга",
 				"description": "Мы играем за волшебницу, которая нашла волшебную книгу. Книга способна перемещать волшебницу между нашим миром и миром описанным на страницах этой книги",
 				"tools": "Game maker 8",
-				"image": "",
+				"image": "twg/9/very-magical-book.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDXzNWSWplSDZkdDQ",
@@ -3071,7 +3071,7 @@
 				"name": "Dark Legend Chronicles: Revelation of Legacy",
 				"description": "Мира, последняя из фей, захвачаена в плен чудовищными созданиями Даггората, демилича одержимого властью над миром. В разрушенном мире в котором есть только война, она -- последняя надежда Альянса Света. Но сможет ли она спастись из пыточных подземелий и преодолеть сотни опасностей что поджидают ее на пути? Это зависит только от тебя.",
 				"tools": "GameMaker: Studio",
-				"image": "",
+				"image": "twg/9/dark-legend-chronicles.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDX1ROV0lzdlQxczA",
@@ -3086,7 +3086,7 @@
 				"name": "TripVerse: A Magical Trip Into Madness",
 				"description": "Путешествие робота во внутренний кибермирок.",
 				"tools": "Unity",
-				"image": "",
+				"image": "twg/9/tripverse.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDa3poZVk2ampxRnc",
@@ -3102,7 +3102,7 @@
 				"genre": "Квест",
 				"description": "Вы - обычный робот шахтерской модели. Однажды во время добычи руды Вы нашли станный кристалл, который раскололся у вас в руках вызвав обрушение шахты. Ваша задача - выбраться из каменной ловушки и узнать, что за сила спрятана в этом кристалле.",
 				"tools": "Unity Engine, 3DS Max 2015, Substance Painter 2",
-				"image": "",
+				"image": "twg/9/mechamagic.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDdnlUQzhqVktfS3M",
@@ -3121,7 +3121,7 @@
 				"name": "Мама, я дудосер",
 				"description": "Ультражесткая хак-тима Web Analitics Group занимается только ультражесткими вещами. Ультражесткой хак-тиме пришел ультражесткий реквест на дудос какого-то IP за ультражесткие бабки. Что может пойти не так? Что может встать выше денег? Могут ли близкие партнеры стать злейшими врагами?",
 				"tools": "Microsoft Visual Basic 6.0, Adobe Photoshop CS5.1, Microsoft Paint",
-				"image": "",
+				"image": "twg/9/dudoser.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDRDA5bkdLSXhCd0E",
@@ -3137,7 +3137,7 @@
 				"genre": "Квест с элементами хоррора",
 				"description": "Вы попали в странное заброшенное место. Но как вы здесь оказались? Что-то в истории не складывается. Вам предстоит разобраться, что случилось, и как вам снова попасть домой.",
 				"tools": "Unreal Engine 4, Abobe Photoshop, 3DMax, Audacity",
-				"image": "",
+				"image": "twg/9/alterpath.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDaGtSbXgzLWNEOTg",
@@ -3152,7 +3152,7 @@
 				"name": "Dragonborne",
 				"description": "Кобольда избили гопники, но находясь в коме, он ПУТЕШЕСТВУЕТ в ВОЛШЕБНЫЙ сон, где уже он бьёт гопников",
 				"tools": "Blender, Unity3d, GIMP",
-				"image": "",
+				"image": "twg/9/dragonborne.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDN284c3lvY0RtSDA",
@@ -3167,7 +3167,7 @@
 				"name": "ROUTE 51",
 				"description": "Догони их и верни свои бургеры.",
 				"tools": "Хуюнити, ГендерБлендер, ФотоЖоп",
-				"image": "",
+				"image": "twg/9/route-51.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDSUdyUlk4Nk5TQkU",
@@ -3183,7 +3183,7 @@
 				"genre": "Runner",
 				"description": "Побег из депрессивной реальности",
 				"tools": "Unity 5",
-				"image": "",
+				"image": "twg/9/lone-road-ahead.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNG1PTEJNXzUwdVU",
@@ -3199,7 +3199,7 @@
 				"genre": "раннер",
 				"description": "Вы волшебник. Всю жизнь Вы служили лордам, помогали им тайными знаниями и обучали их избалованных детишек. А все это время Ваша мечта ускользала от Вас. Всю жизнь вы пытались постичь тайну левитации, научиться летать, как птица - но все тщено. Вы чувствуете, что былая сила и смекалка уже начали покидать Вас, и осталось совсем недолго.",
 				"tools": "Flash (FlashDevelop), Starling, Dragonbones, Photoshop",
-				"image": "",
+				"image": "twg/9/wizard-run.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDYlFYVjlqNmcwN3c",
@@ -3214,7 +3214,7 @@
 				"name": "Delirium",
 				"description": "Помогите главному герою выбраться из жутких и пугающих измерений Делириума, куда он случайно попал, обратно, в его родной мир дружбы, волшебства и магии.",
 				"tools": "Rust/sdl2, IntelliJ IDEA, Gimp, FL Studio, Tiled, Audacity",
-				"image": "",
+				"image": "twg/9/delirium.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDaDdDamtCWTZieVU",
@@ -3234,7 +3234,7 @@
 				"genre": "Toast-em-up",
 				"description": "Главный герой не по своей воле превращенный в тостер пытается выбраться из заколдованного мира.",
 				"tools": "срюнити, VS2015, Modo, Zbrush, Photoshop, xNormal",
-				"image": "",
+				"image": "twg/9/toasted.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWU9tckJaRFpDV1k",
@@ -3253,7 +3253,7 @@
 				"name": "Soap",
 				"description": "Человек собрался вешаться, но мыло из шкавчика было внезапно похищенно.",
 				"tools": "Unity3d, 3ds max, Audacity, Photoshop",
-				"image": "",
+				"image": "twg/9/soap.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDaDUzczJ5XzFQb1k",
@@ -3270,7 +3270,7 @@
 				"genre": "платформер 2D с элементами квеста",
 				"description": "Эта игра повествует о необычных приключениях молодого человека по имени Анон. Который постоянно попадает в курьёзные ситуации и места, например: кошмарный лес с пони людоедами, секретная лаборатория людей будущего, разрушенный город во время нашествия инопланетных крачипуцев. Это легко объясняется тем, что он живет в волшебном мире. Также он путешествует в другие миры, которые сам считает волшебными.",
 				"tools": "Конструктор Construct 2, XnView, Photoshop CS5, Movavi",
-				"image": "",
+				"image": "twg/9/anon-magic-trip.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDVG96MEVjN3Q4UTQ",
@@ -3286,7 +3286,7 @@
 				"genre": "Визуальная новелла, топ даун шутер, скролл шутер, пошаговая стратегия, симулятор полетов в космосе",
 				"description": "Вы - одинокий, хиккующий капитан корабля. Вас остоебало одиночество и вы решили обзавестись друзьями. А как их получить? Завоевать их планету и стать их вождем, разумеется.",
 				"tools": "Uniti C#",
-				"image": "",
+				"image": "twg/9/spacedreamer.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDR0tEY05JZFJ6UVk",
@@ -3301,7 +3301,7 @@
 				"name": "Oasis Awaits",
 				"description": "Единственный способ выжить в мире после катастрофы - это бежать. На другом конце пустыни тебя ждёт таинственный Оазис, последнее безопасное место в пустошах. Но сможешь ли ты достичь его, когда тебя преследует армия самого жестокого главаря пустошей?",
 				"tools": "Unity 5.5.0f3, Adobe Photoshop CC3",
-				"image": "",
+				"image": "twg/9/oasis-awaits.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDamNqN2VXUFRRSzQ",
@@ -3320,7 +3320,7 @@
 				"name": "СУПЕР ВОЛШЕБНЫЕ ПУТЕШЕСТВЕННИКИ",
 				"description": "Грибочлены пытаются пропутешествовать в анус принцессы. Простой мальчик из деревни берется защитить честь этой девы. Судьба сводит двоих.",
 				"tools": "UNITY",
-				"image": "",
+				"image": "twg/9/super-magical-travelers.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDMWszNTJjR3hWWFU",
@@ -3334,7 +3334,7 @@
 			}, {
 				"name": "Тайна долины роз",
 				"description": "Главному герою нужно будет добраться до дерева, листья которого могут исцелить любого человека.",
-				"image": "",
+				"image": "twg/9/rose-valley-mystery.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDRFBfV0h4LW5xTmM",
@@ -3350,7 +3350,7 @@
 				"demo_name": "Приключения Хомяка",
 				"description": "Игра про хомячка, попавшего в необычный мир, где он иззучает его, знакомится с жителями и выполняет их поручения.",
 				"tools": "rpg maker VX ace",
-				"image": "",
+				"image": "twg/9/adventures-of-a-hamster.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDMEdFX01vclEwMXc",
@@ -3366,7 +3366,7 @@
 				"genre": "Шутер с видом сверху",
 				"description": "На одной планете есть 2 расы - зелёные и жёлтые, они живут на разных континентах и ранее между ними шли войны, но сейчас установился нейтралитет иногда переходящий во вражду. В плане технологий они неплохо развиты - открывали небольшие порталы в другие миры и в некоторых даже нашли жизнь. Казалось бы, что может пойти не так?...",
 				"tools": "Unity, зд макс и paint.net",
-				"image": "",
+				"image": "twg/9/kalobok.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDcndoUFZRR3VOcGM",
@@ -3382,7 +3382,7 @@
 				"demo_name": "Жорней",
 				"description": "Отправьтесь в волшебное пушетествие во времена Вьетнамско войны при помощи неуправляемых военных флешбеков.",
 				"tools": "Aseprite, Unity 3D",
-				"image": "",
+				"image": "twg/9/mucky-ducky.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDaW9qMkp0Uy10RFU",
@@ -3398,7 +3398,7 @@
 				"genre": "2д экшн",
 				"description": "Безобидное путешествие обернулось трагедией для нашей героини. Ну или как посмотреть.",
 				"tools": "PaintTool Sai, Adobe Photoshop, Dragon Bones, Unity",
-				"image": "",
+				"image": "twg/9/overcute.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDVnBZd2JjZmpBaWc",
@@ -3414,7 +3414,7 @@
 				"genre": "0-gameplay",
 				"description": "Ты - самый обычный житель пост-советского пространства. Вокруг тебя всё уныло и грустно, но ты умеешь наслаждаться даже такими вещами, как поездка в унылом поезде. И сегодня ты покажешь как превратить обычную поезду в нечто невообразимое.",
 				"tools": "Unity 5.5, Photoshop CC 2015, Paint.Net, Audacity, Fl Studio 12, Visual Studio 2015, etc.",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "Ga_1QQPU3BeLMf"
@@ -3424,7 +3424,7 @@
 				"genre": "Action-RPG",
 				"description": "Люди одолели смерть и научились воскрешать себя благодаря Частице Бога, обнаруженной в ходе экспериментов с адронным коллайдером. Особенностью всеобщего возрождения стало то, что оно распространялось на всех живых существ планеты, что поставило Землю на грань уничтожения.",
 				"tools": "JS - велосипед, Paint.Net, Atom",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "c4FZ5YSl3BeTXc"
@@ -3434,7 +3434,7 @@
 				"genre": "Симулятор",
 				"description": "Путешествие на паровозе с тян из Tyan Game.",
 				"tools": "Unity, 3DS Max, Reaper",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "9czJBiDA3BgFL9"
@@ -3443,7 +3443,7 @@
 				"name": "Химическая Вальхалла",
 				"description": "Игроку предстоит взять на себя роль прекрасной девы-воительницы, благословляющей дарми Одина отважных воинов на их пути к вратам Вальхаллы.",
 				"tools": "libGDX",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "7doKeJ7u3Bkown"
@@ -3453,7 +3453,7 @@
 				"genre": "экономическая стратегия",
 				"description": "Игра в которой вам предстоит играть роль директора завода по производству йогуртав. Я сам очень люблю кушать йогурт, каждый день с утра его кушаю. И мечтаю однажды проснуться директором йогуртого завода и смогу кушать его сколько влезет.",
 				"tools": "C#",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "LKBUAUXB3Brzfb"
@@ -3469,7 +3469,7 @@
 				"name": "Frontier Worlds",
 				"description": "Действие происходит в недаеком будущем, на границе миров.",
 				"tools": "Unity3d, paint",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "tKH_quOf3BsBVw"
@@ -3477,7 +3477,7 @@
 			}, {
 				"name": "Friendly Explosion",
 				"description": "Мир, в котором 2 друга проводили свою беззаботную вечность, подвергся падению метеорита, который в свою очередь пробил отверстие в земле. Украшенная разноцветными кристаллами дыра не предвещает ничего скучного для двоих друзей. Может быть кинуть туда что-нибудь взрывающееся будет не такой уж и плохой идеей.",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "1Rcdo8Wy3BtNW6"
@@ -3485,7 +3485,7 @@
 			}, {
 				"name": "MAGIC MUSHROOM",
 				"description": "Короче, я за три четыре дня не успел ассетов натаскать. Карта не доделана, нихуя нет, но можно пинать петушков. А еще можно в лес сбегать и поискать там грибы.",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "7odEr7NL3Bto5C"
@@ -3494,7 +3494,7 @@
 				"name": "OGL_RPG",
 				"description": "Cкелеты спавнятся без остановки, сможешь ли ты с ними совладать?",
 				"tools": "велосипед на крестах",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "88-IX4KM3BtYo7"
@@ -3503,7 +3503,7 @@
 				"name": "Названия нет",
 				"description": "Анону приснилось, что он оказался в темном подземелье.",
 				"tools": "unity, photoshop",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "ZaO1iFLZ3BthFL"
@@ -3513,7 +3513,7 @@
 				"genre": "Arcade Runner",
 				"description": "Ебанутые звери дядюшки Билли сбежали, помощник кузнеца Карл отправляется в опасный волшебный лес чтобы найти зверей.",
 				"tools": "Unity 5, Photoshop, Tiled",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "05Jyvhtk3BuCeP"
@@ -3522,7 +3522,7 @@
 				"name": "world of chpok",
 				"description": "краб по кличке Чпок должен совершить путешествие в параллельный магический мир чтобы превратиться в сверхраба для того чо бы... пока не придумал",
 				"tools": "Godot Engine, Gimp, SFXR",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "jyWs2Q3U3BuRr8"
@@ -3531,7 +3531,7 @@
 				"name": "Journey of the Mage",
 				"description": "Вы играете за мага, которому срочно нужно переправиться на своем летающем острове к королевству, которому угрожает опасность. Но враг не даст так просто добраться магу до дальнего королевства - десант из нежити уже отправлен на перехват.",
 				"tools": "Unity, 3DS Max, Paint.NET",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "4JblS8bZ3BuTkk"
@@ -3540,7 +3540,7 @@
 				"name": "Конечная история",
 				"description": "Короткая история про то, как может стать волшебным самый обычный день.",
 				"tools": "Unreal Engine 4",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "NiooH1HQ3BuzfS"
@@ -3549,7 +3549,7 @@
 				"name": "Приключения Эгмонта",
 				"genre": "Слешер, Битэмап",
 				"description": "Простенькая демко в которой реализован только базовый геймплей. Извиняюсь что сделал так мало. Совсем дел не впроворот было. В следующую неделю будет лучше.",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "UBREW8OP3Bv9Nh"
@@ -3558,7 +3558,7 @@
 				"name": "Project Big Cunning Linx",
 				"description": "ты попал в другое измерение, тут всё по другому, смотри не упади со стула!",
 				"tools": "гейммейкер",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "322xp_6D3BvGXu"
@@ -3567,7 +3567,7 @@
 				"name": "P-day",
 				"description": "Недалекое будущее в Соединенных Штатах..",
 				"tools": "UNITY, BLENDER",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "5GJACdd83BvLEU"
@@ -3577,7 +3577,7 @@
 				"genre": "Tower Defense",
 				"description": "Врата в волшебную страну открыты! Но магия - ограниченный ресурс, и на всех ее не хватит, поэтому нам необходимо строить стены и башни, чтобы остановить бесконечный поток людей и не дать им заграбастать нашу бесценную магию.",
 				"tools": "флэш, haxe, sublime text, myPaint",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "ZuV60NnF3BvZfG"
@@ -3586,7 +3586,7 @@
 				"name": "Journey into the deep somewhere",
 				"description": "Глупый хиккан думал что просто так улетит из рашки через инопланетный портал, но хитрые инопланетяне подкрались сзади и разработали его черную дырку",
 				"tools": "Unity/Photoshop",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "rJLKIuP53Bvg48"
@@ -3596,7 +3596,7 @@
 				"genre": "Платформер",
 				"description": "Вы прознали, что дворфы-ворюги живут под домом вашей бабушки Ячсмить. Вам нужно докапаться до их сокровищей, чтобы оплатить ипотеку. Поэтому вы берете еще кредит на покупку робота-геопроходца и отправляетесь им изучать глубокие секреты заднего двора вашей бабушки.",
 				"tools": "Libgdx",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "vO54gVZu3BvhdW"
@@ -3604,14 +3604,14 @@
 			}, {
 				"name": "D_D_D",
 				"description": "Тяночка ходит по грустному городу и грустит находит таблеточку и отправляется в интересный трип",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "6eGtAyFV3Bvjz3"
 				}
 			}, {
 				"name": "InSearchPureWorld",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "G-uoQCop3Bw2if"
@@ -3621,7 +3621,7 @@
 				"genre": "RPG",
 				"description": "игра в жанре RPG (неожиданно, да?), которая поведает о жизни типичнго посетителя имиджборд и о его путешествиях в альтернативных мирах. Остросюжетная история, прекрасно раскрытые характеры безумно живых персонажей, огромный и интересный мир, райское изобилее квестов, которые смогут удивить даже самого прожженного игрока. Все это ждет вас в 2сhRPG...",
 				"tools": "Rpg maker vx ace",
-				"image": "",
+				"image": ,
 				"status": "demo",
 				"links": {
 					"yadisk": "g7aLz_Hx3C33gf"
