@@ -1052,6 +1052,7 @@
 				"name": "Supermassive",
 				"genre": "Приключение/визуальная новелла",
 				"description": "Центральное командование потеряло связь со своей исследовательской станцией Севастополь. На выяснение обстоятельств послан отряд под капитана Кикстартера.",
+				"tools": "Unity 5, Adobe Photoshop CS6, High-Logic FontCreator",
 				"image": "",
 				"status": "1",
 				"links": {
@@ -1067,6 +1068,7 @@
 				"name": "Japanese for beginners",
 				"genre": "TRPG",
 				"description": "Игра содержит пролог и первую главу приключений агента Службы Международных Операций в Японии Андрея Овидиева. Есть робо-лоля.",
+				"tools": "SIMRPGMaker95, PaintMS, Audicity",
 				"image": "",
 				"status": "2",
 				"links": {
@@ -1082,6 +1084,7 @@
 				"name": "Apparatus technology",
 				"genre": "Платформер/шутер",
 				"description": "Главный герой пять лет отработал агентом на могущественную компанию. Его режили устранить.",
+				"tools": "Game Maker",
 				"image": "",
 				"status": "3",
 				"links": {
@@ -1098,6 +1101,7 @@
 				"name": "ЦВЕТОВЫБОР",
 				"genre": "Аркада",
 				"description": "Ваша задача - не допустить заполнения игрового поля разноцветными кубами.",
+				"tools": "Unity",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1113,6 +1117,7 @@
 				"name": "ПеКа",
 				"genre": "roguelike/dungeon crawler/platformer/runner/danmaku/idle/clicker/god sim/rhythm/TBS/date sim/fighting/tower defense/visual novel",
 				"description": "В зависимости от выбора персонажа меняется геймплей.",
+				"tools": "Unity3D, GIMP, Easy Paint Tool SAI, GraphicsGale",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1128,6 +1133,7 @@
 				"name": "Типичное фентези",
 				"genre": "РПГ",
 				"description": "Ну чтож история немного расширилась, но до эльфов так увы не дошла. Так что смело переименовываем игру в истребителя слизней и идем заниматься любимым делом. Такие дела.",
+				"tools": "Paint, MMF Newpixel, Flash, Gold vawe editor",
 				"image": "",
 				"status": "updated",
 				"links": {
@@ -1145,6 +1151,7 @@
 				"demo_name": "Madam-O",
 				"genre": "Квест",
 				"description": "Молодой человек становится инвалидом-колясочником и  вынужден влачить свое существование в почти непригодной для жилья квартире.",
+				"tools": "UE4.8, zBrush, 3DSMax, xNormals, Topogun, Photoshop",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1161,6 +1168,7 @@
 				"demo_name": "Бродилка",
 				"genre": "Гриндилка",
 				"description": "Ты можешь умереть или от рук монстров, или от прыжка в яму. Решать только тебе!",
+				"tools": "++, Ogre3D, QtCreator, Blender, Photoshop, Lua, Notepad++",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1176,6 +1184,7 @@
 				"name": "FPS3000",
 				"genre": "Шутер",
 				"description": "Испытуемый оказывается в лаборатории. Стоит ли ему доверять остальным и проходить уровни?",
+				"tools": "Unreal Engine 4, Maya, Photoshop",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1192,6 +1201,7 @@
 				"demo_name": "Космический Бюрократ",
 				"genre": "Текстовый квест/Interactive fiction",
 				"description": "Ты находишься в тюрьме. Сиди смирно и умри. А я сваливаю из этой тюряги.",
+				"tools": "PaintTool SAI, Photoshop CS6, Visual Studio 2013 + ReSharper, Microsoft office word",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1207,6 +1217,7 @@
 				"name": "Iron Cube From Outer Space",
 				"genre": "Космический симулятор",
 				"description": "Космический корабль-куб летит колонизировать космос. Вы капитан.",
+				"tools": "Unity",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1222,6 +1233,7 @@
 				"name": "Rock Band Tycoon",
 				"genre": "Simulation/Casual",
 				"description": "Игра про Кирилла из мира музыки. Начинаем в условной задрыпаной хрущовке без инструмента и скиллов.",
+				"tools": "Unity 5.1, Audacity",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1237,6 +1249,7 @@
 				"name": "Подземелье выбора",
 				"genre": "Rogue-like-like",
 				"description": "Воин ходит по подземелью. Надо найти выход.",
+				"tools": "LibGDX, GraphicsGale, Photoshop",
 				"image": "",
 				"dependencies": "Java",
 				"status": "final",
@@ -1253,6 +1266,7 @@
 				"name": "Комната пыток",
 				"genre": "Платформер",
 				"description": "Вы оказались в комнате и должны сделать всё что бы выбраться. Например, отдать почку.",
+				"tools": "Bfxr, aseprite, construct2",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1268,6 +1282,7 @@
 				"name": "Hikka Teh Gaem",
 				"genre": "Point and click adventure",
 				"description": "Главному герою необходимо выйти из запертого дома.",
+				"tools": "Adventure Maker",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1283,6 +1298,7 @@
 				"name": "Липкие Сладкие Лифчики",
 				"genre": "Shoot 'em up",
 				"description": "В день, когда наша героиня выбирает обновки для своего гардероба, покой в магазине нарушают пришельцы, пришедшие на Землю, чтобы уничтожить всё нижнее бельё.",
+				"tools": "Flash CS3, FL Studio, Paint Tool Sai, Audacity",
 				"image": "",
 				"dependencies": "Flash",
 				"status": "final",
@@ -1305,6 +1321,7 @@
 				"name": "Chocolate Cornet",
 				"genre": "Danmaku",
 				"description": "Орден Шоколадных Рогаликов более века хранит мир на территории Конфедерации. Однако разведка Ордена обнаруживает угрозу.",
+				"tools": "Unity3D, Фотошоп, Фл студио",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1320,6 +1337,7 @@
 				"name": "Космосим",
 				"genre": "Spacesim",
 				"description": "История про пирата, который вернувшись на свою базу после неудачного рейда, обнаруживает, что воевать больше некому, а в системе хозяйничает неизвестный враг.",
+				"tools": "Unity, 3ds max, Paint.NET, Photoshop, Blender, Audacity",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1355,6 +1373,7 @@
 				"name": "GROW The McDuck",
 				"genre": "GROW",
 				"description": "Все в традициях жанра. Нужно построить макдоналдс.",
+				"tools": "Unity3D + Visual Studio, Cinema 4D + Photoshop",
 				"image": "",
 				"status": "final",
 				"links": {
@@ -1373,7 +1392,8 @@
 				"name": "TBD",
 				"genre": "жрпг",
 				"description": "будем спасать вайфу. Всё остальное будет. Честно-честно.",
-				"image": "",
+				"tools": "php, html5, javascrip, jquery, css3, praficient java diviloper, 5 yers fulstak expirience",
+				"image": "twg/6/tbd.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDaC1paU9sM2ZnNEE",
@@ -1383,7 +1403,8 @@
 				"name": "Abdulov Hell",
 				"genre": "Абдуломедитация",
 				"description": "Бомж попадает в Абдулоад на муки вечные. Его судьба - бесконечное возрождение и смерть.\nВы играете за Абдулова. Абдулов наслаждается созерцанием.",
-				"image": "",
+				"tools": "Clickteam Fusion 2.5",
+				"image": "twg/6/abdulov-hell.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWmtwY0F5c0tMdjQ",
@@ -1393,7 +1414,8 @@
 				"name": "1993",
 				"genre": "Adventure/Action/Platformer",
 				"description": "Действие происходит в 1993 году в уездном городе O.\nГлавный герой  панк Игорь пребывает в глубокой депрессии.",
-				"image": "",
+				"tools": "Unity, Photoshop, Tiled Map Editor, Tiled2Unity",
+				"image": "twg/6/1993.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDZldqYWhHa2R2a2M",
@@ -1403,7 +1425,7 @@
 				"name": "Желтый",
 				"genre": "Визуальная новелла.",
 				"description": "Игра про убийство, расследование, дружбу и личинок.",
-				"image": "",
+				"image": "twg/6/yellow.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNkxWV3RnTjVIWHM",
@@ -1413,7 +1435,8 @@
 				"name": "Shadow Escape",
 				"genre": "interctive fiction",
 				"description": "Главный герой обнаруживает себя проснувшимся в больнице. Вокруг относительно приятная обстановка.",
-				"image": "",
+				"tools": "Microsoft Word",
+				"image": "twg/6/shadow-escape.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDR3FPYUlpcU9ZOWM",
@@ -1423,7 +1446,7 @@
 				"name": "Selector",
 				"genre": "Adventure",
 				"description": "Игра о нелёгком выборе жирухи-яойщицы в мире диет и фитнесса.",
-				"image": "",
+				"image": "twg/6/selector.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDSmpOZE9VblhCR1U",
@@ -1437,8 +1460,9 @@
 			}, {
 				"name": "I Want To Sleep",
 				"genre": "Бродилка",
-				"description": "",
-				"image": "",
+				"description": "Ну тип, кароч, ты такой в подземельи)) Броди ищи выход, хз кароч.",
+				"tools": "B3D, Blender, AMD Compressonator, OpenAL, Giles",
+				"image": "twg/6/i-want-to-sleep.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWWYtSG5ZWTI4cnc",
@@ -1448,7 +1472,8 @@
 				"name": "Omejka: The Game",
 				"genre": "Бродилка",
 				"description": "Симуляция жизни омежки в школе. С другой стороны по задумке в школу можно вообще не ходить.",
-				"image": "",
+				"tools": "Unity3d, Visual Studio, Blender, Paint",
+				"image": "twg/6/omejka-the-game.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDVVNacGRsVTVmMTg",
@@ -1458,7 +1483,8 @@
 				"name": "When I Was There",
 				"genre": "Квест",
 				"description": "История про одинокого задрота, который однажды ночью \"поехал\" и перестал различать сон и реальность.",
-				"image": "",
+				"tools": "Unity3D, 3D Max, fl studio, photoshop",
+				"image": "twg/6/when-i-was-there.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDY2RtbDJhRmd5ZnM",
@@ -1468,7 +1494,8 @@
 				"name": "Whiplash",
 				"genre": "хелловорлд на sdl",
 				"description": "На данный момент можно бегать просто по уровню.",
-				"image": "",
+				"tools": "C++/SDL2",
+				"image": "twg/6/whiplash.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDeUdnLVpQMjhqYnM",
@@ -1477,7 +1504,7 @@
 			}, {
 				"name": "Hexgame",
 				"genre": "TBS/RPG",
-				"image": "",
+				"image": "twg/6/hexgame.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDeUpfdGx4ZW9oWWc",
@@ -1486,8 +1513,7 @@
 			}, {
 				"name": "Robot story",
 				"genre": "Платформер",
-				"description": "",
-				"image": "",
+				"image": "twg/6/robot-story.jpg",
 				"status": "demo",
 				"links": {
 					"web": "https://braces.itch.io/2weeks-robot-story"
@@ -1496,8 +1522,8 @@
 			}, {
 				"name": "Red Cube",
 				"genre": "Хеловорлд на BGE",
-				"description": "",
-				"image": "",
+				"tools": "BGE",
+				"image": "twg/6/red-cube.jpg",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWGZTQV9NX1haSjQ",
@@ -2941,7 +2967,7 @@
 				"genre": "Платформер, рогалик",
 				"description": "Храбрая омская птица помогает жителям Омска в освобождении от зомби создаными низкими скидками, которые отбирают деньги у людей, чтобы купить игр в стиме со скидкой. Сможет ли он противостоять Гейбу?",
 				"tools": "Game maker studio, Photoshop, Tiled",
-				"image": "/gd/twg/9/omsk-journey.png",
+				"image": "twg/9/omsk-journey.png",
 				"status": "1",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDYW5lMU90YWd5SHc",
@@ -3001,7 +3027,8 @@
 					"updated": {
 						"gdrive": "0B5M4fMX1HJxDYVEwMzZteWQ2cFE",
 						"yadisk": "IkajU6Xp3EPZeF"
-					}
+					},
+					"gamejolt": "blastercop/237878"
 				}
 			}, {
 				"name": "Путешествие в PUSSY",
