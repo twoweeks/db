@@ -28,7 +28,7 @@
 			}, {
 				"name": "Кислородушки",
 				"description": "Переноси камушки, чтобы покупать воздух. Покупай воздух, чтобы таскать камушки. Носи камушку пока не кончатся силы. Дыши пока не кончится воздух. Море возможностей. Бесконечное веселье!",
-				"image": "tdg/two/1/kislorodooshki.jpg",
+				"image": "tdg/two/1/kislorodooshki.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDXzdlUi0zM2MzVjg",
@@ -36,7 +36,7 @@
 				}
 			}, {
 				"name": "VACUUM",
-				"image": "tdg/two/1/vacuum.jpg",
+				"image": "tdg/two/1/vacuum.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDV0NrcDVQYzJITDg",

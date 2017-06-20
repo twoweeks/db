@@ -691,7 +691,7 @@
 				"name": "Затерянный",
 				"genre": "Арена",
 				"description": "Вы молодой маг который по ошибке затерялся среди миров. Текущий мир - очень мал, и портал заработает только через время. Но вы привлекли внимание враждебных сил, сможете ли вы продержаться это время?",
-				"image": "twg/2/lost.jpg",
+				"image": "twg/2/lost.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "gIrxYp6L37vVon"
@@ -2353,6 +2353,13 @@
 				"links": {
 					"yadisk": "lRqqkdvooe5jb"
 				}
+			}, {
+				"name": "KUROCHKA",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "6lknfwVT3KHDqh"
+				}
 			}
 		]
 	},
@@ -3034,7 +3041,7 @@
 				"name": "Путешествие в PUSSY",
 				"description": "В жизни каждого православного мужчины наступает момент(естественно после свадьбы), когда ему(его будущему сыну) приходится совершить волшебное путешествие к яйцеклетке матери, дабы свершилось чудо и зародил господь жизнь.",
 				"tools": "Unity",
-				"image": "twg/9/pussy-adventure.jpg",
+				"image": "twg/9/pussy-adventure.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDZ2YyVjRKMnhGdU0",
@@ -3083,7 +3090,7 @@
 				"name": "Очень волшебная книга",
 				"description": "Мы играем за волшебницу, которая нашла волшебную книгу. Книга способна перемещать волшебницу между нашим миром и миром описанным на страницах этой книги",
 				"tools": "Game maker 8",
-				"image": "twg/9/very-magical-book.jpg",
+				"image": "twg/9/very-magical-book.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDXzNWSWplSDZkdDQ",
@@ -3179,7 +3186,7 @@
 				"name": "Dragonborne",
 				"description": "Кобольда избили гопники, но находясь в коме, он ПУТЕШЕСТВУЕТ в ВОЛШЕБНЫЙ сон, где уже он бьёт гопников",
 				"tools": "Blender, Unity3d, GIMP",
-				"image": "twg/9/dragonborne.jpg",
+				"image": "twg/9/dragonborne.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDN284c3lvY0RtSDA",
@@ -3210,7 +3217,7 @@
 				"genre": "Runner",
 				"description": "Побег из депрессивной реальности",
 				"tools": "Unity 5",
-				"image": "twg/9/lone-road-ahead.jpg",
+				"image": "twg/9/lone-road-ahead.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNG1PTEJNXzUwdVU",
@@ -3328,7 +3335,7 @@
 				"name": "Oasis Awaits",
 				"description": "Единственный способ выжить в мире после катастрофы - это бежать. На другом конце пустыни тебя ждёт таинственный Оазис, последнее безопасное место в пустошах. Но сможешь ли ты достичь его, когда тебя преследует армия самого жестокого главаря пустошей?",
 				"tools": "Unity 5.5.0f3, Adobe Photoshop CC3",
-				"image": "twg/9/oasis-awaits.jpg",
+				"image": "twg/9/oasis-awaits.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDamNqN2VXUFRRSzQ",
@@ -3347,7 +3354,7 @@
 				"name": "СУПЕР ВОЛШЕБНЫЕ ПУТЕШЕСТВЕННИКИ",
 				"description": "Грибочлены пытаются пропутешествовать в анус принцессы. Простой мальчик из деревни берется защитить честь этой девы. Судьба сводит двоих.",
 				"tools": "UNITY",
-				"image": "twg/9/super-magical-travelers.jpg",
+				"image": "twg/9/super-magical-travelers.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDMWszNTJjR3hWWFU",
@@ -3409,7 +3416,7 @@
 				"demo_name": "Жорней",
 				"description": "Отправьтесь в волшебное пушетествие во времена Вьетнамско войны при помощи неуправляемых военных флешбеков.",
 				"tools": "Aseprite, Unity 3D",
-				"image": "twg/9/mucky-ducky.jpg",
+				"image": "twg/9/mucky-ducky.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDaW9qMkp0Uy10RFU",
