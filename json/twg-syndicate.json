@@ -9,7 +9,7 @@
 			{
 				"name": "Purity",
 				"demo_name": "Purity (Is not here)",
-				"image": "",
+				"image": "twg/8/purity.jpg",
 				"status": "1",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDa2lWZmMtbi1RTm8",
@@ -33,7 +33,7 @@
 			}, {
 				"name": "Cyberpunk",
 				"description": "Мир будущего, управляемый могущественными корпорациями. Мир со своими законами, но лишенный справедливости.\nПроникновение в секретную лабораторию - единственная недажда главной героини на спесение из этого мира.\nОднако, не всё идёт как планировалось.",
-				"image": "",
+				"image": "twg/8/cyberpunk.jpg",
 				"status": "2",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDcXhkdWd5aXlCNFk",
@@ -47,7 +47,7 @@
 				"repeat": "final"
 			}, {
 				"name": "SpiceWars",
-				"image": "",
+				"image": "twg/8/spice-wars.jpg",
 				"status": "3",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDY0UwYjBOUk9oNkk",
@@ -60,7 +60,7 @@
 				}
 			}, {
 				"name": "AntiTetrix",
-				"image": "",
+				"image": "twg/8/anti-tetrix.jpg",
 				"status": "final",
 				"links": {
 					"web": "http://tatrix.org/public/games/anti-tetrix/"
@@ -74,7 +74,7 @@
 			}, {
 				"name": "CyberArena",
 				"description": "Basic Help\nTo advance through the game, left-click or press the space or enter keys. When at a menu, left-click to make a choice, or use the arrow keys to select a choice and enter to activate it.",
-				"image": "",
+				"image": "twg/8/cyber-arena.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDRUhlUHB5c0J5VEU",
@@ -88,7 +88,7 @@
 			}, {
 				"name": "Cyber City Madness",
 				"description": "неДалёкое будущее. Колоний землян на Марсе по-прежнему нет, зато VR технологии шагнули далеко вперед. Купив новую игру (что-то там про retrowave) Ерохха погружается в vr.",
-				"image": "",
+				"image": "twg/8/cyber-city-madness.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDdHl1Y3pGcDRNOVE",
@@ -103,7 +103,7 @@
 			}, {
 				"name": "Deus KEK",
 				"description": "В то время как мир находится в середине технологической сингулярности, появляются зараженные вирусом наномашины, поражающие людей таким образом, что те становятся необычайно агрессивными, утрачивают разум и становятся непобедимыми до тех пор, пока центральное ядро этих наномашин - находящееся в сердце защищенном клеткой из сверхпрочного графена - не будет уничтожено. Заражая других людей посредством попадания вирусных наномашин в тело жертвы, разумная распределенная сеть машин поплняет свое число. Такие люди становятся известны как Киборги.",
-				"image": "",
+				"image": "twg/8/deus-kek.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDVFZuNlg4NHQwSEU",
@@ -118,7 +118,7 @@
 			}, {
 				"name": "Frontwall Trouble",
 				"description": "Вы управляете Охранником на входе в огромный мегаполис.\nГород огорожен от внешнего мира стеной. Попадать внутрь имеют право только граждане с микрочипом, вживленным под кожу.",
-				"image": "",
+				"image": "twg/8/frontwall-trouble.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWnVsU0dxYzZYU1k",
@@ -131,7 +131,7 @@
 				}
 			}, {
 				"name": "WindowsNoEditor",
-				"image": "",
+				"image": "twg/8/windows-no-editor.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDcW1WSHFaN0tGOEU",
@@ -145,7 +145,7 @@
 			}, {
 				"name": "RobotClub",
 				"description": "Действие происходит в 21xx годах, главный герой - полицейский, который разбирается с неприятностями в городе.",
-				"image": "",
+				"image": "twg/8/robot-club.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDUXN0aXlZZDZEWjg",
@@ -160,7 +160,7 @@
 			}, {
 				"name": "Project Raspidarasilo 3",
 				"desxription": "Судьба Северных Ебеней в твоих руках.",
-				"image": "",
+				"image": "twg/8/vdrebezgi-3.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDQmx3MkZPZ193Qnc",
@@ -174,7 +174,7 @@
 			}, {
 				"name": "nonamehero",
 				"description": "От зажравшихся металюдей перестала поступать какая либо информация с поверхности, быть может стоит сместить их с места?\nГГ модернизирует свой старый жигуль и идет наверх.",
-				"image": "",
+				"image": "twg/8/nonamehero.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDbEVhSXRUVmhyOFU",
@@ -188,7 +188,7 @@
 			}, {
 				"name": "NanoBiotic",
 				"description": "Недалёкое будущее. Человек вовсю использует импланты. Однако никто не ожидал что Хакеры смогут получить контроль над электронными системами управления имплантами с их нанороботами и превратить их в бомбы замедленного действия.\nЕдиственный способ избавиться от угрозы - введение специальных, новейших биотических нано-зондов, которые должны уничтожить зараженных нанороботов и изнутри отключить все системы имплантов. За один из этих нано-зондов мы и играем.",
-				"image": "",
+				"image": "twg/8/nano-biotic.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDanMxdUNLTEgzNms",
@@ -202,7 +202,7 @@
 			}, {
 				"name": "redice",
 				"description": "В мире властвующих машин далеко не всем нравится установившийся порядок.\nДжейн работает на одну из группировок, пытающихся вернуть права людям.\nНа корабле андромеда в тайне от своих боссов она отправляется в сердце кибертрона, чтобы проникнуть в матрицу и уничтожить a.i, завладевший миром.",
-				"image": "",
+				"image": "twg/8/redice.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "LesYMwrx38Fu3a"
@@ -216,21 +216,21 @@
 				"repeat": "demo"
 			}, {
 				"name": "Number 61",
-				"image": "",
+				"image": "twg/8/number-61.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "CXYL8LF035LqSZ"
 				}
 			}, {
 				"name": "quets",
-				"image": "",
+				"image": "twg/8/quets.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "sROby_RdtpAHn"
 				}
 			}, {
 				"name": "0xFF",
-				"image": "",
+				"image": "twg/8/0xFF.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "QPLM3ZO4tpAE9"
@@ -239,7 +239,7 @@
 				"name": "BodyGuard",
 				"genre": "Shoot 'em up",
 				"description": "Игра поветствует о буднях оператора боевого дрона, работающего по найму и защищающего важных шишек от многочисленных недоброжелателей.",
-				"image": "",
+				"image": "twg/8/body-guard.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "QbLqRcdQtpAER"
@@ -247,7 +247,7 @@
 			}, {
 				"name": "Heaven & Hell",
 				"description": "Приключение Хатцунэ Мику в отпуске, который мы все так ждем этим летом.\nСперва, она попадет в таинственную пещеру, где встретит загадочного незнакомца.\nНу а что будет дальше, увидите сами.",
-				"image": "",
+				"image": "twg/8/heaven-n-hell.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "g2F1EQ4ntpAFW"
@@ -255,7 +255,7 @@
 				"repeat": "demo"
 			}, {
 				"name": "He don't know",
-				"image": "",
+				"image": "twg/8/he-dont-know.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "ssmI9-73tpAFv"
@@ -263,7 +263,7 @@
 			}, {
 				"name": "Inner Surface",
 				"description": "Ну короче смотри. Есть некоторе будущее там все укатили жить в ВР аки матрица какая-то. Ну вот там весь экшон и будет.",
-				"image": "",
+				"image": "twg/8/inner-surface.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "6RxkUwqjtpAGj"
@@ -271,7 +271,7 @@
 				"repeat": "demo"
 			}, {
 				"name": "Inspector Cat",
-				"image": "",
+				"image": "twg/8/inspector-cat.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "fbABOnv5tw4cx"
@@ -309,7 +309,7 @@
 			{
 				"name": "Night Hunter",
 				"description": "Игра-слешэр в стиле нуар. Важную роль играет тактика - выбирайте боевые стойки и умения с умом, чтобы узнать, куда приведёт вас эта полная опасностей дорога.",
-				"image": "",
+				"image": "twg/8/",
 				"status": "1",
 				"links": {
 					"yadisk": "2cwAoA-c3LiApy"
@@ -321,7 +321,7 @@
 				}
 			}, {
 				"name": "Siberian Noir",
-				"image": "",
+				"image": "twg/8/",
 				"status": "2",
 				"links": {
 					"yadisk": "VXwoHvnG3LiAqn"
@@ -334,7 +334,7 @@
 			}, {
 				"name": "Darcalley",
 				"demo_name": "lighting2",
-				"image": "",
+				"image": "twg/8/",
 				"status": "3",
 				"links": {
 					"yadisk": "2SgjyJqp3LiAoX"
@@ -348,7 +348,7 @@
 				"name": "GDesecrate",
 				"genre": "3Д бродилка-паззл",
 				"description": "Помоги персонажу сбежать из этого кошмара.",
-				"image": "",
+				"image": "twg/8/",
 				"status": "3",
 				"links": {
 					"yadisk": "mveoG3_o3LiAox"

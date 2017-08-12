@@ -2378,7 +2378,7 @@
 				"name": "Blank World",
 				"genre": "Трехмерный платформер-головоломка",
 				"description": "Вы попадаете в иллюзорный мир, который отпустит вас обратно только после того, как вы пройдете испытания, которые этот мир вам приготовил.",
-				"image": "",
+				"image": "twg/8/blank-world.jpg",
 				"status": "1",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDdXR4OERHWTlZcVE",
@@ -2392,7 +2392,7 @@
 			}, {
 				"name": "Iron Harvest",
 				"description": "Игрок получает роль командира автобронетанковых войск, которому предстоит пройти войну, сталкиваясь с пополнениями и потерями, а в последствии и с постепенным обезличиванием личного состава.",
-				"image": "",
+				"image": "twg/8/iron-harvest.jpg",
 				"status": "2",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDN29RUjhkVko5ZGs",
@@ -2407,7 +2407,7 @@
 				"name": "Gravity Matters",
 				"genre": "3d platformer / puzzle",
 				"description": "Нужно выйти из уровня, преодолев все препятствия на пути. Механика игры основана на возможности игрока поворачивать направление гравитации.",
-				"image": "",
+				"image": "twg/8/gravity-matters.jpg",
 				"status": "3",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDZmFpZndvM2w3R00",
@@ -2422,7 +2422,7 @@
 				"name": "АНТИ-МИР",
 				"genre": "Аркада",
 				"description": "Вы руководите операцией по затоплению орбитальной космической станции МИР",
-				"image": "",
+				"image": "twg/8/anti-mir.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDVEZIbDNjZFdoLU0",
@@ -2437,7 +2437,7 @@
 				"name": "Project Raspidarasilo 2",
 				"genre": "платформер, скролл-шутер",
 				"description": "Единственная возможность твоей мамке спастись из Северных Ебеней - это раздобыть истребитель погребеный в заброшеных лабораториях Новосибирского Института Исследования Ректаломагнетизма.",
-				"image": "",
+				"image": "twg/8/vdrebezgi-2.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDZ0NCMzhTQWNsTWM",
@@ -2451,7 +2451,7 @@
 			}, {
 				"name": "Гравитационный парень",
 				"description": "Вы - парень. Но не обычный, а гравитационный.",
-				"image": "",
+				"image": "twg/8/gravity-guy.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDN1p3ZDRMZHh2aG8",
@@ -2465,7 +2465,7 @@
 			}, {
 				"name": "tkinter roguelike",
 				"description": "Весь мир перестроился таким образом, что куски земли из разных мест перемешались между собой: луга, пустыни, подножия вулканов - все это может быть по соседству друг рядом с другом.",
-				"image": "",
+				"image": "twg/8/tkinter-roguelike.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDY3RER0EwY2lXakE",
@@ -2479,7 +2479,7 @@
 			}, {
 				"name": "I Wanna Be The Dragon",
 				"description": "Ты кобольд. Где-то на плоскости Лобачевского живет мим. Убей его. Бей в слабые точки для МАССИВНОГО ПОВРЕЖДЕНИЯ.",
-				"image": "",
+				"image": "twg/8/iwbtd.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDMnR0aXpnWkxPYTg",
@@ -2494,7 +2494,7 @@
 				"name": "The Story",
 				"genre": "Платформер",
 				"description": "На протяжении всей игры пишется история, которая зависит от ваших выборов и действий в самой игре. Также в создании истории вам помогает рандом.",
-				"image": "",
+				"image": "twg/8/the-story.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDbWg1Q2dVTGs0WFE",
@@ -2509,7 +2509,7 @@
 				"name": "Distinguished Buddhist Journey",
 				"genre": "RPG",
 				"description": "После странной прогулки мага, весь мир как будто перевернулся. Теперь повсюду монстры, обломки континетов и порталы, которые ведут в неизвестность. Пора вернуться в родную деревню, чтобы разобраться с этим.",
-				"image": "",
+				"image": "twg/8/distinguished-duddhist-journey.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDMnpLaTNna2ZFQjg",
@@ -2523,7 +2523,7 @@
 			}, {
 				"name": "Your in you",
 				"description": "Вы играете силуэтом художника совершившим суицид, и, проходя загадки, вы собираете себя в буквальном смысле.",
-				"image": "",
+				"image": "twg/8/your-in-you.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWjFqWThzTGRFT3c",
@@ -2537,7 +2537,7 @@
 			}, {
 				"name": "Sphere Shooter",
 				"description": "Жила была цивилизация разумных и технически развитых сфер. На одной из военных баз они проводили секретные эксперименты, в результате которых в мир сфер начал просачиваться другой мир, от чего стали появляться аномалии. Ситуация вышла из под контроля и аномалии стали просачиваться за пределы специальных полигонов, но не смотря на это военные не захотели остановить эксперименты. к счастью игроку удалось получить силовую броню которая может взаимодействовать с аномалиями и теперь у него есть шанс остановить все это.",
-				"image": "",
+				"image": "twg/8/sphere-shooter.jpg",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDbDFIQmNRNkV3NGc",
@@ -2553,7 +2553,7 @@
 				"name": "SchoolPrktk",
 				"genre": "",
 				"description": "Помоги главному герою-школьнику пройти практику - бесполезное и ненужное отголосье СССР. Собирай ветки в кучу, которую всё равно разнесёт ветер.",
-				"image": "",
+				"image": "twg/8/school-prktk.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "siMyLHr1tpCNP"
@@ -2561,7 +2561,7 @@
 			}, {
 				"name": "Purity (Is Here)",
 				"description": "Космический корабль. неудачный эксперимент по телепортации. экипаж ебанулся и/или мутировал. парочка хороших ребят ищут выход из этого говнистого положняка.",
-				"image": "",
+				"image": "twg/8/purity.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "79LSX-QGtpJLD"
@@ -2570,7 +2570,7 @@
 				"name": "Dark Vortex",
 				"genre": "Пиксельное говно пиксельного говна",
 				"description": "Твой отряд разбит солдат, сможешь ли ты доделать начатое, остановить Катарха, злобного культиста?",
-				"image": "",
+				"image": "twg/8/dark-vortex.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "JNYkW5LxtpvBA"
@@ -2578,7 +2578,7 @@
 			}, {
 				"name": "AntiMario",
 				"description": "Обычно играя в марио вы пытаетесь спасти принцесу. Но не в этом мире. Тут все наоборот. Яндере принцесса заперла вас у себя. Но вам удалось сбежать. Убегите от нее.",
-				"image": "",
+				"image": "twg/8/anti-mario.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "F1my_SgmtpvPi"
@@ -2586,7 +2586,7 @@
 			}, {
 				"name": "Sleep of a lifetime",
 				"description": "Главному герою снится необычный сон и ему нужно выйти из него, иначе сон продлиться всю жизнь. Во сне нужно собрать солнечные блики (жёлтые). По мере их собирания открывается картина на заднем фоне. Когда картина будет полностью открыта наш герой проснётся.",
-				"image": "",
+				"image": "twg/8/sleep-of-a-lifetime.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "yr_9mChwtpvoA"
@@ -2595,7 +2595,7 @@
 				"name": "OnOff",
 				"genre": "Экшн-квест",
 				"description": "В результате некоторого проишествия главный герой оказался в таинственной комнате с одним только рубильником. Но рубильник оказался не так прост, а может перемещать героя по разным вселенным.",
-				"image": "",
+				"image": "twg/8/on-off.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "3Zbju0dQtpvvF"
@@ -3143,7 +3143,7 @@
 				"genre": "0-gameplay",
 				"description": "Ты - самый обычный житель пост-советского пространства. Вокруг тебя всё уныло и грустно, но ты умеешь наслаждаться даже такими вещами, как поездка в унылом поезде. И сегодня ты покажешь как превратить обычную поезду в нечто невообразимое.",
 				"tools": "Unity 5.5, Photoshop CC 2015, Paint.Net, Audacity, Fl Studio 12, Visual Studio 2015, etc.",
-				"image": "",
+				"image": "twg/9/pidoraha-magic.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "Ga_1QQPU3BeLMf"
@@ -3153,7 +3153,7 @@
 				"genre": "Action-RPG",
 				"description": "Люди одолели смерть и научились воскрешать себя благодаря Частице Бога, обнаруженной в ходе экспериментов с адронным коллайдером. Особенностью всеобщего возрождения стало то, что оно распространялось на всех живых существ планеты, что поставило Землю на грань уничтожения.",
 				"tools": "JS - велосипед, Paint.Net, Atom",
-				"image": "",
+				"image": "twg/9/renaissance.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "c4FZ5YSl3BeTXc"
@@ -3163,7 +3163,7 @@
 				"genre": "Симулятор",
 				"description": "Путешествие на паровозе с тян из Tyan Game.",
 				"tools": "Unity, 3DS Max, Reaper",
-				"image": "",
+				"image": "twg/9/steam-tyan.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "9czJBiDA3BgFL9"
@@ -3172,7 +3172,7 @@
 				"name": "Химическая Вальхалла",
 				"description": "Игроку предстоит взять на себя роль прекрасной девы-воительницы, благословляющей дарми Одина отважных воинов на их пути к вратам Вальхаллы.",
 				"tools": "libGDX",
-				"image": "",
+				"image": "twg/9/valhalla.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "7doKeJ7u3Bkown"
@@ -3182,7 +3182,7 @@
 				"genre": "экономическая стратегия",
 				"description": "Игра в которой вам предстоит играть роль директора завода по производству йогуртав. Я сам очень люблю кушать йогурт, каждый день с утра его кушаю. И мечтаю однажды проснуться директором йогуртого завода и смогу кушать его сколько влезет.",
 				"tools": "C#",
-				"image": "",
+				"image": "twg/9/zavod.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "LKBUAUXB3Brzfb"
@@ -3190,6 +3190,7 @@
 			}, {
 				"name": "Путешествие вглубь леса",
 				"description": "Интерактивная текстовая история",
+				"image": "twg/9/trip-deep-into-the-forest.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "xc_RGPf_3Bs8Dn"
@@ -3198,7 +3199,7 @@
 				"name": "Frontier Worlds",
 				"description": "Действие происходит в недаеком будущем, на границе миров.",
 				"tools": "Unity3d, paint",
-				"image": "",
+				"image": "twg/9/fw.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "tKH_quOf3BsBVw"
@@ -3206,7 +3207,7 @@
 			}, {
 				"name": "Friendly Explosion",
 				"description": "Мир, в котором 2 друга проводили свою беззаботную вечность, подвергся падению метеорита, который в свою очередь пробил отверстие в земле. Украшенная разноцветными кристаллами дыра не предвещает ничего скучного для двоих друзей. Может быть кинуть туда что-нибудь взрывающееся будет не такой уж и плохой идеей.",
-				"image": "",
+				"image": "twg/9/friendly-explosion.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "1Rcdo8Wy3BtNW6"
@@ -3214,7 +3215,7 @@
 			}, {
 				"name": "MAGIC MUSHROOM",
 				"description": "Короче, я за три четыре дня не успел ассетов натаскать. Карта не доделана, нихуя нет, но можно пинать петушков. А еще можно в лес сбегать и поискать там грибы.",
-				"image": "",
+				"image": "twg/9/magic-mushroom.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "7odEr7NL3Bto5C"
@@ -3223,7 +3224,7 @@
 				"name": "OGL_RPG",
 				"description": "Cкелеты спавнятся без остановки, сможешь ли ты с ними совладать?",
 				"tools": "велосипед на крестах",
-				"image": "",
+				"image": "twg/9/ogl-rpg.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "88-IX4KM3BtYo7"
@@ -3232,7 +3233,7 @@
 				"name": "Названия нет",
 				"description": "Анону приснилось, что он оказался в темном подземелье.",
 				"tools": "unity, photoshop",
-				"image": "",
+				"image": "twg/9/noname.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "ZaO1iFLZ3BthFL"
@@ -3242,7 +3243,7 @@
 				"genre": "Arcade Runner",
 				"description": "Ебанутые звери дядюшки Билли сбежали, помощник кузнеца Карл отправляется в опасный волшебный лес чтобы найти зверей.",
 				"tools": "Unity 5, Photoshop, Tiled",
-				"image": "",
+				"image": "twg/9/magic-forest-and-crazy-animals.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "05Jyvhtk3BuCeP"
@@ -3251,7 +3252,7 @@
 				"name": "world of chpok",
 				"description": "краб по кличке Чпок должен совершить путешествие в параллельный магический мир чтобы превратиться в сверхраба для того чо бы... пока не придумал",
 				"tools": "Godot Engine, Gimp, SFXR",
-				"image": "",
+				"image": "twg/9/world-of-chpok.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "jyWs2Q3U3BuRr8"
@@ -3260,7 +3261,7 @@
 				"name": "Journey of the Mage",
 				"description": "Вы играете за мага, которому срочно нужно переправиться на своем летающем острове к королевству, которому угрожает опасность. Но враг не даст так просто добраться магу до дальнего королевства - десант из нежити уже отправлен на перехват.",
 				"tools": "Unity, 3DS Max, Paint.NET",
-				"image": "",
+				"image": "twg/9/journey-of-the-mage.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "4JblS8bZ3BuTkk"
@@ -3269,7 +3270,7 @@
 				"name": "Конечная история",
 				"description": "Короткая история про то, как может стать волшебным самый обычный день.",
 				"tools": "Unreal Engine 4",
-				"image": "",
+				"image": "twg/9/story.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "NiooH1HQ3BuzfS"
@@ -3278,7 +3279,7 @@
 				"name": "Приключения Эгмонта",
 				"genre": "Слешер, Битэмап",
 				"description": "Простенькая демко в которой реализован только базовый геймплей. Извиняюсь что сделал так мало. Совсем дел не впроворот было. В следующую неделю будет лучше.",
-				"image": "",
+				"image": "twg/9/egmont.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "UBREW8OP3Bv9Nh"
@@ -3287,7 +3288,7 @@
 				"name": "Project Big Cunning Linx",
 				"description": "ты попал в другое измерение, тут всё по другому, смотри не упади со стула!",
 				"tools": "гейммейкер",
-				"image": "",
+				"image": "twg/9/big-cunning-linx.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "322xp_6D3BvGXu"
@@ -3296,7 +3297,7 @@
 				"name": "P-day",
 				"description": "Недалекое будущее в Соединенных Штатах..",
 				"tools": "UNITY, BLENDER",
-				"image": "",
+				"image": "twg/9/p-day.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "5GJACdd83BvLEU"
@@ -3306,7 +3307,7 @@
 				"genre": "Tower Defense",
 				"description": "Врата в волшебную страну открыты! Но магия - ограниченный ресурс, и на всех ее не хватит, поэтому нам необходимо строить стены и башни, чтобы остановить бесконечный поток людей и не дать им заграбастать нашу бесценную магию.",
 				"tools": "флэш, haxe, sublime text, myPaint",
-				"image": "",
+				"image": "twg/9/trump-in-a-magical-land.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "ZuV60NnF3BvZfG"
@@ -3315,7 +3316,7 @@
 				"name": "Journey into the deep somewhere",
 				"description": "Глупый хиккан думал что просто так улетит из рашки через инопланетный портал, но хитрые инопланетяне подкрались сзади и разработали его черную дырку",
 				"tools": "Unity/Photoshop",
-				"image": "",
+				"image": "twg/9/trump-in-a-magical-land.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "rJLKIuP53Bvg48"
@@ -3325,7 +3326,7 @@
 				"genre": "Платформер",
 				"description": "Вы прознали, что дворфы-ворюги живут под домом вашей бабушки Ячсмить. Вам нужно докапаться до их сокровищей, чтобы оплатить ипотеку. Поэтому вы берете еще кредит на покупку робота-геопроходца и отправляетесь им изучать глубокие секреты заднего двора вашей бабушки.",
 				"tools": "Libgdx",
-				"image": "",
+				"image": "twg/9/dwarfs-raider.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "vO54gVZu3BvhdW"
@@ -3333,14 +3334,14 @@
 			}, {
 				"name": "D_D_D",
 				"description": "Тяночка ходит по грустному городу и грустит находит таблеточку и отправляется в интересный трип",
-				"image": "",
+				"image": "twg/9/d-d-d.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "6eGtAyFV3Bvjz3"
 				}
 			}, {
 				"name": "InSearchPureWorld",
-				"image": "",
+				"image": "twg/9/ispw.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "G-uoQCop3Bw2if"
@@ -3350,7 +3351,7 @@
 				"genre": "RPG",
 				"description": "игра в жанре RPG (неожиданно, да?), которая поведает о жизни типичнго посетителя имиджборд и о его путешествиях в альтернативных мирах. Остросюжетная история, прекрасно раскрытые характеры безумно живых персонажей, огромный и интересный мир, райское изобилее квестов, которые смогут удивить даже самого прожженного игрока. Все это ждет вас в 2сhRPG...",
 				"tools": "Rpg maker vx ace",
-				"image": "",
+				"image": "twg/9/2ch-rpg.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "g7aLz_Hx3C33gf"
@@ -3383,19 +3384,431 @@
 		"achievements": [
 			{
 				"name": "По зову сердца",
-				"description": "Игрок делает моральный выбор между двумя персонажами. Спасете убийцу достойного понимания или поможете следователю не отступающему от закона?"
+				"description": "Игрок делает моральный выбор между двумя персонажами. Спасете убийцу достойного понимания или поможете следователю не отступающему от закона?",
+				"win": "Lightyear"
 			}, {
 				"name": "Стужа",
-				"description": "Часть игры проходит в условиях лютого холода. Пробирает до костей, одежда не спасает, мороз достанет тебя повсюду. Оценивается атмосферное исполнение."
+				"description": "Часть игры проходит в условиях лютого холода. Пробирает до костей, одежда не спасает, мороз достанет тебя повсюду. Оценивается атмосферное исполнение.",
+				"win": "Tianochcka"
 			}, {
 				"name": "Всегда хотел",
-				"description": "Значительная часть игровых объектов может быть разрушена или уничтожена."
+				"description": "Значительная часть игровых объектов может быть разрушена или уничтожена.",
+				"win": "Too Weak Game"
 			}, {
 				"name": "Как по нотам",
-				"description": "Действия игрока сопровождаются звуками. В игре имеются моменты когда из разрозненных эффектов получается красивая мелодия."
+				"description": "Действия игрока сопровождаются звуками. В игре имеются моменты когда из разрозненных эффектов получается красивая мелодия.",
+				"win": "Project Raspidarasilo 4"
 			}
 		],
 		"site": "https://twg-x.blogspot.ru",
-		"games": []
+		"games": [
+			{
+				"name": "Obsurity",
+				"genre": "Симулятор человека-меча",
+				"description": "Ученый Воглевор и его помощник призвали в свой мир \"Чернь\". Воглевор уходит вместе с ней в свою лабораторию, а своего помощника отправляет в \"отпуск\". С миром начинают происходить странные вещи, которые ученому необходимо предотвратить. Если это еще возможно...",
+				"image": "twg/10/obsurity.jpg",
+				"status": "1",
+				"links": {
+					"yadisk": "JtJQqCH23LwGrK"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "phg9YjIr3LwGGU"
+					}
+				}
+			}, {
+				"name": "Tank№2",
+				"genre": "Аркадный top-down шутер ",
+				"description": "В недалёком будущем на берегах Японии будут построены огромные крепости, управляемые Искуственным Интеллектом. Однако никто не был готов к тому, что он восстанет против своих же создателей. Против ИИ на защиту человечества выходит только один смелый боец под прозвищем \"Танк Номер Два\".",
+				"image": "twg/10/tank.jpg",
+				"status": "2",
+				"links": {
+					"yadisk": "OouM-5E_3LwGrY"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "1dWZcMJh3LwGpe"
+					}
+				}
+			}, {
+				"name": "Веселая поездка друзей на пикник!",
+				"genre": "Симулятор Сереги)",
+				"description": "Вы принимаете на себя роль Серёги, по очень неудачному стечению обстоятельств попавшему к безумным злым ГДшникам. Готовьтесь к кровавым сражениям, безумным погоням и резким сюжетным поворотам))",
+				"image": "twg/10/serega.jpg",
+				"status": "3",
+				"links": {
+					"yadisk": "m3Jhfozf3LwGrt"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "wHyt7ZdZ3LwGPA"
+					}
+				}
+			}, {
+				"name": "Death Arena",
+				"genre": "Top-down shooter/Bullet hell",
+				"description": "Морской пехотинец армии США рядовой Райенс стал последним выжившим из попашей в западню спецгруппы, направленной в недра секретной лаборатории по разработке военных роботов. И, хотя перевес сил явно не в его пользу, он решил стоять на смерть до последней капли крови.",
+				"image": "twg/10/death-arena.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "xWBlaDnJ3LwGsA"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "bh_NBVQ63LwGPR"
+					}
+				}
+			}, {
+				"name": "Eto Gazeta",
+				"genre": "Экономическая стратегия",
+				"description": "Вы — начальник газеты \"Мухосранская правда\", а раз вы СМИ то в вашей власти обманывать, натравливать и унижать всех кого потребуется для достижения цели. Главное чтобы цель не шла поперек линии партии.",
+				"image": "twg/10/eto-gazeta.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "UBqzQV-X3LwGsV"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "9RZCrlqe3LwGPV"
+					}
+				}
+			}, {
+				"name": "Hotline GD",
+				"genre": "Акция перфоманса/Лайв-Экшн/Сюрреализм",
+				"description": "В этой игре нельзя проиграть, потому что ваша цель — созерцание умопомрачительных трюков, лихо и задорно исполняемых привлекательными молодыми актёрами. За сим действом определенно скрыт некий вселенский вопрос, ответ на который каждый даст себе сам.",
+				"image": "twg/10/hotline.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "z6j3h2P93LwGst"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "0qlS7yc13LwGPu"
+					}
+				}
+			}, {
+				"name": "Lightyear",
+				"genre": "Космический симулятор нажатия на гашетку/Дорама",
+				"description": "Очередная глава приключений капитана Кикстартера - ультимативный приквел. Не успев сдать финальный экзамен в космической академии, главный герой оказывается втянут в галактический конфликт.",
+				"image": "twg/10/lightyear.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "t_1Zqy1x3LwGt2"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "Q1nJGKvV3LwGQ4"
+					}
+				}
+			}, {
+				"name": "One",
+				"genre": "Платформер/Симулятор маляра",
+				"description": "Однажды а черно-белом мире произошла какая-то муть, какие-то кристаллы, боги, маги, я ни черта не понял поэтому предлагаю убить вообще всех. А еще, кстати, у тебя есть крылья.",
+				"image": "twg/10/one.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "W9V3N6GQ3LwGtA"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "NhLWMpCf3LwGQW"
+					}
+				}
+			}, {
+				"name": "Onsen Rumble",
+				"genre": "Разврат и наркотики/Виртуальная Реальность",
+				"description": "Однажды главный герой поехал в Страну Восходящего Солнца, но по пути сильно вспотел и решил сходит в баню. Однако внезапно набижавшие клоны-самурайки решили что негоже гайдзину ступать по земле императора и жестоко ему мстят.",
+				"image": "twg/10/onsen-rumble.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "M1_FQUuC3LwGtN"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "9q9FUflf3LwGQf"
+					}
+				}
+			}, {
+				"name": "Space Station T10WG",
+				"genre": "Римейк спейшона в 3д/Игра в Ролеплейный отыгрыш",
+				"description": "Когда после восьмичасовой смены я бухал в баре с другими инженерами, ну там ещё один таяра по полу катался, ну вот короче, напился я космической водки просто в хламину, и бармен выкинул меня погулять по станции. Какой-то мимопробегающий ассистент заехал мне баллоном по голове и я отрубился, а когда проснулся тут такое началось, вы не поверите, мужики!",
+				"image": "twg/10/ss-10.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "XmWo-yfh3LwGte"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "oqig_3k73LwGR8"
+					},
+					"updated": {
+						"yadisk": "YJD_gaPd3LwHA8"
+					}
+				}
+			}, {
+				"name": "Supernova",
+				"genre": "Топдаун-шутер в космических декорациях",
+				"description": "История бессмысленного геноцида расы космических врагошаров в декорациях из кубов (космических).",
+				"image": "twg/10/supernova.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "QpUJtThK3LwGtx"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "fx3iXIrF3LwGRU"
+					}
+				}
+			}, {
+				"name": "Три Капли Тепла",
+				"genre": "Визуальный симулятор игры в игру на юи4е",
+				"description": "Сбежавшая из приюта бомжиха крадёт спички и греется у бойлеров, внимательно рассматривая графон. Дизельпанк и четыре совершенно бесполезные концовки прилагаются, ситуацию сильно улучшает и отсутствие так называемого геймплея, но зачем он нужен?",
+				"image": "twg/10/three-drops-of-warm.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "9iwLQWrg3LwH5t"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "PJlguQsY3LwGRf"
+					}
+				}
+			}, {
+				"name": "Tianochcka",
+				"genre": "Попрыгушки по блокам",
+				"description": "Вы - тяночка, которая заблудилась в неизведанных горах. Выпал внезапный снег и стало очень холодно. Пытаясь найти выход, вы натолкнулись на старинный индийский тотем. Дотронувшись до него, вы попали в мир злых духов, которые принесли холод в эти земли. Вам ничего не остается, кроме как перебить этих богомерзких тварей.",
+				"image": "twg/10/tianochcka.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "PO1czay83LwGuR"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "FYoF6LTq3LwGRu"
+					}
+				}
+			}, {
+				"name": "Мухосранск",
+				"demo_name": "Мухосранск: Тхе Комната",
+				"genre": "ХОРРОР",
+				"description": "Простой слесарь Кирилл получил письмо от своей мамки. После окончания ПТУ №666, Кирилл уехал из своего родного и загнивающего города Мухосранска в райцентр Верхние Помои - как и все молодые люди родом из этих мест,- и устроился там на скрепном заводе имени В. В. Пупутина, где он под начальством своего мастера Ковальчука Виталия Витальевича участвует в производстве скреп для народа. И вот теперь, в своем письме, мамка зовет Кирилла обратно к себе, в их родной город Мухосранск. Одно странно в этой истории. Мамка Кирилла умерла не ранее как один год назад. Ошибки быть не может, письмо написано мамкиной рукой - Кирилл помнит ее почерк хорошо. Кирилл решает разобраться в этой поистине мистической истории и наведаться в свою старую хрущевку в Мухосранске. Единственный автобус №3, возивший пассажиров из Мухосранска в Верхние Помои и обратно, уже давно сломанный догнивает свой железный век на вечной стоянке в гараже ПАТП имени Щукина Г.Д. Поэтому поймав попутку, Кирилл приезжает в Мухосранск.",
+				"image": "twg/10/muhosransk.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "mURPXAg63LwGuy"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "E-Spg9Ay3LwGSJ"
+					}
+				}
+			}, {
+				"name": "No Escape",
+				"genre": "Интернет-авантюра",
+				"description": "Игра про возможное будущее Интернета в одной восточноевропейский стране (информация уточняется, обратитесь позднее).",
+				"image": "twg/10/no-escape.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "kiZ9MnTX3LwGw3"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "QxHF5Hwk3LwGTt"
+					}
+				}
+			}, {
+				"name": "Rally Raid",
+				"genre": "Wheel Collider Simulator",
+				"description": "Ты участвуешь в легендарном ралли-рейде, путь которого проходит из Мемфиса в Афины, в классе автомобилей.",
+				"image": "twg/10/rally-raid.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "Kqj2Kkao3LwGwd"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "CS8TyNoY3LwGUA"
+					}
+				}
+			}, {
+				"name": "X7",
+				"genre": "Симулятор ассетов",
+				"description": "Однажды битарду дали погонять валыну. Конечно, это было бы смешно, если бы не космическая станция, на которую его отправили в качестве тест сабжекта. Ужасно осозновать то, как его и без того больной после тяжелейших перегрузок в 15 атмосфер воспринимает реальность и всеми силами противится ей.",
+				"image": "twg/10/x7.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "6uuCGPKP3LwGwv"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "qFXJE_td3LwGUK"
+					}
+				}
+			}, {
+				"name": "Degravity",
+				"genre": "Симулятор KUROCHKI и ambient occlusionа",
+				"description": "В этом белоснежном стерильном мире тебя больше не держит ничего, и ты рвёшься вперед, лишь бы убежать подальше от своих чувств, от злого общества, от старых воспоминаний — только вперёд, вперёд и вперёд!",
+				"image": "twg/10/degravity.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "HU5nvCR_3LwGxG"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "Z1Sahe6e3LwGUg"
+					}
+				}
+			}, {
+				"name": "Project Raspidarasilo 4",
+				"image": "twg/10/vdrebezgi-4.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "o7w6bubz3LwGyJ"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "ocAyLmeg3LwGVJ"
+					},
+					"final_multi": {
+						"linux": {
+							"yadisk": "tpCKVNFo3LwH3g"
+						}
+					}
+				}
+			}, {
+				"name": "Too Weak Game",
+				"genre": "Симулятор клона Flatout/Симулятор тануки",
+				"description": "Мы — реднеки. Мы любим своих коров, своих жён и ломать чужие тачки. К сожалению, наши коровы улетели на смерче в техас, а наши жены ушли целоваться с латиносами. Так что мы решили выпить в баре и прокатиться от души.",
+				"image": "twg/10/too-weak-game.jpg",
+				"status": "final",
+				"links": {
+					"yadisk": "65uibwg83LwH4y"
+				},
+				"other_links": {
+					"demo": {
+						"yadisk": "3T1pnda-3LwGa3"
+					}
+				}
+			}, {
+				"name": "Xanobi",
+				"image": "twg/10/xanobi.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "Mwg0qsab3LwGaJ"
+				}
+			}, {
+				"name": "Luman",
+				"image": "twg/10/luman.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "u1hkYvY_3LwGaZ"
+				}
+			}, {
+				"name": "Копатель",
+				"image": "twg/10/kopatel.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "m8Kq8IT83LwGap"
+				}
+			}, {
+				"name": "60 Seconds to chase",
+				"image": "twg/10/60-seconds-2-chase.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "z0rHPl_q3LwGb8"
+				}
+			}, {
+				"name": "Tatrix's TWG Simulator",
+				"image": "twg/10/twg-sim.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "N9mtaypj3LwGcW"
+				}
+			}, {
+				"name": "Песчаный Марс",
+				"image": "twg/10/mars.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "qab5-GsR3LwGc7"
+				}
+			}, {
+				"name": "Project2",
+				"image": "twg/10/project2.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "MeCjaaJq3LwGcG"
+				}
+			}, {
+				"name": "Эх, никогда не знаешь заранее когда настанет такое время",
+				"image": "twg/10/eh.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "vl-SsnQG3LwGe7"
+				}
+			}, {
+				"name": "Xenostorm",
+				"image": "twg/10/xenostorm.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "KZ9NFL7i3LwGco"
+				}
+			}, {
+				"name": "Нашествие гоблинов",
+				"image": "twg/10/goblins.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "gxdOq2yq3LwGdh"
+				}
+			}, {
+				"name": "9 Lives",
+				"image": "twg/10/9-lives.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "bCLq3ie33LwGdV"
+				}
+			}, {
+				"name": "Buddhist Summoner's Space Corporation",
+				"image": "twg/10/space-buddhist.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "Gjab42z33LwGf5"
+				}
+			}, {
+				"name": "Outer Heaven",
+				"image": "twg/10/outer-heaven.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "mwfLZY8A3LwGgA"
+				}
+			}, {
+				"name": "Рагднарек",
+				"image": "twg/10/ragnarok.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "x7VqT_W23LwGgV"
+				}
+			}, {
+				"name": "Limbo",
+				"image": "twg/10/limbo.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "rsY28j1O3LwGnd"
+				}
+			}, {
+				"name": "Warehouse Simulator",
+				"image": "twg/10/warehouse-sim.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "4P40tVlW3LwGiE"
+				}
+			}, {
+				"name": "Broken Time",
+				"image": "twg/10/broken-time.jpg",
+				"status": "demo",
+				"links": {
+					"yadisk": "SxyEdk813LwGgk"
+				}
+			}
+		]
 	}
 }
