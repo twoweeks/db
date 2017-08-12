@@ -309,7 +309,7 @@
 			{
 				"name": "Night Hunter",
 				"description": "Игра-слешэр в стиле нуар. Важную роль играет тактика - выбирайте боевые стойки и умения с умом, чтобы узнать, куда приведёт вас эта полная опасностей дорога.",
-				"image": "twg/8/",
+				"image": "",
 				"status": "1",
 				"links": {
 					"yadisk": "2cwAoA-c3LiApy"
@@ -321,7 +321,7 @@
 				}
 			}, {
 				"name": "Siberian Noir",
-				"image": "twg/8/",
+				"image": "",
 				"status": "2",
 				"links": {
 					"yadisk": "VXwoHvnG3LiAqn"
@@ -334,7 +334,7 @@
 			}, {
 				"name": "Darcalley",
 				"demo_name": "lighting2",
-				"image": "twg/8/",
+				"image": "",
 				"status": "3",
 				"links": {
 					"yadisk": "2SgjyJqp3LiAoX"
@@ -348,7 +348,7 @@
 				"name": "GDesecrate",
 				"genre": "3Д бродилка-паззл",
 				"description": "Помоги персонажу сбежать из этого кошмара.",
-				"image": "twg/8/",
+				"image": "",
 				"status": "3",
 				"links": {
 					"yadisk": "mveoG3_o3LiAox"
