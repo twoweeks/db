@@ -3153,7 +3153,7 @@
 				"genre": "Action-RPG",
 				"description": "Люди одолели смерть и научились воскрешать себя благодаря Частице Бога, обнаруженной в ходе экспериментов с адронным коллайдером. Особенностью всеобщего возрождения стало то, что оно распространялось на всех живых существ планеты, что поставило Землю на грань уничтожения.",
 				"tools": "JS - велосипед, Paint.Net, Atom",
-				"image": "twg/9/renaissance.png",
+				"image": "twg/9/renaissance.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "c4FZ5YSl3BeTXc"
@@ -3172,7 +3172,7 @@
 				"name": "Химическая Вальхалла",
 				"description": "Игроку предстоит взять на себя роль прекрасной девы-воительницы, благословляющей дарми Одина отважных воинов на их пути к вратам Вальхаллы.",
 				"tools": "libGDX",
-				"image": "twg/9/valhalla.png",
+				"image": "twg/9/valhalla.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "7doKeJ7u3Bkown"
@@ -3199,7 +3199,7 @@
 				"name": "Frontier Worlds",
 				"description": "Действие происходит в недаеком будущем, на границе миров.",
 				"tools": "Unity3d, paint",
-				"image": "twg/9/fw.png",
+				"image": "twg/9/fw.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "tKH_quOf3BsBVw"
@@ -3207,7 +3207,7 @@
 			}, {
 				"name": "Friendly Explosion",
 				"description": "Мир, в котором 2 друга проводили свою беззаботную вечность, подвергся падению метеорита, который в свою очередь пробил отверстие в земле. Украшенная разноцветными кристаллами дыра не предвещает ничего скучного для двоих друзей. Может быть кинуть туда что-нибудь взрывающееся будет не такой уж и плохой идеей.",
-				"image": "twg/9/friendly-explosion.png",
+				"image": "twg/9/friendly-explosion.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "1Rcdo8Wy3BtNW6"
@@ -3215,7 +3215,7 @@
 			}, {
 				"name": "MAGIC MUSHROOM",
 				"description": "Короче, я за три четыре дня не успел ассетов натаскать. Карта не доделана, нихуя нет, но можно пинать петушков. А еще можно в лес сбегать и поискать там грибы.",
-				"image": "twg/9/magic-mushroom.png",
+				"image": "twg/9/magic-mushroom.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "7odEr7NL3Bto5C"
@@ -3243,7 +3243,7 @@
 				"genre": "Arcade Runner",
 				"description": "Ебанутые звери дядюшки Билли сбежали, помощник кузнеца Карл отправляется в опасный волшебный лес чтобы найти зверей.",
 				"tools": "Unity 5, Photoshop, Tiled",
-				"image": "twg/9/magic-forest-and-crazy-animals.png",
+				"image": "twg/9/magic-forest-and-crazy-animals.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "05Jyvhtk3BuCeP"
@@ -3261,7 +3261,7 @@
 				"name": "Journey of the Mage",
 				"description": "Вы играете за мага, которому срочно нужно переправиться на своем летающем острове к королевству, которому угрожает опасность. Но враг не даст так просто добраться магу до дальнего королевства - десант из нежити уже отправлен на перехват.",
 				"tools": "Unity, 3DS Max, Paint.NET",
-				"image": "twg/9/journey-of-the-mage.png",
+				"image": "twg/9/journey-of-the-mage.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "4JblS8bZ3BuTkk"
@@ -3279,7 +3279,7 @@
 				"name": "Приключения Эгмонта",
 				"genre": "Слешер, Битэмап",
 				"description": "Простенькая демко в которой реализован только базовый геймплей. Извиняюсь что сделал так мало. Совсем дел не впроворот было. В следующую неделю будет лучше.",
-				"image": "twg/9/egmont.png",
+				"image": "twg/9/egmont.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "UBREW8OP3Bv9Nh"
@@ -3288,7 +3288,7 @@
 				"name": "Project Big Cunning Linx",
 				"description": "ты попал в другое измерение, тут всё по другому, смотри не упади со стула!",
 				"tools": "гейммейкер",
-				"image": "twg/9/big-cunning-linx.png",
+				"image": "twg/9/big-cunning-linx.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "322xp_6D3BvGXu"
@@ -3297,7 +3297,7 @@
 				"name": "P-day",
 				"description": "Недалекое будущее в Соединенных Штатах..",
 				"tools": "UNITY, BLENDER",
-				"image": "twg/9/p-day.png",
+				"image": "twg/9/p-day.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "5GJACdd83BvLEU"
@@ -3307,7 +3307,7 @@
 				"genre": "Tower Defense",
 				"description": "Врата в волшебную страну открыты! Но магия - ограниченный ресурс, и на всех ее не хватит, поэтому нам необходимо строить стены и башни, чтобы остановить бесконечный поток людей и не дать им заграбастать нашу бесценную магию.",
 				"tools": "флэш, haxe, sublime text, myPaint",
-				"image": "twg/9/trump-in-a-magical-land.png",
+				"image": "twg/9/trump-in-a-magical-land.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "ZuV60NnF3BvZfG"
@@ -3316,7 +3316,7 @@
 				"name": "Journey into the deep somewhere",
 				"description": "Глупый хиккан думал что просто так улетит из рашки через инопланетный портал, но хитрые инопланетяне подкрались сзади и разработали его черную дырку",
 				"tools": "Unity/Photoshop",
-				"image": "twg/9/journey-into-the-deep-somewhere.png",
+				"image": "twg/9/journey-into-the-deep-somewhere.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "rJLKIuP53Bvg48"
@@ -3334,14 +3334,14 @@
 			}, {
 				"name": "D_D_D",
 				"description": "Тяночка ходит по грустному городу и грустит находит таблеточку и отправляется в интересный трип",
-				"image": "twg/9/d-d-d.png",
+				"image": "twg/9/d-d-d.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "6eGtAyFV3Bvjz3"
 				}
 			}, {
 				"name": "InSearchPureWorld",
-				"image": "twg/9/ispw.png",
+				"image": "twg/9/ispw.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "G-uoQCop3Bw2if"
@@ -3351,7 +3351,7 @@
 				"genre": "RPG",
 				"description": "игра в жанре RPG (неожиданно, да?), которая поведает о жизни типичнго посетителя имиджборд и о его путешествиях в альтернативных мирах. Остросюжетная история, прекрасно раскрытые характеры безумно живых персонажей, огромный и интересный мир, райское изобилее квестов, которые смогут удивить даже самого прожженного игрока. Все это ждет вас в 2сhRPG...",
 				"tools": "Rpg maker vx ace",
-				"image": "twg/9/2ch-rpg.png",
+				"image": "twg/9/2ch-rpg.jpg",
 				"status": "demo",
 				"links": {
 					"yadisk": "g7aLz_Hx3C33gf"
