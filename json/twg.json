@@ -4,6 +4,7 @@
 		"end": 1355716800,
 		"theme": "Вселенная из книги",
 		"description": "Игра должна иметь под собой художественную литературную основу. Вселенная по любой книге, любого автора, от Стругацких до Достоевского. А вот комиксы не катят. Цитата из этой книги выносится эпиграфом к игре. Жанр любой.",
+		"fund": "16000 рублей",
 		"site": "https://twoweeksgame.blogspot.ru",
 		"games": [
 			{
@@ -332,7 +333,9 @@
 					"demo": {
 						"yadisk": "JkykDK9937nhzK"
 					},
-					"gamejolt": "my-native-foreign-land/59792"
+					"store": {
+						"gamejolt": "my-native-foreign-land/59792"
+					}
 				}
 			}, {
 				"name": "Oneiros",
@@ -709,6 +712,7 @@
 			{ "name": "Смерть и перерождение" }
 		],
 		"description": "Всем привет.\nЯ – член жюри первых двух конкурсов, так называемый 0,5 ОП. К конкурсу и всему gd я неравнодушен. Начало этой серии тредов по третьему конкурсу меня немного удивило, – после такого-то фейла второго, я не ожидал, что кто-то будет требовать еще. Конечно, игр было много, было много хороших игр, много хайпа вокруг конкурса и много горящих жоп донатеров и призеров, чьи деньги ушли в макдак на решение каких-то личных проблем горе-организатора.\nКонечно, остался неприятный осадок. Конечно, Анон таких вещей не забывает и не прощает, но ведь жизнь на этом не кончается, девелоперы? Почему бы и не попробовать еще разок?",
+		"fund": "327 рублей",
 		"site": "https://twoweeksgame3.blogspot.ru",
 		"games": [
 			{
@@ -755,7 +759,9 @@
 					"demo": {
 						"yadisk": "V6eu6AoTyJTBN"
 					},
-					"gamejolt": "absurdation/59747"
+					"store": {
+						"gamejolt": "absurdation/59747"
+					}
 				}
 			}, {
 				"name": "ZA XIII",
@@ -1033,6 +1039,7 @@
 				"win": "Supermassive"
 			}
 		],
+		"fund": "7000 рублей",
 		"site": "https://twoweeksgame6.blogspot.ru",
 		"games": [
 			{
@@ -1082,7 +1089,9 @@
 					"demo": {
 						"yadisk": "2F_ZQx_v37nTQM"
 					},
-					"gamejolt": "apparatus-technology/107104"
+					"store": {
+						"gamejolt": "apparatus-technology/107104"
+					}
 				}
 			}, {
 				"name": "ЦВЕТОВЫБОР",
@@ -1550,6 +1559,7 @@
 				"win": "Megastructure"
 			}
 		],
+		"fund": "10300 рублей",
 		"site": "https://twg7.blogspot.ru",
 		"games": [
 			{
@@ -1574,6 +1584,12 @@
 						"mac": {
 							"gdrive": "0B5M4fMX1HJxDNDlaa0hKbDFQOWc",
 							"yadisk": "GmI22mCt3885ud"
+						}
+					},
+					"store": {
+						"itch": {
+							"user": "midwesterngames",
+							"game": "undervault"
 						}
 					}
 				}
@@ -1657,7 +1673,9 @@
 					"demo": {
 						"yadisk": "f4SNbis7oZKw6"
 					},
-					"gamejolt": "super-lucky-puncher/128968"
+					"store": {
+						"gamejolt": "super-lucky-puncher/128968"
+					}
 				}
 			}, {
 				"name": "Tanuki Drunk Racing",
@@ -1907,6 +1925,12 @@
 				"other_links": {
 					"demo": {
 						"yadisk": "jlmiq0GrodZbm"
+					},
+					"store": {
+						"itch": {
+							"user": "lastnerd",
+							"game": "twg7"
+						}
 					}
 				}
 			}, {
@@ -2339,10 +2363,27 @@
 			}, {
 				"name": "KUROCHKA",
 				"image": "",
-				"status": "demo",
+				"status": "disqualified",
 				"links": {
 					"yadisk": "6lknfwVT3KHDqh"
 				}
+			}, {
+				"name": "Вырасти дерево",
+				"image": "",
+				"status": "disqualified",
+				"other_links": {
+					"store": {
+						"itch": {
+							"user": "derevotyan",
+							"game": "vyrastiderevo"
+						}
+					}
+				}
+			}, {
+				"name": "(un)Lucky Dungeon",
+				"genre": "Зельдалик",
+				"description": "Маленькая дфарфийская девочка случайно проваливается в заброшенные катакомбы древних дварфов и пытается оттуда выбраться.",
+				"status": "disqualified"
 			}
 		]
 	},
@@ -2662,6 +2703,7 @@
 				"win": "TakeTheRide!"
 			}
 		],
+		"fund": "26100 рублей",
 		"site": "https://twoweeksgame9.blogspot.ru",
 		"games": [
 			{
@@ -2730,7 +2772,9 @@
 						"gdrive": "0B5M4fMX1HJxDYVEwMzZteWQ2cFE",
 						"yadisk": "IkajU6Xp3EPZeF"
 					},
-					"gamejolt": "blastercop/237878"
+					"store": {
+						"gamejolt": "blastercop/237878"
+					}
 				}
 			}, {
 				"name": "Путешествие в PUSSY",
@@ -2760,6 +2804,12 @@
 				"other_links": {
 					"demo": {
 						"yadisk": "6AShGVSJ3Buzau"
+					},
+					"store": {
+						"itch": {
+							"user": "vetta-vetka",
+							"game": "grow-the-tree-vyrasti-derevo"
+						}
 					}
 				}
 			}, {
@@ -2824,6 +2874,12 @@
 				"other_links": {
 					"demo": {
 						"yadisk": "MKX0fxaJ3BujwZ"
+					},
+					"store": {
+						"itch": {
+							"user": "lastnerd",
+							"game": "tripverse"
+						}
 					}
 				}
 			}, {
@@ -3058,6 +3114,12 @@
 				"other_links": {
 					"demo": {
 						"yadisk": "WLvBzUmo3BupHG"
+					},
+					"store": {
+						"itch": {
+							"user": "oraoraora",
+							"game": "super-magical-travelers"
+						}
 					}
 				}
 			}, {
@@ -3400,6 +3462,7 @@
 				"win": "Project Raspidarasilo 4"
 			}
 		],
+		"fund": "5000 рублей",
 		"site": "https://twg-x.blogspot.ru",
 		"games": [
 			{
@@ -3456,6 +3519,12 @@
 				"other_links": {
 					"demo": {
 						"yadisk": "bh_NBVQ63LwGPR"
+					},
+					"store": {
+						"itch": {
+							"user": "lastnerd",
+							"game": "death-arena"
+						}
 					}
 				}
 			}, {
@@ -3672,6 +3741,12 @@
 					"final_multi": {
 						"linux": {
 							"yadisk": "tpCKVNFo3LwH3g"
+						}
+					},
+					"store": {
+						"itch": {
+							"user": "dissensiondev",
+							"game": "project-raspidarasilo-4"
 						}
 					}
 				}

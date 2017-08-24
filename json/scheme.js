@@ -19,7 +19,7 @@ let scheme = {
 				"win": "" // игра, взявшая ачивку
 			}
 		],
-		"site": "", // сайт конкурса
+		"site": "", // сайт или блог конкурса
 		"games": [
 			{
 				"name": "", // название игры
@@ -42,14 +42,19 @@ let scheme = {
 					"final_multi": {}, // различные вариации финальной версии для разных платформ ("win", "win_x64", "linux", "mac", "android"). Структура объектов аналогична "links"
 					"demo_multi": {}, // то же самое, что "final_multi", но для мультиплатформенных демоверсий
 					"dlc": {}, // DLC игры
-					"repo": { // репозитори(и/й) с исходным кодом игры. Пока только GitHub.
-						"github": "" // ID от репозитория игры на GitHub (github.com/ID)
+					"repo": { // репозитори(и/й) с исходным кодом игры
+						"github": "", // ID от репозитория игры на GitHub (github.com/ID),
+						"bitbucket": ""
 					},
 					"store": { // ID игры в магазинах приложений
 						"gplay": "", // ID от приложения в Google Play (play.google.com/store/apps/details?id=ID)
-						"itunes": "" // ID от приложения в App Store (itunes.apple.com/app/idID)
-					},
-					"gamejolt": "" // ID от игры на Game Jolt (gamejolt.com/games/ID)
+						"itunes": "", // ID от приложения в App Store (itunes.apple.com/app/idID)
+						"gamejolt": "" // ID от игры на Game Jolt (gamejolt.com/games/ID),
+						"itch": { // user.itch.io/game
+							"user": "", // ID пользователя на itch.io
+							"game": "" // ID игры
+						}
+					}
 				},
 				"note": "", // примечание к игре
 				"repeat": "" // актуально пока только для восьмого TWG, где по факту было два конкурса одновременно и игры повторялись. Здесь, соотвественно, обозначается стадия ("demo" или "final"), где игра повторяется. Пишется только в одном из конкурсов.
