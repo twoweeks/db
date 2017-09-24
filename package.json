@@ -1,7 +1,8 @@
 {
   "name": "twg-games-database",
-  "version": "1.0.1",
-  "description": "База данных по играм с конкурсов раздела",
+  "version": "1.0.2",
+	"private": true,
+  "description": "База данных по играм с конкурсов раздела /gd/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/twoweeks/db.git"

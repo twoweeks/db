@@ -47,6 +47,7 @@ let scheme = {
 						"bitbucket": ""
 					},
 					"store": { // ID игры в магазинах приложений
+						"steam": "", // ID от приложения в Steam (store.steampowered.com/app/ID)
 						"gplay": "", // ID от приложения в Google Play (play.google.com/store/apps/details?id=ID)
 						"itunes": "", // ID от приложения в App Store (itunes.apple.com/app/idID)
 						"gamejolt": "" // ID от игры на Game Jolt (gamejolt.com/games/ID),

@@ -1,7 +1,7 @@
 {
 	"1": {
 		"start": 1503262945,
-		"end": "",
+		"end": 1503962320,
 		"themes": [
 			{
 				"name": "За МКАДом жизни нет",
@@ -12,6 +12,26 @@
 			}
 		],
 		"site": "https://ttwg2.blogspot.ru",
-		"games": []
+		"games": [
+			{
+				"name": "Репассаж",
+				"image": "",
+				"dependencies": "Scratch",
+				"status": "demo",
+				"links": {
+					"yadisk": "WktKhiK73NBmgo"
+				}
+			}, {
+				"name": "Skyward",
+				"description": "Вы можете увидеть фею воздушных потоков. Пока это все.",
+				"tools": "Nim, sfml, FLStudio, Gimp, VSCode",
+				"image": "",
+				"status": "demo",
+				"links": {
+					"yadisk": "qUoq79-X3NBmhF"
+				}
+			}
+		],
+		"note": "У конкурса нет победителя"
 	}
 }
