@@ -2,13 +2,12 @@
 Конкурсы:  
 * Two-Two Weeks Game (четырёхнедельные)
 * Two Weeks Game (двухнедельные)
-* Two Weeks Game Syndicate Edition (двухнедельные от Синдиката)
 * Two/Two Weeks Game или One Week Game (однонедельные)
 * Three Days Game (трёхдневные)
 * Two Days Game (двухдневные)
 
-#### JSON-версия
-Находится в директории `json/`. Описание схемы находится в файле `scheme.js`.  
+#### [JSON](https://ru.wikipedia.org/wiki/JSON)-версия
+Находится в директории `json/`, также является базовой. Описание схемы находится в файле `scheme.js`.  
 В поддиректории `min/` доступны минифицированные версии файлов.
 
 #### Лицензия

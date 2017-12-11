@@ -1,22 +1,18 @@
 {
-  "name": "twg-games-database",
-  "version": "1.0.2",
-	"private": true,
+  "name": "gd-games-database",
+  "version": "1.1.0",
+  "private": true,
   "description": "База данных по играм с конкурсов раздела /gd/",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/twoweeks/db.git"
-  },
+  "repository": "github:twoweeks/your-own-twg",
   "author": "tehcojam",
   "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/twoweeks/db/issues"
   },
-  "homepage": "https://github.com/twoweeks/db#readme",
+  "homepage": "https://github.com/twoweeks/db",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "github:gulpjs/gulp#4.0",
     "gulp-json-minify": "^1.2.0",
-    "gulp-plumber": "^1.1.0",
-    "gulp-rename": "^1.2.2"
+    "gulp-plumber": "^1.1.0"
   }
 }
