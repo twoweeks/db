@@ -18,4 +18,4 @@ gulp.task('json:minify', () => gulp.src(paths.crude)
 	.pipe(gulp.dest(paths.master.min))
 )
 
-gulp.task('build', gulp.parallel('json:minify'))
+gulp.task('build', ['json:minify'])
