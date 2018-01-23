@@ -736,7 +736,7 @@
 				"name": "Yet another zombie game",
 				"genre": "zombie sim",
 				"description": "Тебя заразил Санта. Теперь твоя цель - есть мозги. Но ты необычный зомби, если ты съешь достаточное количество мозгов, то можешь снова стать человеком. Когда становишься человеком, нужно эвакуироваться.",
-				"image": "twg/3/yazg.jpg",
+				"image": "twg/3/yazg.png",
 				"status": "1",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDQ3B5Y05kY0MtaDg",
@@ -783,7 +783,7 @@
 			}, {
 				"name": "ZA XIII",
 				"description": "Охуительнейшая игра про острел кучи оживших мертвецов. Внимание: Не рекомендуется беременным женщинам и эпилептикам.",
-				"image": "twg/3/za-xiii.jpg",
+				"image": "twg/3/za-xiii.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDbGpaei1CaDBsOE0",
@@ -798,7 +798,7 @@
 				"name": "Up To Death 2048",
 				"genre": "Квест, ВН",
 				"description": "У челябинца умер дедушка. Он пьет в баре и заглядывает в глаза барменам.",
-				"image": "twg/3/up-to-death-2048.jpg",
+				"image": "twg/3/up-to-death-2048.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDZ25PbVVvMFZwREk",
@@ -833,7 +833,7 @@
 				"name": "Somnus",
 				"genre": "Квест",
 				"description": "Игрок выполняя последнее желание отца отправляется в дальнюю экспедицию на планету GJ 1214 b чтобы стать одним из первопроходцев. Для этого он входит в анабиоз на 10 лет. Проснувшись, он обнаруживает что весь экипаж пропал и он оказался один на корабле.",
-				"image": "twg/3/somnus.jpg",
+				"image": "twg/3/somnus.png",
 				"status": "disqualified",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDUU9uY3BjLUxzekk",
@@ -1433,7 +1433,7 @@
 				"genre": "Абдуломедитация",
 				"description": "Бомж попадает в Абдулоад на муки вечные. Его судьба - бесконечное возрождение и смерть.\nВы играете за Абдулова. Абдулов наслаждается созерцанием.",
 				"tools": "Clickteam Fusion 2.5",
-				"image": "twg/6/abdulov-hell.jpg",
+				"image": "twg/6/abdulov-hell.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWmtwY0F5c0tMdjQ",
@@ -1444,7 +1444,7 @@
 				"genre": "Adventure / Action / Platformer",
 				"description": "Действие происходит в 1993 году в уездном городе O.\nГлавный герой  панк Игорь пребывает в глубокой депрессии.",
 				"tools": "Unity, Photoshop, Tiled Map Editor, Tiled2Unity",
-				"image": "twg/6/1993.jpg",
+				"image": "twg/6/1993.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDZldqYWhHa2R2a2M",
@@ -1454,7 +1454,7 @@
 				"name": "Желтый",
 				"genre": "Визуальная новелла.",
 				"description": "Игра про убийство, расследование, дружбу и личинок.",
-				"image": "twg/6/yellow.jpg",
+				"image": "twg/6/yellow.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNkxWV3RnTjVIWHM",
@@ -1465,7 +1465,7 @@
 				"genre": "interctive fiction",
 				"description": "Главный герой обнаруживает себя проснувшимся в больнице. Вокруг относительно приятная обстановка.",
 				"tools": "Microsoft Word",
-				"image": "twg/6/shadow-escape.jpg",
+				"image": "twg/6/shadow-escape.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDR3FPYUlpcU9ZOWM",
@@ -1475,7 +1475,7 @@
 				"name": "Selector",
 				"genre": "Adventure",
 				"description": "Игра о нелёгком выборе жирухи-яойщицы в мире диет и фитнесса.",
-				"image": "twg/6/selector.jpg",
+				"image": "twg/6/selector.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDSmpOZE9VblhCR1U",
@@ -1493,7 +1493,7 @@
 				"genre": "Бродилка",
 				"description": "Ну тип, кароч, ты такой в подземельи)) Броди ищи выход, хз кароч.",
 				"tools": "B3D, Blender, AMD Compressonator, OpenAL, Giles",
-				"image": "twg/6/i-want-to-sleep.jpg",
+				"image": "twg/6/i-want-to-sleep.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWWYtSG5ZWTI4cnc",
@@ -1504,7 +1504,7 @@
 				"genre": "Бродилка",
 				"description": "Симуляция жизни омежки в школе. С другой стороны по задумке в школу можно вообще не ходить.",
 				"tools": "Unity3d, Visual Studio, Blender, Paint",
-				"image": "twg/6/omejka-the-game.jpg",
+				"image": "twg/6/omejka-the-game.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDVVNacGRsVTVmMTg",
@@ -1515,7 +1515,7 @@
 				"genre": "Квест",
 				"description": "История про одинокого задрота, который однажды ночью \"поехал\" и перестал различать сон и реальность.",
 				"tools": "Unity3D, 3D Max, fl studio, photoshop",
-				"image": "twg/6/when-i-was-there.jpg",
+				"image": "twg/6/when-i-was-there.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDY2RtbDJhRmd5ZnM",
@@ -1526,7 +1526,7 @@
 				"genre": "хелловорлд на sdl",
 				"description": "На данный момент можно бегать просто по уровню.",
 				"tools": "C++/SDL2",
-				"image": "twg/6/whiplash.jpg",
+				"image": "twg/6/whiplash.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDeUdnLVpQMjhqYnM",
@@ -1535,7 +1535,7 @@
 			}, {
 				"name": "Hexgame",
 				"genre": "TBS/RPG",
-				"image": "twg/6/hexgame.jpg",
+				"image": "twg/6/hexgame.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDeUpfdGx4ZW9oWWc",
@@ -1544,7 +1544,7 @@
 			}, {
 				"name": "Robot story",
 				"genre": "Платформер",
-				"image": "twg/6/robot-story.jpg",
+				"image": "twg/6/robot-story.png",
 				"status": "demo",
 				"links": {
 					"web": "https://braces.itch.io/2weeks-robot-story"
@@ -1554,7 +1554,7 @@
 				"name": "Red Cube",
 				"genre": "Хеловорлд на BGE",
 				"tools": "BGE",
-				"image": "twg/6/red-cube.jpg",
+				"image": "twg/6/red-cube.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWGZTQV9NX1haSjQ",
