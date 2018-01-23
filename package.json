@@ -1,6 +1,6 @@
 {
   "name": "gd-games-database",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "private": true,
   "description": "База данных по играм с конкурсов раздела /gd/",
   "repository": "github:twoweeks/your-own-twg",

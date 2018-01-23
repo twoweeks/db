@@ -911,6 +911,7 @@
 			{ "name": "Симулятор" }
 		],
 		"note": "Сайт конкура был проёбан, так что информация не полная.",
+		"fund": "5374 рубля",
 		"site": "http://twoweeks.ru",
 		"games": [
 			{
@@ -1374,8 +1375,10 @@
 					"demo": {
 						"yadisk": "9_g94LA337nZg5"
 					},
-					"repo": {
-						"github": "twoweeks/TWG6-Spacesim"
+					"source": {
+						"repo": {
+							"github": "twoweeks/TWG6-Spacesim"
+						}
 					}
 				}
 			}, {
@@ -1438,7 +1441,7 @@
 				}
 			}, {
 				"name": "1993",
-				"genre": "Adventure/Action/Platformer",
+				"genre": "Adventure / Action / Platformer",
 				"description": "Действие происходит в 1993 году в уездном городе O.\nГлавный герой  панк Игорь пребывает в глубокой депрессии.",
 				"tools": "Unity, Photoshop, Tiled Map Editor, Tiled2Unity",
 				"image": "twg/6/1993.jpg",
@@ -1479,8 +1482,10 @@
 					"yadisk": "ZOjFgtC337nN5w"
 				},
 				"other_links": {
-					"repo": {
-						"github": "twoweeks/selector"
+					"source": {
+						"repo": {
+							"github": "twoweeks/selector"
+						}
 					}
 				}
 			}, {
@@ -1603,7 +1608,7 @@
 				"name": "Dungeon Architect",
 				"genre": "Dungeon crawl, Roguelike",
 				"description": "Задача игрока выбраться из подземелья состоящего из случайно генерируемых комнат и уровней. Игрок может влиять на генерацию помещений используя удачу и специальные карты.",
-				"image": "",
+				"image": "twg/7/dungeon-architect.png",
 				"status": "1",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDV0VDem84VldDNVk",
@@ -1634,7 +1639,7 @@
 				"name": "Megastructure",
 				"genre": "Тактика",
 				"description": "Отряд наёмников под предводительством капитана Кикстартера проникает в мегаструктуру корпорации Вейланд, на текущий момент находящуюся под контролем взбунтовавшегося ИИ.",
-				"image": "",
+				"image": "twg/7/megastructure.png",
 				"status": "2",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDUC0wNGFjTVA5ZVE",
@@ -1653,7 +1658,7 @@
 				"name": "My Sweet Asylum",
 				"genre": "Adventure/Beat'em up",
 				"description": "Подлый главврач психиатрической больницы убил сестру главного героя, а его самомого заточил в своей больнице. Придется как-то выбираться. Исход многих действий игрока случаен.",
-				"image": "",
+				"image": "twg/7/my-sweet-asylum.png",
 				"status": "3",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDSU92NFhibmZMNDg",
@@ -1670,7 +1675,7 @@
 				"demo_name": "Luckfall",
 				"genre": "Top-down shooter",
 				"description": "Разборки среди символов удачи в самурайском стиле.",
-				"image": "",
+				"image": "twg/7/maneki-neko.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWFJ0c3k0Y01EZ2c",
@@ -1685,7 +1690,7 @@
 				"name": "Свинопас Виталик",
 				"genre": "Platformer",
 				"description": "Эта история - о свинопасе Виталике, его свиньях, душах и борьбе добра со злом. В зависимости от действий и удачи история будет приводить к разным концовкам.",
-				"image": "",
+				"image": "twg/7/vitalik.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDdHU3RW5YaDVZdXc",
@@ -1700,7 +1705,7 @@
 				"name": "Super Lucky Puncher",
 				"genre": "Аркада/Экшн",
 				"description": "Главный герой настолько удачлив, что внезапно его показатель удачи вырос в миллион раз. Теперь он всегда уворачивается от всех атак, а все его удары критические и смертоносные. Посмотрим к чему это его приведёт в итоге.",
-				"image": "",
+				"image": "twg/7/super-lucky-puncher.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDM0ZyRUZWaENXZmc",
@@ -1718,7 +1723,7 @@
 				"name": "Tanuki Drunk Racing",
 				"genre": "Гоночный симулятор",
 				"description": "Тануки - традиционные японские звери-оборотни, символизирующие удачу и благополучие. Большие любители саке (да и попьянствовать в целом). Суть игры: тануки едет бухой из бара. Собирать бутыли чтобы не протрезветь, и при этом не разбиться.",
-				"image": "",
+				"image": "twg/7/tanuki-drunk-racing.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDeG5CVVA2WW5ORk0",
@@ -1752,7 +1757,8 @@
 				"name": "Project Raspidarasilo",
 				"genre": "Скролл-шутер/Экшен",
 				"description": "Нижний Мухосранск атакован инопланетянами и они отправили твою мамку сражаться с ними.",
-				"image": "",
+				"tools": "C/SDL, LMMS, Grafx2",
+				"image": "twg/7/raspidarasilo.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDYUZ4LWh3M3JVWHM",
@@ -1780,7 +1786,7 @@
 				"name": "Tyan Game",
 				"genre": "3D-Action",
 				"description": "Тян гуляла по городу и захотела поиграть в игровые автоматы. Но у тян не было с собой денег. Вдруг в городе взорвалось отделение банка и деньги разнесло по всей округе! КАКАЯ УДАЧА! Правда сработала система охраны денег и везде активировались ЗиЛы с турелями и был введен коммендантский час чтоб банковские работники могли собрать разбросанные деньги. Но тян это не остановило! Она хочет играть в игровые автоматы.",
-				"image": "",
+				"image": "twg/7/tyan-game.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDWXdQeEdaMDlJSlk",
@@ -1795,7 +1801,7 @@
 				"name": "Cave Explorer",
 				"genre": "аркада, roguelike, hack&slash",
 				"description": "Протогонист попадает в Подземелье Судьбы. Он узнает, что должен спуститься на нижний этаж, пройдя через череду опасностей, чтобы узнать истину.",
-				"image": "",
+				"image": "twg/7/cave-explorer.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDVlc2R1N3VHJjenc",
@@ -1810,7 +1816,7 @@
 				"name": "NaN",
 				"genre": "FPS",
 				"description": "Всему в нашем непостоянном мире рано или поздно приходит конец. А если ты обычный хикка, то для тебя это не простой конец, а самый настоящий Game Over, неудачник-кун.",
-				"image": "",
+				"image": "twg/7/nan.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNHI3UEp3NElrSms",
@@ -1825,7 +1831,7 @@
 				"name": "Lack of luck",
 				"genre": "адвенчура, головоломка, хоррор",
 				"description": "Однажды удача отвернулась от искателя сокровищ Гидеона Фунгуса. Однако унывать он не привык и решил отправиться на поиски амулета удачи в лабиринт стихий. Сможет ли он не попасть в лапы хранителя лабиринта, избежать смертельных ловушек и решит загадки алтарей стихий?",
-				"image": "",
+				"image": "twg/7/lack-of-luck.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDckIydS1HYUZfZ2c",
@@ -1858,7 +1864,7 @@
 				"name": "Рыцарь Енот и Расколотая маска",
 				"genre": "Рогалик",
 				"description": "В этом мире драконы владеют магией, любят енотов и совсем не любят людей. По итогу каждый отважный рыцарь, который решил побороть злую ящерицу рискует быть превращённым в енота. Единственный известный вариант возвращения своего человеческого тела - сотворить заклинание. Заклинание сложное, и для него нужно несколько артефактов, которые весьма не просто добыть.",
-				"image": "",
+				"image": "twg/7/raccoon-knight.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDN29QWjdTMGZVT1k",
@@ -1883,7 +1889,7 @@
 				"name": "Workhammer 40k",
 				"genre": "RTS, tower defense",
 				"description": "Идёт 41 тысячелетие. В течение более ста столетий Ленин лежал неподвижно в Золотом Мавзолее. Но даже в своём немертвом состоянии, Ленин бдит. Забудьте обещания о прогрессе, в тёмном будущем есть место только для войны (и айфону 41, теперь ещё тоньше).",
-				"image": "",
+				"image": "twg/7/workhammer-40k.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDbWlrbDB5ZWRnbDQ",
@@ -1916,7 +1922,7 @@
 				"name": "DOMUM, FORTE",
 				"genre": "Логическая стелс видеоигра с элементами случайности (приключение с уважением к баухаусу)",
 				"description": "Где-то во вселенной, далеко-далеко в будущем всё таки построили коммунизм, однако по неизвестной причине бесконечное количество добра решили распределять между людьми методом беспроигрышной лотереи. Главный герой оказывается зажат между системой и необходимостью сотрудничества с группировкой \"Подземников\", которые организовывают капитализм в отдельно взятой канализационной системе всей планеты.",
-				"image": "",
+				"image": "twg/7/domum-forte.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDMHUxdC1wUWpQMVU",
@@ -1935,7 +1941,7 @@
 				"name": "Lispstone",
 				"genre": "Аркадно-карточная игра",
 				"description": "Лисп должен спасти мир. А для этого он должен уничтожить всех на своём пути.",
-				"image": "",
+				"image": "twg/7/lispstone.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDOTZHcFFsYnZvZjg",
@@ -1945,15 +1951,17 @@
 					"demo": {
 						"yadisk": "-ATquAWdog3ND"
 					},
-					"repo": {
-						"github": "twoweeks/lispstone"
+					"source": {
+						"repo": {
+							"github": "twoweeks/lispstone"
+						}
 					}
 				}
 			}, {
 				"name": "Lucky Fuck You Shooter",
 				"genre": "топ-даун стрелялка",
 				"description": "Игра про стрельбу в неком лабиринте. Удача влияет на каждое действие игрока и врагов без исключения.",
-				"image": "",
+				"image": "twg/7/lucky-fuck-you-shooter.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDdS1PeEZrdmJrcWc",
@@ -1973,8 +1981,8 @@
 			}, {
 				"name": "???",
 				"genre": "Экшн",
-				"description": "Однажды молодой сын короля решил очередной раз пойти в королевскую библиотеку. Он нашел одну странную книгу на обложке которой было написано “???”. Прочитав эту книгу и сложив все в голове он незадумываясь сказал слуге дать все необходимые вещи и ушел. Оказалось, что в этой книге было зашифрованно место нахождение логова “3 королев” которые терроризировали и похищали мирных людей и в дальнейшем делали из них зомби последние 10 лет. Посмотрим встанет ли УДАЧА на сторону нашего героя или он больше не вернется назад...",
-				"image": "",
+				"description": "Однажды молодой сын короля решил очередной раз пойти в королевскую библиотеку. Он нашел одну странную книгу на обложке которой было написано \"???\". Прочитав эту книгу и сложив все в голове он незадумываясь сказал слуге дать все необходимые вещи и ушел. Оказалось, что в этой книге было зашифрованно место нахождение логова “3 королев” которые терроризировали и похищали мирных людей и в дальнейшем делали из них зомби последние 10 лет. Посмотрим встанет ли УДАЧА на сторону нашего героя или он больше не вернется назад...",
+				"image": "twg/7/vopros.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNHh1ZkZDT2tycEk",
@@ -1989,7 +1997,7 @@
 				"name": "SISI ATTACKS!",
 				"genre": "Аркада",
 				"description": "Главный герой игры (Кирилл) отправляется по своим повседневным делам. Внезапно на город совершают атаку поехавшие представители террористической организации SISI (запрещена на территории РФ). Кирилл конечно очень возмущён происходящим, но всё же решает закончить свои дела...",
-				"image": "",
+				"image": "twg/7/sisi-attacks.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDZDBHeldMbWZQN1E",
@@ -2004,7 +2012,7 @@
 				"name": "RUINER",
 				"genre": "Таймкиллер, раннер",
 				"description": "",
-				"image": "",
+				"image": "twg/7/ruiner.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDSzBEMV9ieklXNmM",
@@ -2019,7 +2027,7 @@
 				"name": "Divine Buddhist Summoner",
 				"genre": "",
 				"description": "",
-				"image": "",
+				"image": "twg/7/divine-buddhist-summoner.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDX1dwVkx4Q1Q0bms",
@@ -2042,7 +2050,7 @@
 				"name": "master Chu",
 				"genre": "Top down shooter, action rpg",
 				"description": "Паралельная вселенная в постапокалипсисе. У мастера Чу, который привык полагаться только на себя (или уже неТ?), похитили самое дорогое, теперь он идет мстить, чтобы вернуть хотя бы память о том, что ему было так дорого.",
-				"image": "",
+				"image": "twg/7/master-chu.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDc1NjWkdCTEdzNVE",
@@ -2057,7 +2065,7 @@
 				"name": "RPG",
 				"genre": "RPG",
 				"description": "Ролевая игра. Школьник находит себя заброшенным на таинственном острове. Как он сюда попал, что вообще происходит - на эти вопросы нет ответа.",
-				"image": "",
+				"image": "twg/7/rpg.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNjJ6QzlpcTc1QXc",
@@ -2072,7 +2080,7 @@
 				"name": "Azimantus: The King of Kings",
 				"genre": "2D платформер",
 				"description": "Много лет назад Азимантус был великим правителем всего континента, пока таинственная Госпожа не наложила на него ужасное проклятье невезения. Так бы он и сгнил на развалинах собственного замка, если бы Госпожа не решила его помиловать. Бывшему королю предстоит пройти Подземелье Случайных Случайностей и искупить вину перед Госпожой.",
-				"image": "",
+				"image": "twg/7/azimantus.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDMk5BbVlpaVQwb2c",
@@ -2103,7 +2111,7 @@
 				"name": "Escape",
 				"genre": "Бродилка, шутер, паркур симулятор",
 				"description": "Не далеко от земли в 2042 году на космической станции проводили опыты над обезьянами. Ученые обучали обезьян и старались повторить развитие от обезьяны к человеку в кротчайшее время. Вы спросите почему именно в космосе?! А ответ очевиден, - В космосе время течет иначе чем на земле, плюс существуют десятки изведоных и неизведаных искажателей времени и поространства, такие как черные дыры, темная матери, кротовые норы и т.д.",
-				"image": "",
+				"image": "twg/7/escape.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDOVNId2VwM3lpRUk",
@@ -2119,7 +2127,7 @@
 				"name": "Mushroom",
 				"genre": "Квест от первого лица",
 				"description": "Главный герой очнулся в неизвестном месте и с ним начало разговаривать собственное подсознание.",
-				"image": "",
+				"image": "twg/7/mushroom.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDTHQ0dDdRbktHWlk",
@@ -2140,7 +2148,7 @@
 				"name": "Симулятор рубля",
 				"genre": "Раннер",
 				"description": "Возьми на себя роль российской валюты и прокатись по ухабам родных просторов.",
-				"image": "",
+				"image": "twg/7/rouble.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDQTBmUy1QSEtobVE",
@@ -2165,7 +2173,7 @@
 				"name": "Iakub Ravange",
 				"genre": "Платформер",
 				"description": "В игре рассказывается о подлости и зависти. А также мести и установлении справедливости.",
-				"image": "",
+				"image": "twg/7/iakub.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDX0tGUUxESUVPc1k",
@@ -2188,7 +2196,7 @@
 				"name": "Орёл или Решка?",
 				"genre": "Квест",
 				"description": "За долгое время, проведённое в уютной комнатке, ты впервые выходишь на улицу. Судьба играет тобой, и ты попадаешь в таинственную организацию, теперь на твоих плечах лежит решение многих вещей для благополучия организации. А что, если в принятии решений положиться на монетку? Ранее твои действия определяли рулеточки на /b/, и ничего плохого пока не произошло. Бросай монетку и вперёд!",
-				"image": "",
+				"image": "twg/7/coin.png",
 				"dependencies": "Flash",
 				"status": "final",
 				"links": {
@@ -2204,7 +2212,7 @@
 				"name": "История о Капитане-Неудачнике",
 				"genre": "Платформер",
 				"description": "Уже несколько недель шхуна Капитана Солёной Бороды дрефовала у берегов Карибского моря. И, как на зло, ни единого корабля на горизонте за всё это время. А запасы продуктов уже подходили к концу, и команда уже почти потеряла боевой дух. Скучающие матросы спали в трюме, играли в кости или потягивали ром, лёжа на палубе, как вдруг раздался пронзительный голос юнги Билли Глазастого со стороны смотровой площадки - \"Корабль на горизонте!\".",
-				"image": "",
+				"image": "twg/7/pirate.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDQ0stRDh6MnVOMmc",
@@ -2219,7 +2227,7 @@
 				"name": "Бесконечная война",
 				"genre": "RPS c ограничениями, Рогалик, TBS",
 				"description": "Послушай, - сказал сержант, - это война. А война, как известно, никогда не меняется. Большинство солдат на войне лишь пушечное мясо. Одним больше - одним меньше. Войны выигрывают не отдельные личности. Войны выигрывают массы.",
-				"image": "",
+				"image": "twg/7/war.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDSzM4ZmZ2S2F5SlE",
@@ -2234,7 +2242,7 @@
 				"name": "Бесконечный Завод",
 				"genre": "Экономическая стратегия",
 				"description": "Экономическая стратегия о реалиях производственного предприятия.",
-				"image": "",
+				"image": "twg/7/zavod.png",
 				"status": "final",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDOVlEQnBNTHplR28",
@@ -2245,12 +2253,12 @@
 						"yadisk": "ysBR_hEcocGai"
 					}
 				},
-				"note": "Финальная версия игры это рескин старой игры под DOS \"Директор-2000\"."
+				"note": "Финальная версия является рескином игры \"Директор-2000\" под DOS."
 			}, {
 				"name": "Звёздные войны",
 				"genre": "Гриндилка",
 				"description": "Игра так же хороша, как и вся одноимённая франшиза. Именно поэтому я её так назвал.",
-				"image": "",
+				"image": "twg/7/star-wars.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "gbIuHzddodcBQ"
@@ -2266,7 +2274,7 @@
 				"name": "Власть удачи",
 				"genre": "Адвенчура с пошаговыми боями",
 				"description": "Герой попадает в странный город, где культ поклонения богине удачи приговаривает его к смерти.",
-				"image": "",
+				"image": "twg/7/luck.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "iJmjQx3uodoNb"
@@ -2282,21 +2290,23 @@
 				"name": "Colluck",
 				"genre": "RTS с непрямым управлением",
 				"description": "Фермеры, горожане, купцы и простолюдины.. Каждый из вас работает, не покладая рук, чтобы добыть звонку монету. Я выбрал другой путь. Зачем вам столько денег? К чему излишества? Я освобожу вас, работяги!",
-				"image": "",
+				"image": "twg/7/colluck.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "neAf7zksoZVaU"
 				},
 				"other_links": {
-					"repo": {
-						"github": "twoweeks/coolluck"
+					"source": {
+						"repo": {
+							"github": "twoweeks/coolluck"
+						}
 					}
 				}
 			}, {
 				"name": "Agonia",
 				"genre": "Квест",
 				"description": "Место действия — рукотворный Адъ точно воссозданный по Божественной Комедии. Он же — секретная тюрьма для военных преступников. Здесь предатели родины разделяют участь Брута, на девятом уровне этого безумия. Наш герой среди них. В ожидании кары чудо освобождает его и появляется возможность бежать.",
-				"image": "",
+				"image": "twg/7/agonia.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "1FQ6boY6ocE8a"
@@ -2305,7 +2315,7 @@
 				"name": "The Fortune",
 				"genre": "RPG",
 				"description": "На главном герое лежит проклятье невезения. Он должен найти божественный артефакт, чтобы снять проклятие.",
-				"image": "",
+				"image": "twg/7/the-fortune.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "mepr78AuociPw"
@@ -2314,7 +2324,7 @@
 				"name": "In The Wall",
 				"genre": "Quest/adventure",
 				"description": "Main hero woke up at the some strange and lonely place, it place was a big space ship. You have to find answers for some very important questions: where are you, who are you, and what do you have to do?",
-				"image": "",
+				"image": "twg/7/in-the-wall.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "C6SsDc0qodbQW"
@@ -2323,7 +2333,7 @@
 				"name": "Lucky Train",
 				"genre": "платформер / квест / симулятор пассажира поезда",
 				"description": "Главный герой решает воспользоваться услугами РЖД, но в следствии отсутствия у него бешеных далларов, покупает билет в плацкарт. Игрок оказывается в самом конце поезда, где всё происходящее его сильно угнетает.",
-				"image": "",
+				"image": "twg/7/lucky-train.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "a790Q7kCogTV7"
@@ -2340,7 +2350,7 @@
 				"name": "Неуданик",
 				"genre": "Квест, нарратив-дривен",
 				"description": "Игра про гопника-неудачника.",
-				"image": "",
+				"image": "twg/7/loser.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "9t8kYWDEodfWj"
@@ -2348,7 +2358,7 @@
 			}, {
 				"name": "Tal Unveh",
 				"description": "Главный персонаж застрял между нашим материальным миром и потусторонним. И кто теперь должен убирать мусор, как не наш герой...",
-				"image": "",
+				"image": "twg/7/tal-unveh.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "G7j5DnU1odgq2"
@@ -2356,7 +2366,7 @@
 			}, {
 				"name": "Yellow",
 				"genre": "Сорт оф топ-даун шутан",
-				"image": "",
+				"image": "twg/7/yellow.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "ckWP85LEodkAq"
@@ -2365,7 +2375,7 @@
 				"name": "Lord of Unlucky",
 				"genre": "Рогалик",
 				"description": "Многие века ходили легенды, о могучем артефакте погребенном глубоко под землей. Отважный и опытный маг с легкостью прошел все ловушки подземелий и добрался до артефакта. Но как только он коснулся его - древнее проклятье опустошило его удачу. Теперь, самый безобидный предмет таит в себе опасность.",
-				"image": "",
+				"image": "twg/7/lord-of-unlucky.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "oMz_RXTiodotC"
@@ -2374,7 +2384,7 @@
 				"name": "Lena Boots 2: Околомагии",
 				"genre": "Платформер",
 				"description": "Лена продолжает свои приключения. На этот раз она отправляется в волшебный мир Хельва. Где ей предстоит окунуться в мир магов, понять для чего они живут с сражаются. Была организована академия магов, куда ей стоит направиться, обучиться там магии и пройти все Божества этого мира.",
-				"image": "",
+				"image": "twg/7/lena-boots-2.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "zjiSOO6SodpYd"
@@ -2383,7 +2393,7 @@
 				"name": "Tunnel",
 				"genre": "Хоррор-квест",
 				"description": "Начинающий диггер нашёл целый подземный лабиринт, не нанесённый ни на какие карты. Решившись его исследовать, ГГ внезапно обнаруживает, что путь назад отрезан. Сможешь ли ты найти выход? Избежишь ли ужасных порождений подземного мира?",
-				"image": "",
+				"image": "twg/7/tunnel.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "sH9eNdnjods77"
@@ -2392,21 +2402,21 @@
 				"name": "Fortune of Liberty",
 				"genre": "Стратегия в реальном времени",
 				"description": "Наша цель защитить блокпост от нападений врага, при этом находясь под постоянным огнем артиллерии.",
-				"image": "",
+				"image": "twg/7/fortune-of-liberty.png",
 				"status": "demo",
 				"links": {
 					"yadisk": "lRqqkdvooe5jb"
 				}
 			}, {
 				"name": "KUROCHKA",
-				"image": "",
+				"image": "twg/7/",
 				"status": "disqualified",
 				"links": {
 					"yadisk": "6lknfwVT3KHDqh"
 				}
 			}, {
 				"name": "Вырасти дерево",
-				"image": "",
+				"image": "twg/7/",
 				"status": "disqualified",
 				"other_links": {
 					"store": {
@@ -2708,7 +2718,7 @@
 			}
 		],
 		"fund": "3000 рублей",
-		"site": "https://gd-twoweeksgame8.rhcloud.com",
+		"site": "https://web.archive.org/web/20170130051321/http://gd-twoweeksgame8.rhcloud.com",
 		"games": [
 			{
 				"name": "Purity",
@@ -2770,8 +2780,10 @@
 					"web": "http://tatrix.org/public/games/anti-tetrix/"
 				},
 				"other_links": {
-					"repo": {
-						"github": "twoweeks/anti-tetrix"
+					"source": {
+						"repo": {
+							"github": "twoweeks/anti-tetrix"
+						}
 					}
 				},
 				"note": "Автор не присылал демоверсию своей игры."
@@ -3355,8 +3367,10 @@
 					"demo": {
 						"yadisk": "Lgi__cNR3BvDUT"
 					},
-					"repo": {
-						"github": "twoweeks/delirium"
+					"source": {
+						"repo": {
+							"github": "twoweeks/delirium"
+						}
 					}
 				}
 			}, {
@@ -3932,6 +3946,9 @@
 				"other_links": {
 					"demo": {
 						"yadisk": "1dWZcMJh3LwGpe"
+					},
+					"source": {
+						"link": "http://yadi.sk/d/ut35oWMT3Rinsv"
 					}
 				}
 			}, {
@@ -4125,6 +4142,11 @@
 				"other_links": {
 					"demo": {
 						"yadisk": "QxHF5Hwk3LwGTt"
+					},
+					"source": {
+						"repo": {
+							"github": "twoweeks/no-escape"
+						}
 					}
 				}
 			}, {
@@ -4324,6 +4346,91 @@
 				"status": "demo",
 				"links": {
 					"yadisk": "SxyEdk813LwGgk"
+				}
+			}
+		]
+	},
+	{
+		"meta": { "num": 11 },
+		"dates": {
+			"start": 0,
+			"end": 1
+		},
+		"themes": [
+			{
+				"name": "Где-то я уже это видел",
+				"description": "Нужно сделать сиквел-кроссовер любых двух игр-победителей прошлых TWG."
+			}
+		],
+		"note": "У конкурса не было стадии приёма демоверсий, а также победителей. Организатор поделил фонд между всеми финалистами поровну.",
+		"fund": "2460 рублей",
+		"site": "https://twg11.blogspot.ru",
+		"games": [
+			{
+				"name": "Voglevor's Depths",
+				"description": "После смерти Воглевора, деревня была полностью захвачена скверной, а жители стали покорными рабами их уже усопшего хозяина. Единственный способ излечить их - уничтожить кристалл, находящийся глубоко в подземелье...",
+				"tools": "Game Maker 8.0 pro",
+				"image": "twg/11/depths.png",
+				"status": "final",
+				"links": {
+					"yadisk": "7hg9_u_J3Rhgg2"
+				}
+			}, {
+				"name": "Little Librarian",
+				"description": "Вы играете за маленького библиотекаря.",
+				"tools": "Unity",
+				"image": "twg/11/little-librarian.png",
+				"status": "final",
+				"links": {
+					"yadisk": "2_0c2O2R3RhgZT"
+				}
+			}, {
+				"name": "Obsurity: Crystal of time",
+				"description": "Спустя 40 лет после очищения мира от черни, к ученому прилетает из другой вселенной фея и просит помощи. Она рассказывает о роботах, которые прилетают в чужие вселенные и уничтожают их. Так как ученый слишком стар для такой работы, он просит помощи у мага, который охотно соглашается.",
+				"tools": "game maker: studio 1.4, Aseprite",
+				"image": "twg/11/obsurity-crystal-of-time.png",
+				"status": "final",
+				"links": {
+					"yadisk": "x2RPDKZa3RhgaQ"
+				}
+			}, {
+				"name": "Obsurity: Blank World",
+				"genre": "Платформер",
+				"description": "Уточка пожертвовала жизнью, храбро сражаясь с Воглевором. Ее душа оказалась в иллюзорном мире, который отпустит обратно только после того, как она пройдет испытания, которые этот мир ей приготовил.",
+				"tools": "GameMaker: Studio 1.4, Blender, Gimp, sfxr, Audacity",
+				"image": "twg/11/obsurity-blank-world.png",
+				"status": "final",
+				"links": {
+					"yadisk": "fgkggXBb3Rhgcs"
+				}
+			}, {
+				"name": "Station Heart Hungry",
+				"description": "Одинокая исследовательская станция на задворках космоса превратилась в прибежище безжалостного террора. Каждую пятницу безумный пророк выбирает \"добровольцев\", которых принесут в жертву Двигателю, а его фанатичные Защитники безжалостно охотятся на всех кто посмел перейти ему дорогу. Молитесь, чтобы в этот раз жребий не указал на Вас.",
+				"image": "twg/11/station-heart-hungry.png",
+				"status": "final",
+				"links": {
+					"yadisk": "3BuDaL7i3Rhgew"
+				}
+			}, {
+				"name": "Бесконечный космос",
+				"genre": "Визуальная новелла, шутер с видом сверху",
+				"description": "Очередная часть похождений отважного капитана Кикстартера.",
+				"tools": "gms, photoshop",
+				"image": "twg/11/cosmos.png",
+				"status": "final",
+				"links": {
+					"yadisk": "P3WJ5Usu3RhghY"
+				}
+			}, {
+				"name": "Lena Boots 4",
+				"status": "disqualified",
+				"links": {
+					"yadisk": "L88MOZng3RikTF"
+				},
+				"other_links": {
+					"linux": {
+						"yadisk": "s94zLx7P3RikXj"
+					}
 				}
 			}
 		]

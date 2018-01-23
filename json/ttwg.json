@@ -47,8 +47,10 @@
 					"web": "https://rawgit.com/twoweeks/seasons/master/index.html"
 				},
 				"other_links": {
-					"repo": {
-						"github": "twoweeks/seasons"
+					"source": {
+						"repo": {
+							"github": "twoweeks/seasons"
+						}
 					}
 				}
 			}
