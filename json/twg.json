@@ -813,7 +813,7 @@
 				"name": "The Crown",
 				"genre": "3d-adventure",
 				"description": "Древний некромант украл волшебную корону вашего короля. Вам, как первому рыцарю государства, нужно будет поехать на север, убить некроманта и забрать корону.",
-				"image": "twg/3/the-crown.jpg",
+				"image": "twg/3/the-crown.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDNTV0M1RycUtxYXc",
@@ -1422,7 +1422,7 @@
 				"genre": "жрпг",
 				"description": "будем спасать вайфу. Всё остальное будет. Честно-честно.",
 				"tools": "php, html5, javascrip, jquery, css3, praficient java diviloper, 5 yers fulstak expirience",
-				"image": "twg/6/tbd.jpg",
+				"image": "twg/6/tbd.png",
 				"status": "demo",
 				"links": {
 					"gdrive": "0B5M4fMX1HJxDaC1paU9sM2ZnNEE",
