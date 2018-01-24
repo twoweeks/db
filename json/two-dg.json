@@ -12,6 +12,7 @@
 			}
 		],
 		"fund": "500 рублей",
+		"site": "https://web.archive.org/web/20180124181633/https://cojam.ru/contest/tdg/",
 		"games": [
 			{
 				"name": "Cool the planet",
@@ -20,8 +21,10 @@
 				"image": "tdg/two/1/cool-the-planet.png",
 				"status": "win",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDN211WmVxRDMwY1U",
-					"yadisk": "8jK_uNHGtQmNQ"
+					"final": {
+						"gdrive": "0B5M4fMX1HJxDN211WmVxRDMwY1U",
+						"yadisk": "8jK_uNHGtQmNQ"
+					}
 				}
 			}, {
 				"name": "Четверо в одной лодке",
@@ -29,8 +32,10 @@
 				"image": "tdg/two/1/trapped-together.png",
 				"status": "final",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDUGE0bWxySmJ5WDg",
-					"yadisk": "pPsIA7IGtQnzB"
+					"final": {
+						"gdrive": "0B5M4fMX1HJxDUGE0bWxySmJ5WDg",
+						"yadisk": "pPsIA7IGtQnzB"
+					}
 				}
 			}, {
 				"name": "Кислородушки",
@@ -38,16 +43,20 @@
 				"image": "tdg/two/1/kislorodooshki.png",
 				"status": "final",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDXzdlUi0zM2MzVjg",
-					"yadisk": "z3ls1N1itQo5V"
+					"final": {
+						"gdrive": "0B5M4fMX1HJxDXzdlUi0zM2MzVjg",
+						"yadisk": "z3ls1N1itQo5V"
+					}
 				}
 			}, {
 				"name": "VACUUM",
 				"image": "tdg/two/1/vacuum.png",
 				"status": "final",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDV0NrcDVQYzJITDg",
-					"yadisk": "fiNg3DSatQogU"
+					"final": {
+						"gdrive": "0B5M4fMX1HJxDV0NrcDVQYzJITDg",
+						"yadisk": "fiNg3DSatQogU"
+					}
 				}
 			}, {
 				"name": "Balance",
@@ -55,8 +64,10 @@
 				"image": "tdg/two/1/balance.png",
 				"status": "final",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDM2lFZElzbzdiUjA",
-					"yadisk": "lVy3jpgXtQpEP"
+					"final": {
+						"gdrive": "0B5M4fMX1HJxDM2lFZElzbzdiUjA",
+						"yadisk": "lVy3jpgXtQpEP"
+					}
 				}
 			}, {
 				"name": "Oxygen Eater",
@@ -64,15 +75,20 @@
 				"image": "tdg/two/1/oxygen-eater.png",
 				"status": "final",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDU3dKMzBwX2RENFU",
-					"yadisk": "mrzpd-nktQpFQ"
+					"final": {
+						"gdrive": "0B5M4fMX1HJxDU3dKMzBwX2RENFU",
+						"yadisk": "mrzpd-nktQpFQ"
+					}
 				}
 			}, {
-				"name": "Lena Boots 2.5",
+				"name": "Lena Boots 2.5: Diving Day",
 				"status": "disqualified",
+				"note": "Автор не успел прислать игру в срок.",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDSzh3aGVMa2RhRjQ",
-					"yadisk": "YBbTJ_zE34S8mr"
+					"final": {
+						"gdrive": "0B5M4fMX1HJxDSzh3aGVMa2RhRjQ",
+						"yadisk": "YBbTJ_zE34S8mr"
+					}
 				}
 			}
 		],

@@ -25,7 +25,9 @@
 				"dependencies": "Microsoft PowerPoint",
 				"status": "win",
 				"links": {
-					"yadisk": "epmZlh-frJ6mn"
+					"final": {
+						"yadisk": "epmZlh-frJ6mn"
+					}
 				}
 			}, {
 				"name": "Пузырь времени",
@@ -38,15 +40,17 @@
 				"genre": "RPG",
 				"status": "demo",
 				"links": {
-					"yadisk": "9wGam0Nc37uvfc"
+					"demo": {
+						"yadisk": "9wGam0Nc37uvfc"
+					}
 				}
 			}, {
 				"name": "Времена года",
 				"status": "demo",
 				"links": {
-					"web": "https://rawgit.com/twoweeks/seasons/master/index.html"
-				},
-				"other_links": {
+					"demo": {
+						"web": "https://rawgit.com/twoweeks/seasons/master/index.html"
+					},
 					"source": {
 						"repo": {
 							"github": "twoweeks/seasons"
@@ -83,9 +87,9 @@
 				"name": "Project C",
 				"status": "win",
 				"links": {
-					"yadisk": "KJrZoFpO3QVFrA"
-				},
-				"other_links": {
+					"final": {
+						"yadisk": "KJrZoFpO3QVFrA"
+					},
 					"demo": {
 						"yadisk": "hQ3Aetl23QVFkp"
 					}
@@ -95,13 +99,17 @@
 				"image": "ttwg/2/caravan-destroyer.png",
 				"status": "demo",
 				"links": {
-					"yadisk": "2XnSm6nQ3QVFmd"
+					"demo": {
+						"yadisk": "2XnSm6nQ3QVFmd"
+					}
 				}
 			}, {
 				"name": "Whale Hunt",
 				"status": "demo",
 				"links": {
-					"yadisk": "HH__QUec3QVFmZ"
+					"demo": {
+						"yadisk": "HH__QUec3QVFmZ"
+					}
 				}
 			}
 		]

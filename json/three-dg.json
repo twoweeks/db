@@ -18,20 +18,23 @@
 				"description": "Вы играете за хакера-вайтхэта, борца за свободу, защищающего свой сервер от злодеев.",
 				"status": "win",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDN3Q3VjM5ZGx5WTA",
-					"yadisk": "ugeQ3TwC34SLpb"
+					"final": {
+						"gdrive": "0B5M4fMX1HJxDN3Q3VjM5ZGx5WTA",
+						"yadisk": "ugeQ3TwC34SLpb"
+					}
 				}
 			}, {
 				"name": "Collored Planets",
 				"status": "final",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDVTlCTTUtQmFOQ0E",
-					"yadisk": "QCeCD-4534SLoJ"
+					"final": {
+						"gdrive": "0B5M4fMX1HJxDVTlCTTUtQmFOQ0E",
+						"yadisk": "QCeCD-4534SLoJ"
+					}
 				}
 			}, {
 				"name": "ColorJump",
 				"status": "final",
-				"links": {},
 				"note": "Архив с игрой был утерян."
 			}, {
 				"name": "War of Color",
@@ -39,10 +42,10 @@
 				"description": "Выбери свой цвет государства и захвати мир.",
 				"status": "final",
 				"links": {
-					"gdrive": "0B5M4fMX1HJxDbXEtVV9mYjJkVEk",
-					"yadisk": "OvNDewR834SLqt"
-				},
-				"other_links": {
+					"final": {
+						"gdrive": "0B5M4fMX1HJxDbXEtVV9mYjJkVEk",
+						"yadisk": "OvNDewR834SLqt"
+					},
 					"gamejolt": "war-of-color/128253"
 				}
 			}
