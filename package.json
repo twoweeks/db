@@ -1,6 +1,6 @@
 {
   "name": "gd-games-database",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "private": true,
   "description": "База данных по играм с конкурсов раздела /gd/",
   "repository": "github:twoweeks/your-own-twg",
@@ -13,6 +13,7 @@
   "devDependencies": {
     "gulp": "3.9.1",
     "gulp-json-minify": "1.2.2",
-    "gulp-plumber": "1.2.0"
+    "gulp-jsonlint": "1.2.1",
+    "gulp-pipe": "1.0.4"
   }
 }

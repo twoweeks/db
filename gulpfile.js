@@ -1,9 +1,13 @@
 'use strict'
 
 let
-	gulp =      require('gulp'),
-	plumber =   require('gulp-plumber'),
-	json_min =  require('gulp-json-minify')
+	gulp = require('gulp'),
+	tube = require('gulp-pipe')
+
+let json = {
+	minify:  require('gulp-json-minify'),
+	lint:    require('gulp-jsonlint')
+}
 
 let paths = {
 	crude: 'json/*.json',
@@ -12,10 +16,13 @@ let paths = {
 	}
 }
 
-gulp.task('json:minify', () => gulp.src(paths.crude)
-	.pipe(plumber())
-	.pipe(json_min())
-	.pipe(gulp.dest(paths.master.min))
-)
+gulp.task('json:minify', () => tube([
+	gulp.src(paths.crude),
+	json.lint(),
+	json.lint.reporter(),
+	json.lint.failAfterError(),
+	json.minify(),
+	gulp.dest(paths.master.min)
+]))
 
 gulp.task('build', ['json:minify'])
