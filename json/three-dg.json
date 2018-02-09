@@ -46,7 +46,9 @@
 						"gdrive": "0B5M4fMX1HJxDbXEtVV9mYjJkVEk",
 						"yadisk": "OvNDewR834SLqt"
 					},
-					"gamejolt": "war-of-color/128253"
+					"store": {
+						"gamejolt": "war-of-color/128253"
+					}
 				}
 			}
 		]

@@ -1430,18 +1430,21 @@
 				"dependencies": "Flash",
 				"status": "final",
 				"links": {
+					"updated": {
+						"yadisk": "3mLxLB36icEhJ"
+					},
 					"final": {
 						"gdrive": "0B5M4fMX1HJxDXzlIR3ItNXdENlU",
 						"yadisk": "vWglHGwX37nCaJ"
 					},
-					"demo": {
-						"yadisk": "oruZu9V637nYra"
-					},
 					"demo_updated": {
 						"yadisk": "FmA0qAol37vxGA"
 					},
-					"updated": {
-						"yadisk": "3mLxLB36icEhJ"
+					"demo": {
+						"yadisk": "oruZu9V637nYra"
+					},
+					"ost": {
+						"soundcloud": "midipidemy/sets/qk3tr4pp10xo"
 					}
 				}
 			}, {
@@ -1865,6 +1868,9 @@
 					},
 					"store": {
 						"gplay": "com.videoatrocity.projrasp"
+					},
+					"ost": {
+						"soundcloud": "pr-rasp/sets/part-1"
 					}
 				}
 			}, {
@@ -2470,7 +2476,7 @@
 				"gift": "Please, Don’t Touch Anything",
 				"winner": "The Story"
 			}, {
-				"name": "",
+				"name": "We do the content",
 				"description": "Cаундтрек игры должен полностью состоять из треков Никиты.",
 				"gift": "Back to the Future: The Game"
 			}
@@ -2550,6 +2556,9 @@
 					},
 					"demo": {
 						"yadisk": "AMd7aAIototMH"
+					},
+					"ost": {
+						"soundcloud": "pr-rasp/sets/part-2"
 					}
 				}
 			}, {
@@ -2894,6 +2903,9 @@
 					},
 					"demo": {
 						"yadisk": "bD7ImUYv35Ljis"
+					},
+					"ost": {
+						"soundcloud": "pr-rasp/sets/part-3"
 					}
 				}
 			}, {
@@ -3157,6 +3169,9 @@
 					"store": {
 						"steam": "713940",
 						"gamejolt": "blastercop/237878"
+					},
+					"ost": {
+						"soundcloud": "arkhidexx/sets/blaster-cop-ost"
 					}
 				}
 			}, {
@@ -4280,6 +4295,9 @@
 							"user": "dissensiondev",
 							"game": "project-raspidarasilo-4"
 						}
+					},
+					"ost": {
+						"soundcloud": "pr-rasp/sets/part-4"
 					}
 				}
 			}, {
@@ -4541,6 +4559,12 @@
 				"links": {
 					"final": {
 						"yadisk": "h9EH2Cy73Rkfoy"
+					},
+					"store": {
+						"itch": {
+							"user": "vetta-vetka",
+							"game": "lena-boots-4"
+						}
 					}
 				}
 			}

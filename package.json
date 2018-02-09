@@ -1,10 +1,10 @@
 {
   "name": "gd-games-database",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "private": true,
   "description": "База данных по играм с конкурсов раздела /gd/",
   "repository": "github:twoweeks/your-own-twg",
-  "author": "tehcojam",
+  "author": "Dmitry <dmitry@cojam.ru> (https://e965.ru)",
   "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/twoweeks/db/issues"
