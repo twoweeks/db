@@ -97,10 +97,10 @@
 						"itch": {
 							"user": "vetta-vetka",
 							"game": "pidorashka-chmonik"
-						},
-						"ost": {
-							"soundcloud": "pr-rasp/sets/project-c"
 						}
+					},
+					"ost": {
+						"soundcloud": "pr-rasp/sets/project-c"
 					}
 				}
 			}, {

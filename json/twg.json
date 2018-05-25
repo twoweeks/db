@@ -4573,10 +4573,10 @@
 						"itch": {
 							"user": "vetta-vetka",
 							"game": "lena-boots-4"
-						},
-						"ost": {
-							"soundcloud": "pr-rasp/sets/lena-boots-4"
 						}
+					},
+					"ost": {
+						"soundcloud": "pr-rasp/sets/lena-boots-4"
 					}
 				}
 			}
