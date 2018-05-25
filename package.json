@@ -3,7 +3,7 @@
   "version": "1.2.3",
   "private": true,
   "description": "База данных по играм с конкурсов раздела /gd/",
-  "repository": "github:twoweeks/your-own-twg",
+  "repository": "github:twoweeks/db",
   "author": "Dmitry <dmitry@cojam.ru> (https://e965.ru)",
   "license": "CC0-1.0",
   "bugs": {
