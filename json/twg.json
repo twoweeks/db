@@ -1357,7 +1357,7 @@
 					},
 					"source": {
 						"repo": {
-							"github": "levelgd/ICFOS"
+							"github": "twoweeks/ICFOS"
 						}
 					}
 				}
@@ -3965,6 +3965,9 @@
 					},
 					"demo": {
 						"yadisk": "apxgX2lG3LiAks"
+					},
+					"ost": {
+						"soundcloud": "pr-rasp/sets/gdesecrate"
 					}
 				}
 			}
