@@ -47,7 +47,11 @@
 						"yadisk": "OvNDewR834SLqt"
 					},
 					"store": {
-						"gamejolt": "war-of-color/128253"
+						"gamejolt": "war-of-color/128253",
+						"itch": {
+							"user": "mr-smoke",
+							"game": "war-of-color"
+						}
 					}
 				}
 			}

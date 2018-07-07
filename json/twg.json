@@ -372,7 +372,11 @@
 						"yadisk": "JkykDK9937nhzK"
 					},
 					"store": {
-						"gamejolt": "my-native-foreign-land/59792"
+						"gamejolt": "my-native-foreign-land/59792",
+						"itch": {
+							"user": "mr-smoke",
+							"game": "mnfl"
+						}
 					}
 				}
 			}, {
@@ -835,7 +839,11 @@
 						"yadisk": "V6eu6AoTyJTBN"
 					},
 					"store": {
-						"gamejolt": "absurdation/59747"
+						"gamejolt": "absurdation/59747",
+						"itch": {
+							"user": "mr-smoke",
+							"game": "absurdation"
+						}
 					}
 				}
 			}, {
@@ -1221,7 +1229,11 @@
 						"yadisk": "2F_ZQx_v37nTQM"
 					},
 					"store": {
-						"gamejolt": "apparatus-technology/107104"
+						"gamejolt": "apparatus-technology/107104",
+						"itch": {
+							"user": "mr-smoke",
+							"game": "apparatus-technology"
+						}
 					}
 				}
 			}, {
@@ -1839,7 +1851,11 @@
 						"yadisk": "f4SNbis7oZKw6"
 					},
 					"store": {
-						"gamejolt": "super-lucky-puncher/128968"
+						"gamejolt": "super-lucky-puncher/128968",
+						"itch": {
+							"user": "mr-smoke",
+							"game": "super-lucky-puncher"
+						}
 					}
 				}
 			}, {
@@ -3177,7 +3193,11 @@
 					},
 					"store": {
 						"steam": "713940",
-						"gamejolt": "blastercop/237878"
+						"gamejolt": "blastercop/237878",
+						"itch": {
+							"user": "mr-smoke",
+							"game": "blaster-cop"
+						}
 					},
 					"ost": {
 						"soundcloud": "arkhidexx/sets/blaster-cop-ost"
@@ -4483,7 +4503,10 @@
 		]
 	},
 	{
-		"meta": { "num": 11 },
+		"meta": {
+			"num": 11,
+			"edition": "January"
+		},
 		"dates": {
 			"start": 1514754000,
 			"end": 1516549320
@@ -4584,5 +4607,127 @@
 				}
 			}
 		]
+	},
+	{
+		"meta": {
+			"num": 11,
+			"edition": "February"
+		},
+		"dates": {
+			"start": 1518555600,
+			"end": 1520110620
+		},
+		"themes": [
+			{ "name": "Расставание" }
+		],
+		"fund": "3200 рублей",
+		"site": "https://twg-eleven.blogspot.ru",
+		"games": [
+			{
+				"name": "The Worst Game 11 (Dimasyk Journey)",
+				"status": "1"
+			}, {
+				"name": "SPACE PATROL COP",
+				"status": "2"
+			}, {
+				"name": "NaN++",
+				"status": "3"
+			}, {
+				"name": "School Psycho",
+				"status": "final"
+			}, {
+				"name": "WalkSim",
+				"status": "final"
+			}, {
+				"name": "Опрос ГД",
+				"status": "final"
+			}, {
+				"name": "Abyss",
+				"status": "final"
+			}, {
+				"name": "RunningKek",
+				"status": "final"
+			}, {
+				"name": "Thrall of Cernunnos",
+				"status": "final"
+			}, {
+				"name": "Abu",
+				"status": "demo"
+			}, {
+				"name": "gnezdishko_twg",
+				"status": "demo"
+			}, {
+				"name": "In the Space",
+				"status": "demo"
+			}, {
+				"name": "Odyssey-11",
+				"status": "demo"
+			}, {
+				"name": "ProjectR",
+				"status": "demo"
+			}, {
+				"name": "SaveYourMind",
+				"status": "demo"
+			}, {
+				"name": "zeleniy-apelsin",
+				"status": "demo"
+			}
+		]
+	},
+	{
+		"meta": {
+			"num": 11,
+			"edition": "March"
+		},
+		"dates": {
+			"start": 1520532000,
+			"end": 1521838799
+		},
+		"themes": [
+			{ "name": "ЗАПУТАННОСТЬ (ОБМАНЧИВОСТЬ?)" },
+			{ "name": "ЦЕНТР" },
+			{ "name": "РАСПАД" }
+		],
+		"fund": "3200 рублей",
+		"site": "https://twg11v3.wordpress.com",
+		"games": [
+			{
+				"name": "The Sky",
+				"status": "win"
+			}, {
+				"name": "Центр вселенной",
+				"status": "win"
+			}, {
+				"name": "Uzon14D3",
+				"status": "final"
+			}, {
+				"name": "SoSiS",
+				"status": "final"
+			}, {
+				"name": "def345",
+				"status": "final"
+			}, {
+				"name": "Diimasik Diijourney Zwei Versus 2",
+				"demo_name": "PROJECT RASPIDORASILO V",
+				"status": "final"
+			}, {
+				"name": "THE BLACK BOX",
+				"status": "demo"
+			}, {
+				"name": "ИГРА БЕЗ НАЗВАНИЯ",
+				"status": "demo"
+			}
+		]
+	},
+	{
+		"meta": { "num": 12 },
+		"dates": {
+			"start": 0,
+			"end": 0
+		},
+		"themes": [],
+		"fund": "",
+		"site": "https://twg-12.blogspot.ru",
+		"games": []
 	}
 ]
