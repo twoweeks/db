@@ -149,6 +149,8 @@
 				"description": "Представьте, что вы оказались на необитаемом острове. Или посреди непроходимой тайги. Или в каком-то странном каменном лабиринте. Или вообще — в другом мире!\nЧто вы будете делать? Куда вы пойдёте? Сумеете ли вы выжить? Будете ли искать путь домой или последуете принципу \"где я — там дом\"?\nИменно на эти вопросы вам предстоит ответить в ваших играх. Ваша задача: сделать игру на тему \"попаданцев\", причём сюжет, геймлей, цель игры, место, время действия и персонажи никак и ничем не ограничены.\nПришельцы из иных эпох, из иных миров, да просто заблудившиеся мореплаватели, разбившиеся о скалы не нанесённого на карту острова. Дайте волю вашей фантазии!"
 			}
 		],
+		"note": "",
+		"fund": "10000 рублей",
 		"achievements": [
 			{
 				"name": "Just put on your cool face",
@@ -1746,7 +1748,7 @@
 			}
 		],
 		"fund": "10300 рублей",
-		"site": "https://twg7.blogspot.ru",
+		"site": "https://7.twg.host",
 		"games": [
 			{
 				"name": "Dungeon Architect",
@@ -2507,7 +2509,7 @@
 			}
 		],
 		"fund": "4600 рублей",
-		"site": "https://twoweeksgame8.blogspot.ru",
+		"site": "https://8.twg.host",
 		"games": [
 			{
 				"name": "Blank World",
@@ -3123,7 +3125,7 @@
 			}
 		],
 		"fund": "26100 рублей",
-		"site": "https://twoweeksgame9.blogspot.ru",
+		"site": "https://9.twg.host",
 		"games": [
 			{
 				"name": "Omsk journey",
@@ -4038,7 +4040,7 @@
 			}
 		],
 		"fund": "5000 рублей",
-		"site": "https://twg-x.blogspot.ru",
+		"site": "https://x.twg.host",
 		"games": [
 			{
 				"name": "Obsurity",
@@ -4688,7 +4690,7 @@
 			{ "name": "ЦЕНТР" },
 			{ "name": "РАСПАД" }
 		],
-		"fund": "3200 рублей",
+		"fund": "660 рублей",
 		"site": "https://twg11v3.wordpress.com",
 		"games": [
 			{
@@ -4709,7 +4711,18 @@
 			}, {
 				"name": "Diimasik Diijourney Zwei Versus 2",
 				"demo_name": "PROJECT RASPIDORASILO V",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"store": {
+						"itch": {
+							"user": "vetta-vetka",
+							"game": "diimasik-diijourney-zwei-versus-2"
+						}
+					},
+					"ost": {
+						"soundcloud": "pr-rasp/sets/diimasik-diijourney"
+					}
+				}
 			}, {
 				"name": "THE BLACK BOX",
 				"status": "demo"
@@ -4725,9 +4738,155 @@
 			"start": 0,
 			"end": 0
 		},
-		"themes": [],
+		"themes": [
+			{
+				"name": "Перевоплощение",
+				"description": "Почему у нас всегда один главный герой? Пусть сегодня их будет два! Или даже три. А может ты сможешь придумать больше?\nВ вашей игре должна быть возможность смены героя прямо в процессе игры."
+			}
+		],
+		"achievements": [
+			{
+				"name": "Уринотеропия",
+				"description": "Моделирование жидкостей часто показывается на CG-выставках. Покажи анону лучшее моделирование механики жидкости на ТВГ12!",
+				"gift": "Risk of Rain"
+			}, {
+				"name": "Копрофилия",
+				"description": "Иногда бывает цель закопана, либо можно просто опционально покопаться в грязи. Эта ачивка не тому кто сможет откопать, а тому кто закопает.",
+				"gift": "Terraria"
+			}, {
+				"name": "Социофобия",
+				"description": "Неймфаги, аватарки ... пора их замочить всех! В игре!",
+				"gift": "Postal 2"
+			}, {
+				"name": "Утерянные технологии предков",
+				"description": "Сделать вид, что раньше было хуже. И заставить анона поверить в это.",
+				"gift": "Rise of The Triad"
+			}, {
+				"name": "Рогуелайт",
+				"description": "Игра рассказывает быдлу об особенностях этого направления.",
+				"gift": "Barony"
+			}
+		],
 		"fund": "",
 		"site": "https://twg-12.blogspot.ru",
-		"games": []
+		"games": [
+			{
+				"name": "DECEIT",
+				"description": "Страж и Атари путешествуют между мирами и помогают жителям избавиться от проблем.В этот раз им предстоит помочь двум мирам.",
+				"image": "",
+				"status": "final"
+			}, {
+				"name": "Fall of Gods",
+				"description": "Бегаем, стреляем, махаем мечом, убиваем мобов.",
+				"image": "",
+				"status": "final"
+			}, {
+				"name": "Project Raspidarasilo V",
+				"description": "Project Raspidarasilo V",
+				"image": "",
+				"status": "final"
+			}, {
+				"name": "эмансипе",
+				"description": "Жри луну@доходи до круга",
+				"image": "",
+				"status": "final"
+			}, {
+				"name": "SheoKirHlilHeroes",
+				"description": "Шутан адвенчура про бравого Орчега и его друзей.",
+				"image": "",
+				"status": "final"
+			}, {
+				"name": "Archtower",
+				"genre": "Аркадный TPS с элементами отыгрыша в голове из RPG и привкусом рогалика без генерации",
+				"image": "",
+				"status": "final"
+			}, {
+				"name": "Neurolink",
+				"description": "За нарушение корпоративного устава вас приговорили шести месяцам майнинга нейрокоинов на жидкостном охлаждении. Говорят, после этого дерьма мозги запекаются так, что работать сможешь разве что охранником в какой-нибудь частной тюрьме.\nСможете ли вы защитить свой слот от посягательств всепроникающего научно-технического прогресса?",
+				"image": "",
+				"status": "final"
+			}, {
+				"name": "Пещера Гоблинов",
+				"description": "Ваня должен спасти свою невесту Настеньку, которую похитили гоблины.",
+				"image": "",
+				"status": "final"
+			}, {
+				"name": "Tiponetspaseniya",
+				"genre": "Психологический хоррор",
+				"image": "",
+				"status": "final"
+			}, {
+				"name": "Axella",
+				"genre": "Фантастический, тактический экшен",
+				"image": "",
+				"status": "final"
+			}, {
+				"name": "ROBATS",
+				"genre": "Платформер, головоломка",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "РАЗДЕЛЕННЫЕ",
+				"genre": "Симулятор умирания от удушья",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "DEMON BAKARO",
+				"description": "Уличная собака, демон, кликер и т.д.",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "VAPORISATION",
+				"description": "превращениее газа в жидкость и обратно",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "TWILIGHT OF THE THUNDER GOD",
+				"description": "Волк-ассасин",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "HEN BOUKEN (変冒険プレプレプレブラシェニエ物語 EPISODE DEEMKAH)",
+				"description": "Бесконечная драка",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "ПРАЗДНИК УРОЖАЯ",
+				"description": "Праздничное настроение",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "ДВОЙНОЙ",
+				"description": "Ежедневник анона",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "POST IN SPACE",
+				"description": "Содомирующие кубы на лиспе",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "Demonic Crime",
+				"description": "я ничего не ломал оно само",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "Planet Station",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "MIMIC RL",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "Elemental Dungeon",
+				"image": "",
+				"status": "demo"
+			}, {
+				"name": "КУБЫ",
+				"image": "",
+				"status": "demo"
+			}
+		]
 	}
 ]
