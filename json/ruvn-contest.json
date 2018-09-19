@@ -277,7 +277,148 @@
 		"themes": [
 			{ "name": "Детектив" }
 		],
-		"fund": "10000 рублей",
-		"games": []
+		"fund": "28000 рублей",
+		"games": [
+			{
+				"name": "Город Семи Цветов",
+				"status": "1",
+				"links": {
+					"final": {
+						"yadisk": "tSQGTfu7wc9H5Q"
+					}
+				}
+			}, {
+				"name": "Кровь гуше воды",
+				"status": "2",
+				"links": {
+					"final": {
+						"yadisk": "Su5XhcTfLnf5KA"
+					}
+				}
+			}, {
+				"name": "Предел реальности",
+				"status": "3",
+				"links": {
+					"final": {
+						"yadisk": "idAM1sO2L_4hAg"
+					}
+				}
+			}, {
+				"name": "Дисперсия",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "8QgMleZKHko1vQ"
+					}
+				}
+			}, {
+				"name": "Deadlock",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "8E71v_CmgnMsag"
+					}
+				}
+			}, {
+				"name": "Коробка с темнотой",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "oRnSD_QlXrcx6g"
+					}
+				}
+			}, {
+				"name": "За закрытыми дверями",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "hAAiknnzBPSeIg"
+					}
+				}
+			}, {
+				"name": "Умбра",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "cTIv0TIEzxSuXA"
+					}
+				}
+			}, {
+				"name": "Скрижали",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "zNr3LFLi3PpNXg"
+					},
+					"ost": {
+						"soundcloud": "supermoonfire/sets/scrischali-vol-1"
+					}
+				}
+			}, {
+				"name": "Курочка ряба",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "VH1HPpYE-qENbg"
+					}
+				}
+			}, {
+				"name": "Маико",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "heaVvokG7NjDFA"
+					}
+				}
+			}, {
+				"name": "Страх и ненависть в Мытищах",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "Re6_C-isDacODQ"
+					}
+				}
+			}, {
+				"name": "Две дороги",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "CpYpAdEylFu7lg"
+					}
+				}
+			}, {
+				"name": "Project;Observer",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "eR1HpsMdRK9KXg"
+					}
+				}
+			}, {
+				"name": "Parus major",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "NKUXuKl7ku6s7A"
+					}
+				}
+			}, {
+				"name": "Сато",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "ktkFJigADNKnBg"
+					}
+				}
+			}, {
+				"name": "<<СамоСбор::Восстание>>",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "q_NEEgmS1_14SQ"
+					}
+				}
+			}
+		]
 	}
 ]
