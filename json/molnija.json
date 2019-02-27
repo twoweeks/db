@@ -1,0 +1,16 @@
+[
+	{
+		"meta": { "num": 1 },
+		"dates": {
+			"start": 0,
+			"end": 1
+		},
+		"themes": [
+			{
+				"name": "Киберпанк с российским колоритом"
+			}
+		],
+		"site": "https://itch.io/jam/molnija",
+		"games": []
+	}
+]

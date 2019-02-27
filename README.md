@@ -1,12 +1,13 @@
 ## База данных по играм с конкурсов раздела
 
 Конкурсы:
-* Two-Two Weeks Game (четырёхнедельные)
-* Two Weeks Game (двухнедельные)
-* Two/Two Weeks Game или One Week Game (однонедельные)
-* Three Days Game (трёхдневные)
-* Two Days Game (двухдневные)
-* RUVN Contest (конкурсы /ruvn/)
+* Two Weeks Game `twg.json` (двухнедельный)
+* Two-Two Weeks Game `ttwg.json` (четырёхнедельный)
+* Two/Two Weeks Game или One Week Game `owg.json` (однонедельный)
+* Three Days Game `three-dg.json` (трёхдневный)
+* Two Days Game `two-dg.json` (двухдневный)
+* Molnija Jam `molnija.json` (конкурс /gd/ и /ruvn/)
+* RUVN Contest `ruvn-contest.json` (конкурс /ruvn/)
 
 #### [JSON](https://ru.wikipedia.org/wiki/JSON)-версия
 

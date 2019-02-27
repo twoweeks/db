@@ -25,4 +25,4 @@ gulp.task('json:minify', () => tube([
 	gulp.dest(paths.master.min)
 ]))
 
-gulp.task('build', ['json:minify'])
+gulp.task('build', gulp.parallel('json:minify'))
