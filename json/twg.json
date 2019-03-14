@@ -1767,7 +1767,7 @@
 					"store": {
 						"gplay": "com.Undervault",
 						"itch": {
-							"user": "midwesterngames",
+							"user": "angrykid",
 							"game": "undervault"
 						}
 					}
@@ -3990,6 +3990,10 @@
 					},
 					"ost": {
 						"soundcloud": "pr-rasp/sets/gdesecrate"
+					},
+					"store": {
+						"user": "level-gd",
+						"game": "gdesecrate"
 					}
 				}
 			}
@@ -4627,52 +4631,165 @@
 		"games": [
 			{
 				"name": "The Worst Game 11 (Dimasyk Journey)",
-				"status": "1"
+				"status": "1",
+				"links": {
+					"final": {
+						"yadisk": "k2banJ8Xrmr0ig"
+					},
+					"demo": {
+						"yadisk": "4brYAp7ffdB6jw"
+					}
+				}
 			}, {
 				"name": "SPACE PATROL COP",
-				"status": "2"
+				"status": "2",
+				"links": {
+					"final": {
+						"yadisk": "tXmcWvAcnjGTYQ"
+					},
+					"demo": {
+						"yadisk": "Ukm97ugnmkhaMw"
+					}
+				}
 			}, {
 				"name": "NaN++",
-				"status": "3"
+				"status": "3",
+				"links": {
+					"final": {
+						"yadisk": "7AHurQS5BcB7Mw"
+					},
+					"demo": {
+						"yadisk": "Bseh9OFR9gBVWA"
+					}
+				}
 			}, {
 				"name": "School Psycho",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "u8Xo_VbAFtIDHw"
+					},
+					"demo": {
+						"yadisk": "TE_XirIBT_8Jiw"
+					}
+				}
 			}, {
 				"name": "WalkSim",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "kgxMVqiK9wnMbQ"
+					},
+					"demo": {
+						"yadisk": "vFeSOyi1JcFPFw"
+					},
+					"store": {
+						"itch": {
+							"user": "genadvd",
+							"game": "walksim"
+						}
+					}
+				}
 			}, {
 				"name": "Опрос ГД",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "H6RPBmf0Td6blQ"
+					},
+					"demo": {
+						"yadisk": "ve8UZ36XIHNDLQ"
+					}
+				}
 			}, {
 				"name": "Abyss",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "5H913RXmC1lp8w"
+					},
+					"demo": {
+						"yadisk": "EzafzIo_Q4Ieyw"
+					}
+				}
 			}, {
 				"name": "RunningKek",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "1D4mBb-xGimgDQ"
+					},
+					"demo": {
+						"yadisk": "KlS21x9WC_hQ3g"
+					}
+				}
 			}, {
 				"name": "Thrall of Cernunnos",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "eKvcJA-rlYgNbA"
+					},
+					"demo": {
+						"yadisk": "PCN63Xvy30ZVyQ"
+					}
+				}
 			}, {
 				"name": "Abu",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "LlWSIWhZYOea0A"
+					}
+				}
 			}, {
 				"name": "gnezdishko_twg",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "MIdAhme_-GfeiA"
+					}
+				}
 			}, {
 				"name": "In the Space",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "NB_4Y6Ap_2HylQ"
+					}
+				}
 			}, {
 				"name": "Odyssey-11",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "WvGFWqP1kfb94g"
+					}
+				}
 			}, {
 				"name": "ProjectR",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "ULEurmpBAilpig"
+					}
+				}
 			}, {
 				"name": "SaveYourMind",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "L9jB6JtjN6AOnA"
+					}
+				}
 			}, {
-				"name": "zeleniy-apelsin",
-				"status": "demo"
+				"name": "zeleniy-rIOE5Xjq2I5R0A",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "nMTk5d56onybNQ"
+					}
+				}
 			}
 		]
 	},
@@ -4695,24 +4812,68 @@
 		"games": [
 			{
 				"name": "The Sky",
-				"status": "win"
+				"status": "win",
+				"links": {
+					"final": {
+						"yadisk": "kLyVknhlybiXyw"
+					}
+				}
 			}, {
 				"name": "Центр вселенной",
-				"status": "win"
+				"status": "win",
+				"links": {
+					"final": {
+						"yadisk": "V3rbmvQrSl7x_A"
+					},
+					"demo": {
+						"yadisk": "B3aJRmex-N-xAA"
+					}
+				}
 			}, {
 				"name": "Uzon14D3",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "EE8FGvCP2WAMdQ"
+					},
+					"demo": {
+						"yadisk": "nMTk5d56onybNQ"
+					}
+				}
 			}, {
 				"name": "SoSiS",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "Pg--OUFVDr0u0g"
+					},
+					"store": {
+						"itch": {
+							"user": "genadvd",
+							"game": "sosis"
+						}
+					}
+				}
 			}, {
 				"name": "def345",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "qLp4J5HxVZkz0A"
+					}
+				},
+				"note": "Ссылка на финальную версию игры недоступна."
 			}, {
 				"name": "Diimasik Diijourney Zwei Versus 2",
 				"demo_name": "PROJECT RASPIDORASILO V",
 				"status": "final",
 				"links": {
+					"final": {
+						"yadisk": "CgTkVOM_pTlxbw"
+					},
+					"demo": {
+						"yadisk": "NGIpJUEkbOUNwg"
+					},
 					"store": {
 						"itch": {
 							"user": "vetta-vetka",
@@ -4725,18 +4886,31 @@
 				}
 			}, {
 				"name": "THE BLACK BOX",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "azWSHTguJz3E7g"
+					}
+				}
 			}, {
 				"name": "ИГРА БЕЗ НАЗВАНИЯ",
 				"status": "demo"
 			}
-		]
+		],
+		"archive": {
+			"final": {
+				"yadisk": "DqKfimn8jTl5ow"
+			},
+			"demo": {
+				"yadisk": "v-S0NYBHdC85rA"
+			}
+		}
 	},
 	{
 		"meta": { "num": 12 },
 		"dates": {
-			"start": 0,
-			"end": 0
+			"start": 1531213200,
+			"end": 1532845380
 		},
 		"themes": [
 			{
@@ -4774,126 +4948,294 @@
 				"name": "DECEIT",
 				"description": "Страж и Атари путешествуют между мирами и помогают жителям избавиться от проблем.В этот раз им предстоит помочь двум мирам.",
 				"image": "",
-				"status": "1"
+				"status": "1",
+				"links": {
+					"final": {
+						"yadisk": "K1gKN7dgbT5KlQ"
+					},
+					"demo": {
+						"yadisk": "LMdS9dXwVMRuDg"
+					}
+				}
 			}, {
 				"name": "Archtower",
 				"genre": "Аркадный TPS с элементами отыгрыша в голове из RPG и привкусом рогалика без генерации",
 				"image": "",
-				"status": "2"
+				"status": "2",
+				"links": {
+					"final": {
+						"yadisk": "mT6TTcHYLnMxIg"
+					},
+					"demo": {
+						"yadisk": "q1AnS4q0W3nKPQ"
+					},
+					"store": {
+						"itch": {
+							"user": "mr-smoke",
+							"game": "archtower"
+						}
+					}
+				}
 			}, {
 				"name": "Neurolink",
 				"description": "За нарушение корпоративного устава вас приговорили шести месяцам майнинга нейрокоинов на жидкостном охлаждении. Говорят, после этого дерьма мозги запекаются так, что работать сможешь разве что охранником в какой-нибудь частной тюрьме.\nСможете ли вы защитить свой слот от посягательств всепроникающего научно-технического прогресса?",
 				"image": "",
-				"status": "3"
+				"status": "3",
+				"links": {
+					"final": {
+						"yadisk": "8o8JXcjXAiFVZA"
+					},
+					"demo": {
+						"yadisk": "5FiywP6R8_BnnA"
+					}
+				}
 			}, {
 				"name": "Fall of Gods",
 				"description": "Бегаем, стреляем, махаем мечом, убиваем мобов.",
 				"image": "",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "hF5CUWnOktx5ng"
+					},
+					"demo": {
+						"yadisk": "KHgWrAPIGDEzrQ"
+					}
+				}
 			}, {
 				"name": "Project Raspidarasilo V",
 				"description": "Project Raspidarasilo V",
 				"image": "",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "_FJnYn0IR5u1XQ"
+					},
+					"demo": {
+						"yadisk": "geg_KmI19-fnRA"
+					}
+				},
+				"store": {
+					"itch": {
+						"user": "dissensiondev",
+						"game": "project-raspidarasilo-v"
+					}
+				}
 			}, {
 				"name": "эмансипе",
 				"description": "Жри луну@доходи до круга",
 				"image": "",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "D9pWq9Jju5-J7g"
+					},
+					"demo": {
+						"yadisk": "K_WT7psnNCV-Qw"
+					}
+				}
 			}, {
 				"name": "SheoKirHlilHeroes",
 				"description": "Шутан адвенчура про бравого Орчега и его друзей.",
 				"image": "",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "akyDn7A8BwO0eQ"
+					},
+					"demo": {
+						"yadisk": "djVk4WSirdheqg"
+					}
+				}
 			}, {
 				"name": "Пещера Гоблинов",
 				"description": "Ваня должен спасти свою невесту Настеньку, которую похитили гоблины.",
 				"image": "",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "Q-ZZpcURleA8tA"
+					},
+					"demo": {
+						"yadisk": "As4NPotofOAXmw"
+					},
+					"store": {
+						"itch": {
+							"user": "genadvd",
+							"game": "goblin-cave"
+						}
+					}
+				}
 			}, {
 				"name": "Tiponetspaseniya",
 				"genre": "Психологический хоррор",
 				"image": "",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "lMxSi3NXkbunyQ"
+					},
+					"demo": {
+						"yadisk": "yluvw3Q7tyJ4Lw"
+					}
+				}
 			}, {
 				"name": "Axella",
 				"genre": "Фантастический, тактический экшен",
 				"image": "",
-				"status": "final"
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "4y41mMy8QLP_Qw"
+					},
+					"demo": {
+						"yadisk": "a6IMlDZVjni33Q"
+					}
+				}
 			}, {
 				"name": "ROBATS",
 				"genre": "Платформер, головоломка",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "PuP03hJEwLp9Fw"
+					}
+				}
 			}, {
 				"name": "РАЗДЕЛЕННЫЕ",
 				"genre": "Симулятор умирания от удушья",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "jGcTsQcz6OTbxw"
+					}
+				}
 			}, {
 				"name": "DEMON BAKARO",
 				"description": "Уличная собака, демон, кликер и т.д.",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "9-nuuMMKQbbkbg"
+					}
+				}
 			}, {
 				"name": "VAPORISATION",
 				"description": "превращениее газа в жидкость и обратно",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "LKLvPsatmizLnw"
+					}
+				}
 			}, {
 				"name": "TWILIGHT OF THE THUNDER GOD",
 				"description": "Волк-ассасин",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "s6Q5uobTi4Pg9Q"
+					}
+				}
 			}, {
 				"name": "HEN BOUKEN (変冒険プレプレプレブラシェニエ物語 EPISODE DEEMKAH)",
 				"description": "Бесконечная драка",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "q-I96MxmmlLi4w"
+					}
+				}
 			}, {
 				"name": "ПРАЗДНИК УРОЖАЯ",
 				"description": "Праздничное настроение",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "T7LmCetwdHet1A"
+					}
+				}
 			}, {
 				"name": "ДВОЙНОЙ",
 				"description": "Ежедневник анона",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "Qmdf7KCVqXa1nw"
+					}
+				}
 			}, {
 				"name": "POST IN SPACE",
 				"description": "Содомирующие кубы на лиспе",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "C3GWAri-cODYpQ"
+					}
+				}
 			}, {
 				"name": "Demonic Crime",
 				"description": "я ничего не ломал оно само",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "JUdKcA5f23ntEg"
+					}
+				}
 			}, {
 				"name": "Planet Station",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "87zoptabTBdp8Q"
+					}
+				}
 			}, {
 				"name": "MIMIC RL",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "u-hIdC21EWRTuA"
+					}
+				}
 			}, {
 				"name": "Elemental Dungeon",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "x4U-AN-E8s7fnQ"
+					}
+				}
 			}, {
 				"name": "КУБЫ",
 				"image": "",
-				"status": "demo"
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "CCfD4gMbUfIDwA"
+					}
+				}
 			}
 		]
 	},
 	{
 		"meta": { "num": 13 },
 		"dates": {
-			"start": 0,
-			"end": 0
+			"start": 1549270800,
+			"end": 1551105360
 		},
 		"themes": [
 			{
@@ -4919,10 +5261,376 @@
 			}
 		],
 		"achievements": [
-
+			{
+				"name": "СУПЕР БЛАСТЕР",
+				"description": "В игре должны быть бластеры, необязательно как главное оружие. Нестандартные подходы приветствуются",
+				"gift": "Игра \"Blaster Cop\"",
+				"winner": "Dead Shell"
+			}, {
+				"name": "Deus ex machina",
+				"description": "Нужно будет создать в вашей игре ситуацию, когда нечто маленькое и с виду бесполезное/беспомощное преобладает над огромным, страшным и кажущимся с виду неуничтожимым. Причём преобладает ВНЕЗАПНО",
+				"gift": "Игры \"Poker Night at the Inventory\", \"Cook, Serve, Delicious!\" и \"Uncanny Valley\""
+			}, {
+				"name": "Нeaven&Hell",
+				"description": "В игре есть ангелочек и дьяволенок, советующие поступить так или иначе - как в мультиках. Оцениваться будут самое стебное и неожиданное исполнение",
+				"gift": "Игры \"INK\", \"Monster Loves You!\" и \"The Collider\""
+			}, {
+				"name": "Всегда хотел",
+				"description": "Значительная часть игровых объектов может быть разрушена или уничтожена",
+				"gift": "400 рублей",
+				"winner": "Bald Man Tale"
+			}, {
+				"name": "We do the content",
+				"description": "Саундтрек должен полностью состоять из треков Никиты, небольшие исключения и каверы разрешаются",
+				"gift": "600 рублей",
+				"winner": "Bald Man Tale"
+			}
 		],
-		"fund": "",
+		"fund": "20500 рублей",
 		"site": "https://13.twg.host",
-		"games": []
+		"games": [
+			{
+				"name": "Pyroamnesia",
+				"genre": "Платформер",
+				"description": "Spooky, scary...",
+				"image": "twg/13/pyroamnesia.png",
+				"status": "1",
+				"links": {
+					"final": {
+						"yadisk": "1gO9gw6DDm0i-Q"
+					},
+					"demo": {
+						"yadisk": "J2S904AkeK7xRA"
+					}
+				}
+			}, {
+				"name": "Страх и ненависть в /gd",
+				"genre": "Сатира с тонким балансом визуальной новеллы и стратегии",
+				"description": "Владыка демонов решил поучаствовать в твг под зловещим номером 13. Зайдя в тред он увидел срач и не увидел самого конкурса. Его это настолько разозлило, что он решил уничтожить всех пользователей с раздела /GD. Чтобы спасти твг неймфагам предстоит сделать невозможное – перестать сраться и хотя бы один раз поработать сообща. Смогут ли они на время забыть свои обиды и одолеть владыку тьмы и его армию? Это нам и предстоит узнать. Игра посвящается печальным событиям на твг 13.",
+				"image": "twg/13/fear-and-loathing.png",
+				"status": "2",
+				"links": {
+					"final": {
+						"yadisk": "TwOVkdeJMAOsUg"
+					},
+					"demo": {
+						"yadisk": "-3CJ_isjlVBIOg"
+					}
+				}
+			}, {
+				"name": "Dead Shell",
+				"genre": "Паззл-платформер",
+				"description": "Игра про блуждания в космическом корабле в компании дрона и всезнающего советчика, искренне ненавидящего ГГ.",
+				"image": "twg/13/dead-shell.png",
+				"status": "3",
+				"links": {
+					"final": {
+						"yadisk": "XdjRgj70YvDHgQ"
+					},
+					"demo": {
+						"yadisk": "mNjCFeMGV8zZ2w"
+					}
+				}
+			}, {
+				"name": "Catacombs of Doom",
+				"genre": "Прятки с приведениями",
+				"description": "Выберись из запечатанных катакомб с приведениями",
+				"image": "twg/13/catacombs-of-doom.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "Q7MuNmc9QI6tHA"
+					},
+					"demo": {
+						"yadisk": "k_uFSoo2xDmTGg"
+					},
+					"store": {
+						"itch": {
+							"user": "lastnerd",
+							"game": "catacombs-of-doom"
+						}
+					}
+				}
+			}, {
+				"name": "Пробуждение",
+				"genre": "кат-сцены",
+				"description": "В тихом мирном будущем что-то пошло не так. Люди, победив голод и собственные пороки, остановились и повернулись назад. Скорее! Пора спасать человечество от вырождения!",
+				"image": "twg/13/awakening.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "LnGNAB6_ZEIkkw"
+					},
+					"demo": {
+						"yadisk": "s0wfn1evgMTZmw"
+					}
+				}
+			}, {
+				"name": "witchcraft",
+				"genre": "match-3",
+				"description": "Маленькая ведьмочка учится делать волшебные зелья.",
+				"image": "twg/13/witchcraft.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "VdvPFJnS7GFytw"
+					},
+					"demo": {
+						"yadisk": "PUfvGVDKM6tUHg"
+					}
+				}
+			}, {
+				"name": "Bald Man Tale",
+				"genre": "Action-adventure",
+				"description": "Игра повествует о тяжкой судьбе облысевшего человека, вынужденного стать изгоем, в сложный период жизни человечества.",
+				"image": "twg/13/bald-man-tale.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "JJPFcfhNWJvRzw"
+					},
+					"demo": {
+						"yadisk": "Ys0B2WBFtcH9YA"
+					}
+				}
+			}, {
+				"name": "Nevalyashka",
+				"genre": "Экшен-адвенчура от 3го лица.",
+				"description": "Помогите спастись космонавту со страшной планеты где исчезает кислород, женщины и здравый смысл! Заводите друзей, используйте их или они используют вас первыми.",
+				"image": "twg/13/nevalyashka.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "c-e_y5jJeEs0QA"
+					},
+					"demo": {
+						"yadisk": "z5Ev15nQ9qO7Gg"
+					}
+				}
+			}, {
+				"name": "Легенда о Сотрудничестве",
+				"description": "Старые игровые приставки умерли, но на их костях выросли новые, живущие в мире и достатке. Вот только игор тонет. Герои старых игр сотрудничают, чтобы спасти Игоря.",
+				"image": "twg/13/the-legend-of-sotrudnichestvo.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "hlmQc_rPjJXo7Q"
+					},
+					"demo": {
+						"yadisk": "ltXDeaG781jy0Q"
+					}
+				}
+			}, {
+				"name": "Space Gopnik",
+				"genre": "Что-то непонятное",
+				"description": "История гопника с планеты-завода, который, вернувшись из армии, вместе со своими друзьями попал в принеприятнейшую ситуацию.",
+				"image": "twg/13/space-gopnik.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "b-QxW8qpFKTMpA"
+					},
+					"demo": {
+						"yadisk": "G4S5LemJpwM9wA"
+					}
+				}
+			}, {
+				"name": "Странник",
+				"image": "twg/13/strannik.png",
+				"status": "final",
+				"links": {
+					"store": {
+						"itch": {
+							"user": "genadvd",
+							"game": "strannik"
+						}
+					},
+					"final": {
+						"yadisk": "vHfDDtfJjaeQUg"
+					},
+					"demo": {
+						"yadisk": "_uy8DPHo-y90lQ"
+					}
+				}
+			}, {
+				"name": "Twagger",
+				"genre": "Платформер/квест",
+				"description": "Найди способ починить своего стального коня, сотрудничая с неписями в постапокалиптическом мире!",
+				"image": "twg/13/twagger.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "G7o7F5BaEr4L3w"
+					},
+					"demo": {
+						"yadisk": "5-y1Z54W7mWb_g"
+					}
+				}
+			}, {
+				"name": "Золотые Яблочки",
+				"demo_name": "золотистые яблочки",
+				"genre": "Стратегия",
+				"description": "Призрак прошлой цивилизации преследует заново родившееся человечество. Внеземной разум ставит для себя задачу спасти планету любой ценой. Посмотрим, что из этого выйдет…",
+				"image": "twg/13/apples.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "nWl_wO2ZC6Ww_g"
+					},
+					"demo": {
+						"yadisk": "FjtnNjd5j58KNw"
+					}
+				}
+			}, {
+				"name": "ace crash!!",
+				"genre": "аркада (нет)",
+				"description": "В 2034 году раса разумных роботов-автопилотов добралась до Земли.\nПростым развозчикам частной авиации приходится негегко в небесах родины.\nОсобенно учитывая что после катарстофы 2022 года видимая часть вселенной лишилась 0.5 измерени",
+				"image": "twg/13/ace-crash.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "YuRxr9jVzz1FdA"
+					},
+					"demo": {
+						"yadisk": "A2jOeuZ5vUo14A"
+					}
+				}
+			}, {
+				"name": "Weltreich",
+				"demo_name": "Waltreich",
+				"genre": "стратегия/симулятор",
+				"description": "После апокалипсиса уцелело всего 3 бункера, на месте каждого из которых возникло государство. Справа от игрока монарх Василий Пынькин пытается построить авторитарное государство, в то время как слева утопист Мак Проско воплотить утопию. Чью сторону предпочтешь ты? Будешь сотрудничать с диктатором, утопиством, или выберешь свой собственный путь? Сможешь ли ты удержать власть, или вынужден будешь передать её оппозиционеру? Будешь заботиться о благосостоянии населения или купишься на печеньки Сатаны?",
+				"image": "twg/13/weltreich.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "Pdrwbtq3x9s03Q"
+					},
+					"demo": {
+						"yadisk": "ulGcl4-HuW1ekg"
+					}
+				}
+			}, {
+				"name": "Wrong Planet",
+				"genre": "Рогалик",
+				"description": "После опустошительной войны на планете X воцарился мир. Ни войн, ни конфликтов, только работа и срач в комментариях. Чип, взрывающий бошку при нанесении повреждений другому человеку, и нанороботы, излечивающие любые раны, работали идеально.\nНо люди есть люди, и наш герой в стильных очках решил в тихую посмотреть как обстоят дела на соседней планете Y. В первом же казино просрал все деньги, даже на обратный проезд не осталось (а стоит дофига).\nВ общем, если обращаться к \"своим\" - получишь столько штрафных баллов, что до конца жизнь будешь дворником работать. Но есть вариант быстро поднять бабла: выиграть местный вариант голодных игр. Вот только награды едва хватит, что бы улететь, так что делиться ни с кем нельзя",
+				"image": "twg/13/wrong-planet.png",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "R2wjF305Aq0zwg"
+					},
+					"demo": {
+						"yadisk": "MunE36D3c9gnIw"
+					}
+				}
+			}, {
+				"name": "Shine",
+				"genre": "Adventure & Action",
+				"description": "Беги, убивай, дружи, спасай.",
+				"image": "twg/13/shine.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "QqU53LqfG9WmZw"
+					}
+				}
+			}, {
+				"name": "Конченое Лето",
+				"genre": "Action/Adventure",
+				"description": "Приключение в российской глубинке от первого лица с элементами алко-экшена.\nВ демо доступно: локация, 2 персонажа, перемещение героя.",
+				"image": "twg/13/leto.jpg",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "Y1LkGE6zGAj3Qw"
+					}
+				}
+			}, {
+				"name": "Samozbor: Arena",
+				"genre": "FPS",
+				"description": "Гигахрущ скоро треснет.",
+				"image": "twg/13/samozbor-arena.jpg",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "LJKfJvH7_VchzA"
+					}
+				}
+			}, {
+				"name": "show me your SEREGA",
+				"genre": "Симулятор поезда",
+				"description": "Без проводника у вас ничего не получится",
+				"image": "twg/13/serega.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "tovEgAirYP9udA"
+					}
+				}
+			}, {
+				"name": "Miraggio",
+				"genre": "FPS\\RPG",
+				"description": "Вы - типичный искатель приключений, который должен в очередной раз не облажаться перед нанимателем",
+				"image": "twg/13/miraggio.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "jK_i9qv4dV4d1w"
+					}
+				}
+			}, {
+				"name": "Samozbornaya stanciya",
+				"genre": "Визуальная новелла(на данный момент)",
+				"description": "Кубы сами собираются во множество кубов. Это очень увлекательно. Наверное. Будет. Потом. Когда-нибудь. ИЛИ НЕТ,",
+				"image": "twg/13/samozbornaya-stanciya.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "rjltbXIi3I7naA"
+					}
+				}
+			}, {
+				"name": "Sinistar Unlimited",
+				"genre": "Космическая дрочильня",
+				"description": "Чтобы наладить сотрудничество с астероидами была создана специальная группа вооруженная бластерами ДРУЖБЫ. Однако при близком контакте уровень вашего сотрудничества существенно падает. Короче главная задача тебя и твоего компаньона прожить как можно дольше и суметь СОТРУДНИЧАТЬ как с можно большим количеством астероидов.\nНу а если серьезно, то задача в демке провести мед корабль сквозь астероидное поле, причем дорогу выбираете не вы. :)",
+				"image": "twg/13/sinistar-unlimited.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "av3tlwlE-f7D7w"
+					}
+				}
+			}, {
+				"name": "Deadly Contribution",
+				"genre": "визуальная новелла",
+				"description": "Игры нет. Модели из гугл склада.",
+				"image": "twg/13/deadly-contribution.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "6YcFPMksfGDEyg"
+					}
+				}
+			}, {
+				"name": "gopic",
+				"genre": "Дворовой минимализм",
+				"image": "twg/13/gopic.jpg",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "dBfeiXLeMzHy_A"
+					}
+				}
+			}
+		],
+		"archive": {
+			"final": {
+				"yadisk": "v-S0NYBHdC85rA"
+			},
+			"demo": {
+				"yadisk": "RPvgplRfX_ZAoQ"
+			}
+		}
 	}
 ]

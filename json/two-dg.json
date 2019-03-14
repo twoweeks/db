@@ -93,8 +93,10 @@
 			}
 		],
 		"archive": {
-			"gdrive": "0B5M4fMX1HJxDRHQ0bnNtanBaTGc",
-			"yadisk": "di57tRq1tQrKz"
+			"final": {
+				"gdrive": "0B5M4fMX1HJxDRHQ0bnNtanBaTGc",
+				"yadisk": "di57tRq1tQrKz"
+			}
 		}
 	},
 	{
@@ -236,7 +238,9 @@
 					}
 				},
 				"archive": {
-					"yadisk": "4GiI1Flg3Yz3rM"
+					"final": {
+						"yadisk": "4GiI1Flg3Yz3rM"
+					}
 				}
 			}
 		]
