@@ -3273,6 +3273,12 @@
 					},
 					"demo": {
 						"yadisk": "4c1V0skr3Bsouy"
+					},
+					"store": {
+						"itch": {
+							"user": "game-dynasty",
+							"game": "o4en-volshebnaya-kniga"
+						}
 					}
 				}
 			}, {
@@ -4058,6 +4064,12 @@
 					},
 					"demo": {
 						"yadisk": "phg9YjIr3LwGGU"
+					},
+					"store": {
+						"itch": {
+							"user": "game-dynasty",
+							"game": "obsurity-jam-version"
+						}
 					}
 				}
 			}, {
@@ -4558,6 +4570,12 @@
 				"links": {
 					"final": {
 						"yadisk": "x2RPDKZa3RhgaQ"
+					},
+					"store": {
+						"itch": {
+							"user": "game-dynasty",
+							"game": "obsurity-crystall-of-time-jam"
+						}
 					}
 				}
 			}, {
@@ -4710,6 +4728,12 @@
 					},
 					"demo": {
 						"yadisk": "EzafzIo_Q4Ieyw"
+					},
+					"store": {
+						"itch": {
+							"user": "game-dynasty",
+							"game": "abyss"
+						}
 					}
 				}
 			}, {
@@ -4812,10 +4836,17 @@
 		"games": [
 			{
 				"name": "The Sky",
+				"description": "Это будет маленькое путешествие по летающим островам и другим измерениям!",
 				"status": "win",
 				"links": {
 					"final": {
 						"yadisk": "kLyVknhlybiXyw"
+					},
+					"store": {
+						"itch": {
+							"user": "game-dynasty",
+							"game": "the-sky"
+						}
 					}
 				}
 			}, {
@@ -4955,6 +4986,12 @@
 					},
 					"demo": {
 						"yadisk": "LMdS9dXwVMRuDg"
+					},
+					"store": {
+						"itch": {
+							"user": "game-dynasty",
+							"game": "obsurity"
+						}
 					}
 				}
 			}, {
@@ -5315,6 +5352,12 @@
 					},
 					"demo": {
 						"yadisk": "-3CJ_isjlVBIOg"
+					},
+					"store": {
+						"itch": {
+							"user": "game-dynasty",
+							"game": "fear-and-hate-in-gd"
+						}
 					}
 				}
 			}, {
