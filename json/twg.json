@@ -984,7 +984,10 @@
 		]
 	},
 	{
-		"meta": { "num": 5 },
+		"meta": {
+			"num": 5,
+			"aka": "Reloaded"
+		},
 		"dates": {
 			"start": 1421146800,
 			"end": 1422479400
@@ -1765,6 +1768,7 @@
 						"yadisk": "Sj9DHm8EocuaC"
 					},
 					"store": {
+						"steam": "892500",
 						"gplay": "com.Undervault",
 						"itch": {
 							"user": "angrykid",
@@ -3194,7 +3198,6 @@
 						"yadisk": "IkajU6Xp3EPZeF"
 					},
 					"store": {
-						"steam": "713940",
 						"gamejolt": "blastercop/237878",
 						"itch": {
 							"user": "mr-smoke",
@@ -5007,6 +5010,7 @@
 						"yadisk": "q1AnS4q0W3nKPQ"
 					},
 					"store": {
+						"gamejolt": "archtower/369344",
 						"itch": {
 							"user": "mr-smoke",
 							"game": "archtower"
@@ -5675,5 +5679,114 @@
 				"yadisk": "RPvgplRfX_ZAoQ"
 			}
 		}
+	},
+	{
+		"meta": {
+			"num": 14,
+			"aka": "Rebirth"
+		},
+		"dates": {
+			"start": 0,
+			"end": 0
+		},
+		"themes": [
+			{
+				"name": "Развитие",
+				"description": "Стремительное развитие космической мега-корпорации зла? А может быть, ты хочешь показать, как развиваются волшебно-магические способности колдуна? Или ты хочешь рассказать сюжет о том, как развивалась твоя шизофрения?"
+			}
+		],
+		"site": "https://twgrebirth.blogspot.com",
+		"games": [
+			{
+				"name": "sokobandit",
+				"status": "1",
+				"links": { }
+			}, {
+				"name": "Cube Orgy",
+				"status": "2",
+				"links": { }
+			}, {
+				"name": "DASHERO",
+				"demo_name": "DUSHERO",
+				"status": "3",
+				"links": { }
+			}, {
+				"name": "Проект Хуесос",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "Nacovalipsis",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "DarkNight",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "АЙСИQUE",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "СУПЕР МЕТРОИВДАНИЯ",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "Civilians fall asleep",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "Tiwti",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "Авторазвитие",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "Lovi Lovi - Corporation!",
+				"status": "demo",
+				"links": { }
+			}, {
+				"name": "Nier Together",
+				"status": "demo",
+				"links": { }
+			}, {
+				"name": "dump",
+				"status": "demo",
+				"links": { }
+			}, {
+				"name": "ANIME_EVOLUTION",
+				"status": "demo",
+				"links": { }
+			}, {
+				"name": "Дерьмак 4",
+				"status": "demo",
+				"links": { }
+			}, {
+				"name": "ProjectPerpetuum",
+				"status": "demo",
+				"links": { }
+			}
+		]
+	},
+	{
+		"meta": {
+			"num": 15,
+			"aka": "Together"
+		},
+		"dates": {
+			"start": 0,
+			"end": 0
+		},
+		"themes": [
+			{
+				"name": "Охотник и жертва",
+				"description": "Вы - детектив, который пытается поймать опасного преступника. Или, может быть, вы всегда мечтали стать охотником на монстров, который знает все их повадки и изготавливает хитрейшие ловушки? А может жертва это вы сами? Придумайте план побега или скройтесь от погони.\nВаша игра должна содержать механику охоты/поимки/побега/стелса и всего подобного."
+			}
+		],
+		"fund": "0 рублей",
+		"site": "https://twgrebirth.blogspot.com",
+		"games": []
 	}
+
 ]
