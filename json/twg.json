@@ -5441,6 +5441,22 @@
 					}
 				}
 			}, {
+				"name": "Распидорство 2",
+				"demo_name": "Распидорство",
+				"genre": "Товер Дефенс",
+				"description": "После всемирной котострофы все вымерли, но ананты стали нейромантами и живут в гиперастральном ультранете. Сладкую жизнь им прервал технорасп распространив нанонитов в плоскость фиксации торсионных тел анантов.",
+				"image": "twg/13/rasp.png",
+				"dependencies": "Flash",
+				"status": "final",
+				"links": {
+					"final": {
+						"yadisk": "ue2ffBvm9jeOSA"
+					},
+					"demo": {
+						"yadisk": "rmyC4zyTRbLUjg"
+					}
+				}
+			}, {
 				"name": "Nevalyashka",
 				"genre": "Экшен-адвенчура от 3го лица.",
 				"description": "Помогите спастись космонавту со страшной планеты где исчезает кислород, женщины и здравый смысл! Заводите друзей, используйте их или они используют вас первыми.",
@@ -5686,8 +5702,8 @@
 			"aka": "Rebirth"
 		},
 		"dates": {
-			"start": 0,
-			"end": 0
+			"start": 1564204740,
+			"end": 1565824320
 		},
 		"themes": [
 			{
@@ -5695,7 +5711,7 @@
 				"description": "Стремительное развитие космической мега-корпорации зла? А может быть, ты хочешь показать, как развиваются волшебно-магические способности колдуна? Или ты хочешь рассказать сюжет о том, как развивалась твоя шизофрения?"
 			}
 		],
-		"site": "https://twgrebirth.blogspot.com",
+		"site": "https://twgrebirth.blogspot.ru",
 		"games": [
 			{
 				"name": "sokobandit",
@@ -5775,8 +5791,8 @@
 			"aka": "Together"
 		},
 		"dates": {
-			"start": 0,
-			"end": 0
+			"start": 1577819400,
+			"end": 1579704420
 		},
 		"themes": [
 			{
@@ -5784,9 +5800,79 @@
 				"description": "Вы - детектив, который пытается поймать опасного преступника. Или, может быть, вы всегда мечтали стать охотником на монстров, который знает все их повадки и изготавливает хитрейшие ловушки? А может жертва это вы сами? Придумайте план побега или скройтесь от погони.\nВаша игра должна содержать механику охоты/поимки/побега/стелса и всего подобного."
 			}
 		],
-		"fund": "0 рублей",
-		"site": "https://twgrebirth.blogspot.com",
-		"games": []
+		"fund": "7438 рублей",
+		"site": "https://twgrebirth.blogspot.ru",
+		"games": [
+			{
+				"name": "OhotnikNaMedvedei",
+				"status": "1",
+				"links": { }
+			}, {
+				"name": "TYAN X",
+				"status": "2",
+				"links": { }
+			}, {
+				"name": "OHOTA",
+				"status": "3",
+				"links": { }
+			}, {
+				"name": "BigBadWold",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "Borderline Heartbreak",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "cyberspace-11",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "Elephant",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "Hunt1921",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "Peresvet",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "Rabennest",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "SHUE",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "TheyAreSixMillions",
+				"status": "final",
+				"links": { }
+			}, {
+				"name": "LLL.3.S",
+				"status": "demo",
+				"links": { }
+			}, {
+				"name": "Neulp480",
+				"status": "demo",
+				"links": { }
+			}, {
+				"name": "TWG",
+				"status": "demo",
+				"links": { }
+			}, {
+				"name": "TeeTwo",
+				"status": "demo",
+				"links": { }
+			}, {
+				"name": "EscapeFromDurka",
+				"status": "demo",
+				"links": { }
+			}
+		]
 	}
 
 ]
