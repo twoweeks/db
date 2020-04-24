@@ -600,6 +600,9 @@
 				"image": "twg/2/godspeed.png",
 				"status": "final",
 				"links": {
+					"store": {
+						"gamejolt": "godspeed/362001"
+					},
 					"final": {
 						"gdrive": "0B5M4fMX1HJxDTm4wMUU0SlVYN1k",
 						"yadisk": "LzOdNNH233zZst"
@@ -1007,6 +1010,9 @@
 				"image": "",
 				"status": "1",
 				"links": {
+					"store": {
+						"gamejolt": "in_the_dark/362007"
+					},
 					"final": {
 						"gdrive": "0B5M4fMX1HJxDa3p5V2dxT3IzVEU",
 						"yadisk": "A8CDmXMFyKHjW"
@@ -1194,6 +1200,9 @@
 				"image": "",
 				"status": "1",
 				"links": {
+					"store": {
+						"gamejolt": "supermassive/362020"
+					},
 					"final": {
 						"gdrive": "0B5M4fMX1HJxDek9JcWdSWnFpdVk",
 						"yadisk": "nxgWlVsU37n5cD"
@@ -1783,6 +1792,9 @@
 				"image": "twg/7/megastructure.png",
 				"status": "2",
 				"links": {
+					"store": {
+						"gamejolt": "megastructure/362026"
+					},
 					"final": {
 						"gdrive": "0B5M4fMX1HJxDUC0wNGFjTVA5ZVE",
 						"yadisk": "jmUrRmK1p4oxq"
@@ -2797,6 +2809,9 @@
 				"image": "twg/8/cyberpunk.jpg",
 				"status": "2",
 				"links": {
+					"store": {
+						"gamejolt": "cyberpunk/362015"
+					},
 					"final": {
 						"gdrive": "0B5M4fMX1HJxDcXhkdWd5aXlCNFk",
 						"yadisk": "mutf7zISu5zzV"
@@ -3529,6 +3544,9 @@
 				"image": "twg/9/oasis-awaits.png",
 				"status": "final",
 				"links": {
+					"store": {
+						"gamejolt": "oasis_awaits/362043"
+					},
 					"final": {
 						"gdrive": "0B5M4fMX1HJxDamNqN2VXUFRRSzQ",
 						"yadisk": "ECy74dEE3DQX5k"
@@ -4161,6 +4179,9 @@
 				"image": "twg/10/lightyear.jpg",
 				"status": "final",
 				"links": {
+					"store": {
+						"gamejolt": "lightyear/362036"
+					},
 					"final": {
 						"yadisk": "t_1Zqy1x3LwGt2"
 					},
