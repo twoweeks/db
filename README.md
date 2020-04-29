@@ -6,8 +6,8 @@
 * Two/Two Weeks Game или One Week Game `owg.json` (однонедельный)
 * Three Days Game `three-dg.json` (трёхдневный)
 * Two Days Game `two-dg.json` (двухдневный)
-* Molnija Jam `molnija.json` (конкурс /gd/ и /ruvn/)
 * RUVN Contest `ruvn-contest.json` (конкурс /ruvn/)
+* Molnija Jam `molnija.json` (конкурс /gd/ и /ruvn/)
 * Toxic Jam `toxic.json` (джем [конфы.гд](https://confa.gd))
 
 #### [JSON](https://ru.wikipedia.org/wiki/JSON)-версия
@@ -19,10 +19,10 @@
 
 * Установи [Node.js](https://nodejs.org/en/download/) и [Git](https://git-scm.com/downloads)
 * Создай папку проекта и зайди через терминал/командлайн
-* Введи `git clone https://github.com/twoweeks/db .`, репозиторий скачается тебе в папку
-* Введи `npm install gulp-cli -g` для установки сборщика Gulp в системе и потом `npm install` для установки зависимостей проекта
+* Введи `git clone https://github.com/twoweeks/db .`, репозиторий скачается в текущую директорию
+* Введи `npm install` для установки зависимостей проекта
 * Заполняй руками всё что хочешь поменять, или можешь написать тулзу для заполнения (буду благодарен!)
-* Для сборки минифицированных версий введи `gulp build`, если будут какие-то ошибки, то линтер об этом сообщит
+* Для сборки минифицированных версий введи `npm run build`. Eсли будут какие-то ошибки, то линтер об этом сообщит
 
 ### Лицензия
 
