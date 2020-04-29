@@ -5894,6 +5894,442 @@
 				"links": { }
 			}
 		]
+	}, {
+		"meta": {
+			"num": 16
+		},
+		"dates": {
+			"start": 1577819400,
+			"end": 1579704420
+		},
+		"themes": [
+			{
+				"name": "Мир до — Мир после"
+			}
+		],
+		"fund": "10800 рублей",
+		"site": "https://16.twg.host",
+		"games": [
+			{
+				"name": "Homeward",
+				"genre": "Адвенчура",
+				"description": "Ностальгические путешествие домой.",
+				"tools": "Unity, 3DsMax, Audacity",
+				"image": "twg/16/homeward.png",
+				"status": "1",
+				"links": {
+					"demo": {
+						"yadisk": "ScKP9I8Vxj_kKw"
+					},
+					"final": {
+						"yadisk": "Sz9ArgiBk7FI3w"
+					}
+				}
+			}, {
+				"name": "The Cold Night",
+				"genre": "Шутер с элементами хоррора",
+				"description": "Сюжетный топ-даун шутер с элементами хоррора. Главный герой сычуя на карантине случайно слышит интересное сообщение по радио, и решает наконец выйти на улицу...",
+				"tools": "Unity, Aseprite",
+				"image": "twg/16/the-cold-night.png",
+				"status": "2",
+				"links": {
+					"demo": {
+						"yadisk": "rV6tnkkg09HyVw"
+					},
+					"final": {
+						"yadisk": "w-Z5Qozhpwl0sQ"
+					}
+				}
+			}, {
+				"name": "Карантин Бой",
+				"genre": "Стелс",
+				"description": "Игра про черного курьера в непростое время карантина.",
+				"tools": "Unity, Photoshop",
+				"image": "twg/16/quarantine-boy.png",
+				"status": "3",
+				"links": {
+					"demo": {
+						"yadisk": "Ek_70V3bzrWjog"
+					},
+					"final": {
+						"yadisk": "6V6pnHo_hJZJSA"
+					}
+				}
+			}, {
+				"name": "The Moment",
+				"genre": "Casual, City Builder",
+				"description": "Минималистичный сити билдер повествующий о постройке городов на планетах.",
+				"tools": "Unity, Paint.NET, Blender",
+				"image": "twg/16/the-moment.png",
+				"status": "3",
+				"links": {
+					"demo": {
+						"yadisk": "oVPAzWfbszaRnA"
+					},
+					"final": {
+						"yadisk": "BN2PzT6UvYfFpw"
+					}
+				}
+			}, {
+				"name": "Flying Kek",
+				"genre": "Леталка",
+				"description": "Игра про полёты и решение головоломок между двумя временными слоями мира.",
+				"tools": "UE4, Blender, Megascans, Quixel Mixer",
+				"image": "twg/16/flying-kek.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "mnwZqGevk_vbcA"
+					},
+					"final": {
+						"yadisk": "5R0vF3ifpSTV3w"
+					}
+				}
+			}, {
+				"name": "Я остался один без припасов в городе, охваченном пандемией",
+				"description": "Видели ли вы вращающийся куб с эмблемой DirectX на его гранях?",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "cym-WdoSYR2umw"
+					},
+					"final": {
+						"yadisk": "yyhTUGd0_RzYaA"
+					}
+				}
+			}, {
+				"name": "Melted",
+				"demo_name": "The World After Melt",
+				"genre": "survival arcade",
+				"description": "В мире, покрытом водой, ты владелец единственного уцелевшего корабля. Твоя задача спасти переживших потоп и доставить до единственного оставшегося островка суши.",
+				"tools": "Unity, Blender, Photoshop, BFXR, Audacity",
+				"image": "twg/16/melted.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "dbEginnL4HrEQw"
+					},
+					"final": {
+						"yadisk": "BN2PzT6UvYfFpw"
+					}
+				}
+			}, {
+				"name": "Сагатель",
+				"genre": "Топдаун",
+				"description": "Шел 2020 год. Кеки заполонили двачи. Ты не смог смириться с этим и решил сократить их популяцию дабы вернуть свой старый мир.",
+				"tools": "Юнити, Блендер",
+				"image": "twg/16/sagatel.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "IJt3I5hmnM-GNg"
+					},
+					"final": {
+						"yadisk": "UgN4nndeFgs7mA"
+					}
+				}
+			}, {
+				"name": "Охота 2 Крепкая",
+				"genre": "Адвенчура",
+				"description": "Когда пораженная стрелой птица зари, падая, обронила пламенный гриб, мир изменился. Но это было давно. А пока сходи наруби дров.",
+				"tools": "Unity, Photoshop",
+				"image": "twg/16/hunt-2.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "6DtdoXiN6zapDA"
+					},
+					"final": {
+						"yadisk": "Nhz1K6sI4Jbugw"
+					}
+				}
+			}, {
+				"name": "After You 2000",
+				"genre": "Платформер-адвенчура",
+				"description": "Игра об игровом мире после игрока.",
+				"tools": "Construct 2, Blender, Paint.net, OpenShot Video Editor, XMedia Recode, GIMP",
+				"image": "twg/16/after-you-2000.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "K3cSMcrTGI40SA"
+					},
+					"final": {
+						"yadisk": "2eSQdIHAllwl_A"
+					}
+				}
+			}, {
+				"name": "DejaVu",
+				"demo_name": "Apathy",
+				"genre": "Квест/платформер",
+				"description": "Из глубин памяти офисного работника постепенно всплывает нечто тёмное, и он узнаёт, что мир когда-то был совершенно другим...",
+				"tools": "Adobe Photoshop, Construct 2",
+				"image": "twg/16/apathy.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "ADrU-sBSUExIoA"
+					},
+					"final": {
+						"yadisk": "5bU6_Gvm-yLP1g"
+					}
+				}
+			}, {
+				"name": "котлован",
+				"genre": "пошаговая стратегия с элементами карточной игры",
+				"description": "спустись в котлован",
+				"tools": "unity",
+				"image": "twg/16/pit.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "0cw_ZM2n_aXdYw"
+					},
+					"final": {
+						"yadisk": "LY0EqNKaY-oWyg"
+					}
+				}
+			}, {
+				"name": "Культ Молчания: Дмитрий",
+				"demo_name": "Дмитрий",
+				"genre": "Визуальная новелла",
+				"description": "Что может гореть ярче огня ненависти в тени надвигающегося катаклизма?",
+				"tools": "Ren'Py",
+				"image": "twg/16/dmitry.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "tqbaDAh7qARVKg"
+					},
+					"final": {
+						"yadisk": "b_wKjDu2ebuyCg"
+					}
+				}
+			}, {
+				"name": "Survival tactics",
+				"genre": "Тактика, выживание",
+				"description": "Пользователь управляет выжившими в зомби апокалипсисе. Нужно собрать все что можно и уйти с локации.",
+				"tools": "Unreal Engine 4, Blender, Photoshop",
+				"image": "twg/16/survival-tactics.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "z91rtl-V-v2mLQ"
+					},
+					"final": {
+						"yadisk": "Yz6uVPlQSXIuGQ"
+					}
+				}
+			}, {
+				"name": "РПГ Моей Мечты",
+				"genre": "Симулятор давителя тараканов",
+				"description": "Можно ходить по подземелью и давить тараканов.",
+				"tools": "Unity, gimp, sfxr",
+				"image": "twg/16/rpg-dream.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "Rs_AQ1we9kPo2g"
+					},
+					"final": {
+						"yadisk": "xvAxRWAjtDlpAw"
+					}
+				}
+			}, {
+				"name": "Two Weeks Later",
+				"genre": "Зомби Шутер",
+				"description": "2D зомби шутер с прокачкой и режимом выживания.",
+				"tools": "Unity, Paint.NET",
+				"image": "twg/16/two-weeks-later.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "_5TDxjKkXMjEcw"
+					},
+					"final": {
+						"yadisk": "UK9XVIiIILqyBA"
+					}
+				}
+			}, {
+				"name": "СВиБ.ORG",
+				"genre": "Квестовелла",
+				"description": "Расследование что произошло до Катастрофы, почему Мир стал Иным.",
+				"tools": "Конструхтер2",
+				"image": "twg/16/svib-org.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "cenDZ914HBOuKA"
+					},
+					"final": {
+						"yadisk": "5JRvEu3xEDsVGQ"
+					}
+				}
+			}, {
+				"name": "Мистер Твигль",
+				"genre": "Корования с элементами",
+				"description": "Мистер Твигль отправляется в поездку, которая навсегда изменит его и ВЕСЬ МИР!",
+				"tools": "Godot, Krita, OpenGameArt",
+				"image": "twg/16/twiggle.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "dDbiaIXb4D3Dcw"
+					},
+					"final": {
+						"yadisk": "vr2TEHdVfBWMdQ"
+					}
+				}
+			}, {
+				"name": "Ковид19",
+				"genre": "платформер",
+				"description": "Бродилка, леталка, на планете Ковид19",
+				"tools": "Construct, LMMS, Aseprite, Sfxr",
+				"image": "twg/16/kovid.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "zjq1toWn0yi3sA"
+					},
+					"final": {
+						"yadisk": "j8T4llBtlfgopg"
+					}
+				}
+			}, {
+				"name": "Сatocalypse",
+				"description": "Игра про котика Уголька",
+				"tools": "Unity, Aseprite",
+				"image": "twg/16/catocalypse.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "YoNYUx77mQfRKw"
+					},
+					"final": {
+						"yadisk": "hXAdNOE-XfUUTg"
+					}
+				}
+			}, {
+				"name": "The Detective In Explorer",
+				"demo_name": "Explorer Land",
+				"genre": "квест",
+				"description": "Вы - детектив Джеймс. Вас нанял мастер из магазаина деревянных лошадей для странного задания.",
+				"image": "twg/16/the-detective-in-explorer.png",
+				"status": "final",
+				"links": {
+					"demo": {
+						"yadisk": "9tzI5I_5tZjHsg"
+					},
+					"final": {
+						"yadisk": "vYTmU_RehpzU4A"
+					},
+					"updated": {
+						"yadisk": "rYSSjTweBsl76Q"
+					}
+				}
+			}, {
+				"name": "Самобор",
+				"genre": "Адвенчура",
+				"description": "Вы играете не эльфом. Но лесные деревья набигать будут. Суть в том что бы выжить в лесном бору. И пережить каждый самобор. А вот что такое самобор вы узнаете позже.=)",
+				"tools": "Unity",
+				"image": "twg/16/samobor.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "uU6EF539oyhIoQ"
+					}
+				}
+			}, {
+				"name": "Юми.",
+				"genre": "адвенчура",
+				"description": "Тянка (зовут Юми) натренировалась в храме и начался конец света устроенный ее сестрой которая натренировалась раньше и надо убить ее, но сначала придется убить ее воинов.",
+				"tools": "Gamemaker Studio 2, Aseprite",
+				"image": "twg/16/yumi.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "vSbC4xe-VCf8dw"
+					}
+				}
+			}, {
+				"name": "ExExEx2020",
+				"genre": "Sandbox",
+				"tools": "Godot",
+				"image": "twg/16/exexex-2020.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "3Soy1Mc_JNTHjQ"
+					}
+				}
+			}, {
+				"name": "6Y9b_nJIOXNM_nAPHEM",
+				"genre": "3D Action",
+				"tools": "CraftStudio",
+				"image": "twg/16/paren.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "MR2GwQjW8i4A8A"
+					}
+				}
+			}, {
+				"name": "Геи капиталисты из открытого космоса",
+				"genre": "Комедия наблюдения, а потом топ даун",
+				"description": "Действие игры происходит на далёкой далёкой планете, на которую напали геи капиталисты из открытого космоса. В игре предстоит путешествовать по миру до и миру после нападения, чтобы победить",
+				"tools": "paint.net",
+				"image": "twg/16/gays-from-outer-space.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "bO_jIVdl0UYePA"
+					}
+				}
+			}, {
+				"name": "My Sweet Asylum 2",
+				"genre": "Immersive Sim",
+				"description": "Главный герой снова попадает в психиатрическую больницу, на этот раз с более строгим режимом. Что его ждет теперь? Получится ли у него выбраться?",
+				"tools": "Unity, Blender, Photoshop, Audacity",
+				"image": "twg/16/my-sweet-asylum-2.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "V01KdwEzjvdnjA"
+					}
+				}
+			}, {
+				"name": "С закрытыми глазами",
+				"genre": "Квест",
+				"description": "Спустя много лет после того, как бог потерял глаз и мир начал рушиться. Вам предстоит, имея возможность синхронизироваться со своим прошлым, до катастрофы, вернуть богу его око",
+				"tools": "Godot, Aseprite",
+				"image": "twg/16/eye-closed.png",
+				"status": "demo",
+				"links": {
+					"demo": {
+						"yadisk": "0kMAkpUCxGpPkg"
+					}
+				}
+			}, {
+				"name": "maskmaker",
+				"genre": "Кликер",
+				"description": "Игра про завод шьющий маски",
+				"tools": "game maker 2",
+				"image": "twg/16/maskmaker.png",
+				"status": "disqualified",
+				"links": {
+					"demo": {
+						"yadisk": "TB2buMZlpT3ccA"
+					}
+				}
+			}
+		],
+		"archive": {
+			"demo": {
+				"yadisk": "sBzzrQtvLhYg5w"
+			},
+			"final": {
+				"yadisk": "BUwuzR0SM9icYA"
+			}
+		}
 	}
-
 ]
