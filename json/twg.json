@@ -1909,9 +1909,6 @@
 					"demo": {
 						"yadisk": "VwBA8MnQocEVd"
 					},
-					"store": {
-						"gplay": "com.videoatrocity.projrasp"
-					},
 					"ost": {
 						"soundcloud": "pr-rasp/sets/part-1"
 					}
@@ -5899,13 +5896,11 @@
 			"num": 16
 		},
 		"dates": {
-			"start": 1577819400,
-			"end": 1579704420
+			"start": 1586336400,
+			"end": 1587978000
 		},
 		"themes": [
-			{
-				"name": "Мир до — Мир после"
-			}
+			{ "name": "Мир до — Мир после" }
 		],
 		"fund": "10800 рублей",
 		"site": "https://16.twg.host",
