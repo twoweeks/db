@@ -14,7 +14,7 @@
 	},
 	"homepage": "https://github.com/twoweeks/db",
 	"dependencies": {
-		"json-min-max": "^1.0.0",
-		"jsonlint": "^1.6.3"
+		"json-min-max": "1.0.0",
+		"jsonlint": "1.6.3"
 	}
 }
