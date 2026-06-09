@@ -1,0 +1,388 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"$id": "https://github.com/twoweeks/db/blob/master/schema.json",
+	"title": "Game Jam Database",
+	"description": "A game jam database grouped under a jams array.",
+	"type": "object",
+	"properties": {
+		"$schema": {
+			"anyOf": [{ "type": "string" }, { "type": "string", "format": "uri" }]
+		},
+		"jams": {
+			"description": "Game jam contests.",
+			"type": "array",
+			"items": {
+				"$ref": "#/$defs/contest"
+			}
+		}
+	},
+	"additionalProperties": false,
+	"required": ["$schema", "jams"],
+	"$defs": {
+		"achievement": {
+			"description": "A contest achievement or nomination.",
+			"type": "object",
+			"properties": {
+				"name": {
+					"description": "The achievement name.",
+					"type": "string"
+				},
+				"description": {
+					"description": "The achievement description.",
+					"type": "string"
+				},
+				"gift": {
+					"description": "The prize or gift for the achievement.",
+					"type": "string"
+				},
+				"winner": {
+					"description": "The game that won the achievement.",
+					"type": "string"
+				}
+			},
+			"additionalProperties": false,
+			"required": ["name"]
+		},
+		"contest": {
+			"description": "A single contest.",
+			"type": "object",
+			"properties": {
+				"meta": {
+					"$ref": "#/$defs/meta"
+				},
+				"dates": {
+					"$ref": "#/$defs/dates"
+				},
+				"themes": {
+					"description": "Contest themes.",
+					"type": "array",
+					"items": {
+						"$ref": "#/$defs/theme"
+					}
+				},
+				"settings": {
+					"description": "Contest settings.",
+					"type": "array",
+					"items": {
+						"$ref": "#/$defs/setting"
+					}
+				},
+				"achievements": {
+					"description": "Contest achievements or nominations.",
+					"type": "array",
+					"items": {
+						"$ref": "#/$defs/achievement"
+					}
+				},
+				"fund": {
+					"description": "The contest prize fund.",
+					"type": "string"
+				},
+				"site": {
+					"description": "The contest website or blog.",
+					"type": "string"
+				},
+				"note": {
+					"description": "Contest notes or description.",
+					"type": "string"
+				},
+				"games": {
+					"description": "Games submitted to the contest.",
+					"type": "array",
+					"items": {
+						"$ref": "#/$defs/game"
+					}
+				},
+				"archive": {
+					"description": "Contest archive links. Uses the same stage link structure as game links.",
+					"$ref": "#/$defs/stageLinks"
+				}
+			},
+			"additionalProperties": false,
+			"required": ["meta", "dates", "themes", "games"]
+		},
+		"dates": {
+			"description": "Approximate contest dates.",
+			"type": "object",
+			"properties": {
+				"start": {
+					"description": "Approximate Unix timestamp for the contest start, usually the theme announcement time.",
+					"type": "number"
+				},
+				"end": {
+					"description": "Approximate Unix timestamp for the contest end, final submission time, or results announcement time.",
+					"type": "number"
+				}
+			},
+			"additionalProperties": false,
+			"required": ["start", "end"]
+		},
+		"downloadLinks": {
+			"description": "Download or web links for a specific game stage.",
+			"type": "object",
+			"properties": {
+				"gdrive": {
+					"description": "Google Drive file ID from drive.google.com/open?id=ID.",
+					"type": "string"
+				},
+				"yadisk": {
+					"description": "Yandex Disk file ID from yadi.sk/d/ID.",
+					"type": "string"
+				},
+				"web": {
+					"description": "A web version or website URL for the game.",
+					"type": "string"
+				}
+			},
+			"additionalProperties": false
+		},
+		"game": {
+			"description": "A game submitted to a contest.",
+			"type": "object",
+			"properties": {
+				"name": {
+					"description": "The game title.",
+					"type": "string"
+				},
+				"demo_name": {
+					"description": "The game title used during the demo stage.",
+					"type": "string"
+				},
+				"genre": {
+					"description": "The game genre or genres.",
+					"type": "string"
+				},
+				"description": {
+					"description": "The game description.",
+					"type": "string"
+				},
+				"tools": {
+					"description": "Tools used to create the game.",
+					"type": "string"
+				},
+				"image": {
+					"description": "Relative path to a screenshot or logo. The current host is https://cdn.blyat.science/gd/.",
+					"type": "string"
+				},
+				"dependencies": {
+					"description": "Runtime dependencies required by the game, such as Flash or Java.",
+					"type": "string"
+				},
+				"status": {
+					"description": "The game result or submission state. Typical values are a place number from 1 to 3, win, final, demo, updated, or disqualified.",
+					"type": "string"
+				},
+				"links": {
+					"description": "Links related to the game.",
+					"$ref": "#/$defs/gameLinks"
+				},
+				"note": {
+					"description": "Game notes.",
+					"type": "string"
+				},
+				"repeat": {
+					"description": "The repeated stage for games that appear in parallel contests, such as demo or final.",
+					"type": "string"
+				}
+			},
+			"additionalProperties": false,
+			"required": ["name"]
+		},
+		"gameLinks": {
+			"description": "Links grouped by game stage, source, store, and soundtrack.",
+			"type": "object",
+			"properties": {
+				"demo": {
+					"$ref": "#/$defs/downloadLinks"
+				},
+				"demo_updated": {
+					"$ref": "#/$defs/downloadLinks"
+				},
+				"final": {
+					"$ref": "#/$defs/downloadLinks"
+				},
+				"updated": {
+					"$ref": "#/$defs/downloadLinks"
+				},
+				"dlc": {
+					"$ref": "#/$defs/downloadLinks"
+				},
+				"site": {
+					"description": "A general web version or website URL for the game.",
+					"type": "string"
+				},
+				"source": {
+					"$ref": "#/$defs/sourceLinks"
+				},
+				"store": {
+					"$ref": "#/$defs/storeLinks"
+				},
+				"ost": {
+					"$ref": "#/$defs/soundtrackLinks"
+				}
+			},
+			"additionalProperties": false
+		},
+		"meta": {
+			"description": "Contest metadata.",
+			"type": "object",
+			"properties": {
+				"num": {
+					"description": "The contest number.",
+					"type": "number"
+				},
+				"aka": {
+					"description": "The contest self-designated name.",
+					"type": "string"
+				},
+				"edition": {
+					"description": "The contest edition, used when multiple contests share one number.",
+					"type": "string"
+				}
+			},
+			"additionalProperties": false,
+			"required": ["num"]
+		},
+		"setting": {
+			"description": "A contest setting.",
+			"type": "object",
+			"properties": {
+				"name": {
+					"description": "The setting name.",
+					"type": "string"
+				},
+				"description": {
+					"description": "The setting description.",
+					"type": "string"
+				}
+			},
+			"additionalProperties": false,
+			"required": ["name", "description"]
+		},
+		"sourceLinks": {
+			"description": "Game source code links.",
+			"type": "object",
+			"properties": {
+				"repo": {
+					"description": "Source code repositories.",
+					"type": "object",
+					"properties": {
+						"github": {
+							"description": "GitHub repository ID from github.com/ID.",
+							"type": "string"
+						},
+						"bitbucket": {
+							"description": "Bitbucket repository ID from bitbucket.org/ID.",
+							"type": "string"
+						}
+					},
+					"additionalProperties": false
+				},
+				"link": {
+					"description": "A direct source code link.",
+					"type": "string"
+				}
+			},
+			"additionalProperties": false
+		},
+		"soundtrackLinks": {
+			"description": "Game soundtrack links.",
+			"type": "object",
+			"properties": {
+				"soundcloud": {
+					"description": "SoundCloud soundtrack ID from soundcloud.com/ID.",
+					"type": "string"
+				}
+			},
+			"additionalProperties": false
+		},
+		"stageLinks": {
+			"description": "Links grouped by release stage.",
+			"type": "object",
+			"properties": {
+				"demo": {
+					"$ref": "#/$defs/downloadLinks"
+				},
+				"demo_updated": {
+					"$ref": "#/$defs/downloadLinks"
+				},
+				"final": {
+					"$ref": "#/$defs/downloadLinks"
+				},
+				"updated": {
+					"$ref": "#/$defs/downloadLinks"
+				},
+				"dlc": {
+					"$ref": "#/$defs/downloadLinks"
+				}
+			},
+			"additionalProperties": false
+		},
+		"storeLinks": {
+			"description": "Game store links.",
+			"type": "object",
+			"properties": {
+				"steam": {
+					"description": "Steam app ID from store.steampowered.com/app/ID.",
+					"type": "string"
+				},
+				"gplay": {
+					"description": "Google Play package ID from play.google.com/store/apps/details?id=ID.",
+					"type": "string"
+				},
+				"itunes": {
+					"description": "App Store app ID from itunes.apple.com/app/idID.",
+					"type": "string"
+				},
+				"gamejolt": {
+					"description": "Game Jolt game ID from gamejolt.com/games/ID.",
+					"type": "string"
+				},
+				"itch": {
+					"description": "itch.io game coordinates in the user.itch.io/game format.",
+					"type": "object",
+					"properties": {
+						"user": {
+							"description": "itch.io user ID.",
+							"type": "string"
+						},
+						"game": {
+							"description": "itch.io game ID.",
+							"type": "string"
+						}
+					},
+					"additionalProperties": false,
+					"required": ["user", "game"]
+				}
+			},
+			"additionalProperties": false
+		},
+		"theme": {
+			"description": "A contest theme.",
+			"type": "object",
+			"properties": {
+				"name": {
+					"description": "The theme name.",
+					"type": "string"
+				},
+				"description": {
+					"description": "The theme description.",
+					"type": "string"
+				},
+				"condition": {
+					"description": "Conditions for matching the theme",
+					"type": "string"
+				},
+				"examples": {
+					"description": "Example games for the theme.",
+					"type": "array",
+					"items": {
+						"type": "string"
+					}
+				}
+			},
+			"additionalProperties": false,
+			"required": ["name"]
+		}
+	}
+}
